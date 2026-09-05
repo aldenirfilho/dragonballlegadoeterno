@@ -14,8 +14,15 @@ Uma enciclopédia independente de fãs em português brasileiro. Histórias, per
 - Notícias com fonte primária, data de publicação e território de lançamento.
 - Galeria de fan arts geradas por IA, acompanhadas de prompts e créditos.
 - Busca, filtros, texto ampliado e páginas legíveis sem JavaScript.
+- Aplicativo web instalável com ícone próprio para macOS, Windows, iOS/iPadOS e Android; leitura offline após salvamento.
 
 O corte editorial inicial é **05/09/2026**. O acervo é expansível, não exaustivo. O número real de itens consta em `dist/build-info.json` depois da compilação.
+
+## Instalar como aplicativo
+
+Abra [Instalar aplicativo](https://aldenirfilho.github.io/dragonballlegadoeterno/instalar.html) no navegador do seu dispositivo e siga as instruções. O botão de instalação direta aparece quando o navegador oferece esse recurso. No Safari, use Adicionar ao Dock (macOS Sonoma 14+) ou Adicionar à Tela de Início (iPhone/iPad).
+
+A primeira instalação do service worker tenta salvar a enciclopédia e suas ilustrações. Aguarde a confirmação na página antes de desconectar. Notícias offline preservam as datas da edição salva; fontes externas precisam de internet. O sistema pode remover o cache; a página detecta cópia incompleta e os recursos visitados online voltam a ser salvos. Consulte [operação do aplicativo](docs/APLICATIVO.md) e [ícone e prompt](docs/ICONE.md).
 
 ## Rodar localmente
 

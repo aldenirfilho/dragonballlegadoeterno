@@ -7,6 +7,7 @@ const types = {
   ".css": "text/css",
   ".js": "text/javascript",
   ".json": "application/json",
+  ".webmanifest": "application/manifest+json",
   ".webp": "image/webp",
   ".png": "image/png",
   ".jpg": "image/jpeg",

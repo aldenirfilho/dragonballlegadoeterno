@@ -12,6 +12,26 @@
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
 }
+.install-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; }
+.install-intro { position: sticky; top: 120px; }
+.app-icon { border-radius: 28px; margin-bottom: 28px; }
+.install-card { padding: 24px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--panel); margin: 20px 0; }
+.install-card h3 { margin: 8px 0; }
+.install-card li { padding-left: 5px; margin-bottom: 10px; }
+.install-card summary { cursor: pointer; font-weight: bold; }
+.offline-notice, .update-notice { text-align: center; background: var(--panel2); }
+.offline-notice { padding: 12px 24px; color: var(--gold); font-size: .875rem; }
+.update-notice .button { margin: 12px; }
+@media (max-width: 1100px) {
+  .head-inner { gap: 16px; flex-wrap: wrap; }
+}
+@media (max-width: 800px) {
+  .install-layout { grid-template-columns: 1fr; gap: 24px; }
+  .install-intro { position: static; }
+}
+@media (max-width: 480px) {
+  .app-icon { width: 120px; height: 120px; }
+}
 * {
   box-sizing: border-box;
 }
@@ -1255,3 +1275,5 @@ dialog h2 {
   margin-top: 26px;
 }
 @media(max-width:560px){.hero-art{object-position:82% center}}
+
+@media (max-width: 850px) { .navigation { top: 100%; } }

@@ -37,3 +37,13 @@ Não houve teste interativo do site em navegador nem homologação visual humana
 A verificação factual foi amostral. Os links apontam para referências primárias, mas nem todos foram auditados por HTTP nesta entrega; algumas páginas da Toei retornaram bloqueio ao acesso direto durante pesquisa, com conteúdo oficial disponível no índice de busca. Ilustrações são fan arts geradas por IA, sujeitas a diferenças em relação aos desenhos oficiais.
 
 O resultado de publicação deve ser conferido no histórico do GitHub Actions e na versão correspondente da hospedagem. Um teste local ou HTTP 200 não representa revisão humana integral.
+
+## Aplicativo web — 05/09/2026, versão 1.1.0
+
+- Build: concluído com 45 páginas e 72 recursos na lista offline.
+- `npm test`: 19 testes passaram (11 anteriores e 8 de PWA).
+- `npm run audit:content`: catálogo sem problemas estruturais.
+- `git diff --check`: sem erros de whitespace.
+- Ícones: PNGs com dimensões verificadas; ícone de 512 pixels inspecionado visualmente.
+- Revisão independente encontrou fallback relativo em URL aninhada e cache removido não recomposto; ambos corrigidos com testes de regressão.
+- Homologação manual em macOS, Windows, iOS/iPadOS e Android permanece pendente. Não foi executado teste de interface no navegador nesta entrega.
