@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Oozaru — Grande Macaco",
+    "context": "Dragon Ball e Dragon Ball Z • herança saiyajin",
+    "description": "A cauda e a luz da lua cheia estão ligadas à transformação dos saiyajins em grandes macacos. Goku e Gohan revelam esse poder ainda crianças; Vegeta o utiliza durante a invasão da Terra.",
+    "limit": "A perda da cauda pode desfazer a transformação. Goku e Gohan nem sempre mantêm o controle de suas ações.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_1178.html",
+      "https://en.dragon-ball-official.com/news/01_3864.html"
+    ]
+  },
+  {
+    "name": "Super Saiyajin",
+    "context": "Mangá Dragon Ball e anime Z • confronto com Freeza",
+    "description": "A morte de Kuririn diante de Goku desencadeia seu primeiro despertar como Super Saiyajin em Namekusei. O cabelo e a aura dourados tornam visível uma virada decisiva da batalha.",
+    "limit": "A forma não substitui treinamento e controle. O despertar de Goku não estabelece uma regra emocional única para todos os saiyajins.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_539.html",
+      "https://en.dragon-ball-official.com/news/01_3864.html"
+    ]
+  },
+  {
+    "name": "Super Saiyajin 2",
+    "context": "Mangá Dragon Ball e anime Z • Jogos de Cell",
+    "description": "Gohan ultrapassa o Super Saiyajin após a destruição do Androide 16. A energia com descargas elétricas marca uma das imagens centrais de seu confronto com Cell.",
+    "limit": "É distinto do potencial liberado de Gohan e de Beast. O número do nome não deve virar uma escala universal entre personagens.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_992.html",
+      "https://en.dragon-ball-official.com/news/01_3484.html"
+    ]
+  },
+  {
+    "name": "Super Saiyajin 3",
+    "context": "Mangá Dragon Ball e anime Z • saga de Majin Boo; também aparece em outras produções",
+    "description": "Goku apresenta a forma ao enfrentar Majin Boo: cabelo muito longo e ausência de sobrancelhas compõem seu visual. A transformação oferece grande potência, mas cobra energia rapidamente.",
+    "limit": "O desgaste consome parte do tempo que Goku pode permanecer na Terra durante seu retorno temporário do Outro Mundo.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_970.html",
+      "https://en.dragon-ball-official.com/news/01_3878.html"
+    ]
+  },
+  {
+    "name": "Super Saiyajin God",
+    "context": "A Batalha dos Deuses e versões de Dragon Ball Super",
+    "description": "Goku alcança esse poder com a ajuda de Vegeta, Gohan e outros saiyajins para enfrentar Beerus. A forma introduz uma nova dimensão do combate, ligada ao poder divino.",
+    "limit": "A transformação não torna Goku invencível: ele perde o confronto com Beerus no filme. Os detalhes variam entre filme e adaptação.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_1663.html",
+      "https://en.dragon-ball-official.com/news/01_689.html"
+    ]
+  },
+  {
+    "name": "Super Saiyajin Blue",
+    "context": "O Renascimento de Freeza e Dragon Ball Super",
+    "description": "Também chamado Super Saiyan God Super Saiyan, combina o poder de Super Saiyajin God com a transformação em Super Saiyajin. Goku e Vegeta apresentam cabelo e olhos azuis.",
+    "limit": "Blue e Instinto Superior são conceitos diferentes. As habilidades e os percentuais de jogos não medem a força das versões do anime ou mangá.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_971.html"
+    ]
+  },
+  {
+    "name": "Instinto Superior",
+    "context": "Dragon Ball Super • anime e mangá, com desenvolvimentos próprios",
+    "description": "O corpo reage aos ataques de modo automático. Goku manifesta o estado Sinal e avança no domínio da técnica; no mangá, seu treinamento continua nos arcos de Moro e Granolah.",
+    "limit": "O estado Sinal é instável e breve. O domínio exige aperfeiçoamento e não elimina todos os limites físicos do usuário.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_970.html",
+      "https://en.dragon-ball-official.com/news/01_900.html"
+    ]
+  },
+  {
+    "name": "Ultra Ego",
+    "context": "Mangá Dragon Ball Super • arco de Granolah",
+    "description": "Vegeta desenvolve a transformação após treinar com Beerus, utilizando o poder da Destruição. A forma expressa seu próprio caminho de combate, diferente do treinamento de Goku.",
+    "limit": "Não garante vitória: Granolah consegue superar Vegeta. Não apresentar como transformação já exibida na série de TV Super de 2015–2018.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_1331.html",
+      "https://en.dragon-ball-official.com/news/01_900.html"
+    ]
+  },
+  {
+    "name": "Gohan Beast",
+    "context": "Dragon Ball Super: Super Hero e adaptação no mangá Super",
+    "description": "Ao ver Piccolo em perigo contra Cell Max, Gohan desperta uma nova forma. O episódio retoma o tema de seu potencial latente e do vínculo com seu primeiro mestre.",
+    "limit": "As fontes não estabelecem um multiplicador numérico. Não reduzir Beast a outro nome para Super Saiyajin 2 ou declarar um ranking definitivo.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_1870.html",
+      "https://en.dragon-ball-official.com/news/01_2330.html",
+      "https://en.dragon-ball-official.com/news/01_3370.html"
+    ]
+  },
+  {
+    "name": "Orange Piccolo",
+    "context": "Dragon Ball Super: Super Hero e adaptação no mangá Super",
+    "description": "Piccolo pede a Shenlong que libere seu potencial e recebe um acréscimo que se manifesta na transformação Orange. Contra Cell Max, ele também usa sua técnica de gigantificação.",
+    "limit": "Orange e gigantificação são recursos distintos. A transformação não encerra sozinha a luta contra Cell Max; a cooperação continua decisiva.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_2330.html"
+    ]
+  },
+  {
+    "name": "Super Saiyajin 4 — GT e DAIMA",
+    "context": "Duas apresentações que devem ser identificadas pela obra",
+    "description": "Em GT, Goku recupera a razão com a ajuda de Pan depois de virar Oozaru dourado e alcança o Super Saiyajin 4. DAIMA apresenta sua própria versão, oficialmente identificada como Super Saiyan 4 Goku — DAIMA, no confronto com Gomah.",
+    "limit": "O nome compartilhado não prova uma origem idêntica, uma cronologia unificada ou equivalência de poder entre GT e DAIMA.",
+    "sources": [
+      "https://lineup.toei-anim.co.jp/ja/tv/dragongt/episode/34/",
+      "https://en.dragon-ball-official.com/news/01_3980.html",
+      "https://en.dragon-ball-official.com/news/01_3289.html"
+    ]
+  },
+  {
+    "name": "Fusão — dança e brincos Potara",
+    "context": "Técnicas de combinação entre dois personagens",
+    "description": "A dança da fusão exige movimentos coordenados e cria guerreiros como Gotenks e Gogeta. Os brincos Potara formam Vegito a partir de Goku e Vegeta. São métodos diferentes de reunir dois combatentes.",
+    "limit": "A dança tem duração limitada e pode falhar na execução. As regras dos Potara dependem do contexto; não aplicar automaticamente o mesmo tempo a todos os casos.",
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_2255.html",
+      "https://en.dragon-ball-official.com/news/01_971.html",
+      "https://lineup.toei-anim.co.jp/en/movie/movie_doragonball_fusion/",
+      "https://en.dragon-ball-official.com/news/01_1908.html"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+name: Correção com fonte
+description: Ajude a corrigir um verbete ou anúncio.
+title: "[Correção] "
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página ou personagem
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Trecho atual e correção proposta
+    validations:
+      required: true
+  - type: textarea
+    id: fonte
+    attributes:
+      label: Fonte e contexto (capítulo, episódio, filme ou anúncio oficial)
+    validations:
+      required: true

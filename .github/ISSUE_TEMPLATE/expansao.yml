@@ -1,0 +1,16 @@
+name: Expansão do acervo
+description: Proponha um personagem, tema ou ilustração.
+title: "[Acervo] "
+body:
+  - type: textarea
+    id: proposta
+    attributes:
+      label: O que deseja acrescentar e por que ajuda o leitor?
+    validations:
+      required: true
+  - type: textarea
+    id: referencias
+    attributes:
+      label: Referências disponíveis e continuidade
+    validations:
+      required: true

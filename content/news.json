@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-09-05",
+  "items": [
+    {
+      "id": "super-beerus-estreia-2026",
+      "title": "Dragon Ball Super: Beerus tem estreia japonesa marcada para 11 de outubro",
+      "type": "Anime",
+      "status": "Estreia anunciada",
+      "publishedAt": "2026-09-03",
+      "summary": "A edição aprimorada de Dragon Ball Super estreia no Japão em 11 de outubro de 2026. Na data desta consulta, a estreia ainda é futura.",
+      "details": "O comunicado oficial de 3 de setembro também apresentou o trailer Super Surge. Beerus é uma nova edição de Super, com cenas adicionadas ou refeitas e narrativa reconstruída; deve ser distinguido da continuação The Galactic Patrol. O anúncio consultado não confirma data, plataforma ou dublagem para o Brasil.",
+      "sourceUrl": "https://en.dragon-ball-official.com/news/01_4425.html",
+      "sourceName": "Dragon Ball Official Site",
+      "territory": "Japão; lançamento no Brasil não confirmado nesta fonte"
+    },
+    {
+      "id": "super-galactic-patrol-producao",
+      "title": "The Galactic Patrol: a continuação de Dragon Ball Super está em produção",
+      "type": "Anime",
+      "status": "Produção confirmada; sem data",
+      "publishedAt": "2026-01-25",
+      "summary": "O projeto foi anunciado oficialmente no Dragon Ball Genkidamatsuri. A história sucede o arco da Sobrevivência do Universo.",
+      "details": "A produção adapta o arco do Prisioneiro da Patrulha Galáctica: Goku e Vegeta se unem à Patrulha Galáctica contra Moro. O anúncio oficial não informa janela de estreia, quantidade de episódios ou distribuição brasileira. Datas de 2027 e inclusão do arco de Granolah não estão confirmadas no comunicado consultado.",
+      "sourceUrl": "https://en.dragon-ball-official.com/news/01_3974.html",
+      "sourceName": "Dragon Ball Official Site / anúncio da Toei Animation",
+      "territory": "Anúncio no Japão; estreia e territórios de distribuição pendentes"
+    },
+    {
+      "id": "toriyama-video-40-anos",
+      "title": "Especial de 40 anos transforma ilustrações de Akira Toriyama em animação",
+      "type": "Legado",
+      "status": "Publicado",
+      "publishedAt": "2026-01-25",
+      "summary": "O vídeo comemorativo foi lançado mundialmente com animação da Toei e música de Hans Zimmer.",
+      "details": "Dirigido por Naoki Miyahara, o especial celebra a trajetória de Goku a partir das ilustrações de Toriyama. A música se chama Infinite Future. Trata-se de um vídeo comemorativo disponível no anúncio oficial, não de um novo longa-metragem ou de uma temporada.",
+      "sourceUrl": "https://en.dragon-ball-official.com/news/01_3975.html",
+      "sourceName": "Dragon Ball Official Site",
+      "territory": "Lançamento mundial online"
+    },
+    {
+      "id": "daima-dublagem-brasileira",
+      "title": "DAIMA: os 20 episódios receberam lançamento com dublagem brasileira",
+      "type": "Streaming",
+      "status": "Lançamento realizado",
+      "publishedAt": "2025-06-30",
+      "summary": "A Crunchyroll anunciou a chegada simultânea dos 20 episódios dublados em português brasileiro para 1º de julho de 2025.",
+      "details": "O anúncio foi feito em conjunto com a Toei Animation. A página brasileira da série consultada também lista áudio em Português (Brasil). O catálogo e a disponibilidade regional podem mudar; o link da fonte documenta o lançamento de 2025.",
+      "sourceUrl": "https://www.crunchyroll.com/pt-br/news/announcements/2025/6/30/dragon-ball-daima-dublagem-brasileira-crunchyroll",
+      "sourceName": "Crunchyroll Brasil",
+      "territory": "Brasil; dublagem em português brasileiro"
+    },
+    {
+      "id": "daima-final-20-episodios",
+      "title": "DAIMA encerrou sua série de 20 episódios em fevereiro de 2025",
+      "type": "Anime",
+      "status": "Série concluída",
+      "publishedAt": "2025-02-07",
+      "summary": "O episódio 20 foi anunciado como o final da série, com exibição japonesa em 28 de fevereiro de 2025.",
+      "details": "DAIMA tem história original e design de personagens de Akira Toriyama. O final da série foi comunicado pela Crunchyroll, distribuidora do anime, com referência ao site oficial. Até o corte desta pesquisa, não foi localizado anúncio oficial de uma segunda temporada nas fontes consultadas; isso não equivale a um cancelamento anunciado.",
+      "sourceUrl": "https://www.crunchyroll.com/news/latest/2025/2/7/dragon-ball-daima-final-episode-release-date",
+      "sourceName": "Crunchyroll News, citando o site oficial de DAIMA",
+      "territory": "Data de exibição no Japão; distribuição brasileira documentada separadamente"
+    },
+    {
+      "id": "daima-especial-cinemas-brasil",
+      "title": "DAIMA – Especial levou os três primeiros episódios aos cinemas brasileiros",
+      "type": "Cinema",
+      "status": "Lançamento histórico de 2025",
+      "publishedAt": "2025-01-08",
+      "summary": "A Paris Filmes anunciou a estreia dos três primeiros episódios dublados nos cinemas do Brasil para 6 de fevereiro de 2025.",
+      "details": "O especial reúne episódios da série e não é um longa com história inédita. A data é um registro de lançamento passado; não comprova sessões em cartaz em setembro de 2026. Nesta pesquisa não foi confirmado um novo filme de Dragon Ball em cartaz no Brasil ou um novo longa com estreia futura oficialmente anunciada.",
+      "sourceUrl": "https://www.parisfilmes.com.br/paris-filmes-anuncia-exibicao-nos-cinemas-dos-primeiros-episodios-dublados-de-dragon-ball-daima/",
+      "sourceName": "Paris Filmes — distribuidora brasileira",
+      "territory": "Brasil; estreia histórica em 06/02/2025"
+    }
+  ]
+}

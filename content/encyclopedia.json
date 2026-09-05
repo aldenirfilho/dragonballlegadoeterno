@@ -1,0 +1,1475 @@
+{
+  "editorial": {
+    "title": "Dragon Ball — pessoas, jornadas e escolhas",
+    "language": "pt-BR",
+    "reviewDate": "2026-09-05",
+    "spoilers": "Contém revelações de Dragon Ball, Dragon Ball Z e Dragon Ball Super, incluindo Broly e Super Hero.",
+    "scope": "Enciclopédia editorial de fãs. A base é o mangá Dragon Ball de Akira Toriyama; Dragon Ball Super, filmes e versões alternativas são identificados em cada entrada. O catálogo é uma seleção temática, não um inventário de toda a franquia.",
+    "interpretation": "Descrições de cenas resumem a ficção. Reflexões, emoções, lições e exercícios são interpretações editoriais, não declarações de intenção do autor nem conselhos clínicos. Os exercícios cotidianos são convites opcionais, sem promessa de resultado.",
+    "continuity": "Dragon Ball Z é o nome da adaptação em anime da fase posterior do mangá Dragon Ball. O anime e o mangá de Super compartilham acontecimentos, mas apresentam diferenças. GT e os filmes clássicos não são fundidos automaticamente com Super. Esta seleção não pretende cobrir DAIMA nem anúncios futuros.",
+    "powers": "Poderes descritos qualitativamente. Uma transformação não estabelece uma classificação permanente: contexto, técnica, cooperação e limites mudam o resultado.",
+    "attribution": "Textos originais em português. Referências de consulta no Dragon Ball Official Site; nomes seguem formas familiares ao público brasileiro. Fontes oficiais também podem conter erros de tradução automática, por isso o contexto da obra prevalece sobre frases isoladas."
+  },
+  "characters": [
+    {
+      "id": "goku",
+      "name": "Son Goku",
+      "epithet": "O aprendiz que continua encontrando mestres",
+      "group": "Saiyajins",
+      "description": "Criado na Terra pelo avô adotivo Son Gohan, Goku transforma encontros em caminhos de aprendizado. Sua curiosidade aproxima pessoas muito diferentes, enquanto a paixão pela luta sustenta anos de prática. Ele é um saiyajin chamado Kakarotto por nascimento, não um humano biologicamente. Sua história mistura coragem, ingenuidade e escolhas arriscadas: o mesmo homem que salva amigos pode interpretar mal aquilo de que eles precisam.",
+      "traits": [
+        "Curioso diante do desconhecido",
+        "Persistente no aprendizado",
+        "Competitivo e por vezes imprudente"
+      ],
+      "emotions": [
+        "Entusiasmo ao descobrir um desafio",
+        "Afeto pelos companheiros",
+        "Luto e raiva diante de perdas"
+      ],
+      "powers": [
+        "Kamehameha e controle de ki",
+        "Teletransporte aprendido em Yardrat",
+        "Transformações saiyajins e Instinto Superior em Super"
+      ],
+      "family": "Filho de Bardock e Gine; irmão de Raditz; criado por Son Gohan. Marido de Chi-Chi, pai de Gohan e Goten e avô de Pan.",
+      "arc": "Do menino que acompanha Bulma ao lutador que aprende com mestres de outros mundos. Perde torneios e confrontos, depende de resgates e nunca encerra seu aprendizado.",
+      "lesson": "Permita-se voltar à posição de aluno. Competência cresce quando a curiosidade encontra prática, correção e apoio.",
+      "limitation": "Sua vontade de lutar não equivale a bom julgamento em todas as situações. O gosto pessoal por desafios não autoriza impor perigo aos demais.",
+      "continuity": "Mangá Dragon Ball; desdobramentos de Super identificados. As versões de GT e dos filmes antigos possuem particularidades.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_23.html",
+        "https://en.dragon-ball-official.com/news/01_1413.html",
+        "https://en.dragon-ball-official.com/news/01_2841.html",
+        "https://en.dragon-ball-official.com/news/01_1305.html",
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "vegeta",
+      "name": "Vegeta",
+      "epithet": "O orgulho que aprende a cuidar",
+      "group": "Saiyajins",
+      "description": "O príncipe dos saiyajins começa como invasor cruel e faz da superioridade uma medida do próprio valor. Sua convivência com a Terra altera gradualmente essa identidade. A família, a rivalidade com Goku e as derrotas obrigam Vegeta a confrontar aquilo que o orgulho encobre. A mudança é irregular: há avanços, recaídas e consequências que um gesto heroico isolado não apaga.",
+      "traits": [
+        "Disciplina intensa",
+        "Orgulho e competitividade",
+        "Lealdade construída com o tempo"
+      ],
+      "emotions": [
+        "Frustração por se sentir ultrapassado",
+        "Vergonha de demonstrar vulnerabilidade",
+        "Carinho expresso em ações"
+      ],
+      "powers": [
+        "Galick Ho e Final Flash",
+        "Transformações de Super Saiyajin",
+        "Ki divino em Dragon Ball Super"
+      ],
+      "family": "Filho do Rei Vegeta; marido de Bulma e pai de Trunks e Bra. O Trunks do Futuro é filho de suas versões em outra linha temporal.",
+      "arc": "De adversário na invasão saiyajin a aliado que assume vínculos. Na saga Cell, permitir a evolução do inimigo expõe o custo concreto de sua vaidade.",
+      "lesson": "Troque a pergunta sobre quem é melhor pela pergunta sobre o que precisa ser protegido e melhorado.",
+      "limitation": "Persistência pode virar obsessão. Seu passado violento e suas recaídas exigem responsabilidade, não absolvição automática.",
+      "continuity": "Mangá Dragon Ball e Super. Poderes exclusivos do mangá de Super não devem ser atribuídos automaticamente ao anime.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3929.html",
+        "https://en.dragon-ball-official.com/news/01_1235.html",
+        "https://en.dragon-ball-official.com/news/01_2351.html",
+        "https://en.dragon-ball-official.com/news/01_2398.html"
+      ]
+    },
+    {
+      "id": "gohan",
+      "name": "Son Gohan",
+      "epithet": "Potência e vocação podem seguir caminhos diferentes",
+      "group": "Saiyajins",
+      "description": "Gohan cresce entre o desejo de estudar e a necessidade de enfrentar ameaças. Seu talento para o combate não elimina sua sensibilidade nem determina uma profissão. Filho de Goku e aluno de Piccolo, ele constrói uma identidade que inclui pesquisa, família e proteção. Nos Jogos de Cell, a expectativa depositada em seu poder torna visível a diferença entre conhecer a capacidade de alguém e compreender sua experiência.",
+      "traits": [
+        "Gentileza",
+        "Interesse intelectual",
+        "Coragem protetora"
+      ],
+      "emotions": [
+        "Hesitação diante da violência",
+        "Raiva quando outros sofrem",
+        "Alegria nos vínculos familiares"
+      ],
+      "powers": [
+        "Kamehameha",
+        "Super Saiyajin 2 e potencial liberado",
+        "Gohan Beast e Makankosappo em Super Hero"
+      ],
+      "family": "Filho de Goku e Chi-Chi, irmão de Goten, marido de Videl e pai de Pan. Piccolo é mestre e vínculo afetivo, não pai biológico.",
+      "arc": "Da criança levada a conflitos de adultos ao protagonista da vitória contra Cell e, depois, ao pesquisador e pai de família.",
+      "lesson": "Respeitar uma pessoa inclui aceitar que seus objetivos podem ser diferentes daqueles que seu talento parece sugerir.",
+      "limitation": "Poder explosivo não resolve a dificuldade de equilibrar estudo, preparo e presença familiar. Provocar sofrimento para extrair desempenho é uma má lição.",
+      "continuity": "Mangá Dragon Ball e filme Super Hero; o mangá de Super amplia a história do filme.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_503.html",
+        "https://en.dragon-ball-official.com/news/01_3878.html",
+        "https://en.dragon-ball-official.com/news/01_2398.html",
+        "https://en.dragon-ball-official.com/news/01_3370.html",
+        "https://en.dragon-ball-official.com/news/01_1166.html"
+      ]
+    },
+    {
+      "id": "piccolo",
+      "name": "Piccolo",
+      "epithet": "Uma identidade reconstruída pelo vínculo",
+      "group": "Namekuseijins",
+      "description": "Nascido do ovo deixado pelo Grande Rei Demônio Piccolo, inicialmente carrega sua vingança. A aliança contra Raditz e a relação com Gohan abrem outro caminho. Sua força narrativa está na capacidade de mudar por escolhas repetidas: observar, ensinar, proteger e comparecer. O mentor severo se torna uma das presenças mais estáveis do grupo, embora sua evolução não transforme seus métodos iniciais em modelos educativos.",
+      "traits": [
+        "Observador",
+        "Estratégico",
+        "Protetor"
+      ],
+      "emotions": [
+        "Solidão na juventude",
+        "Orgulho pelo desenvolvimento dos alunos",
+        "Afeto discreto"
+      ],
+      "powers": [
+        "Makankosappo",
+        "Regeneração de partes do corpo",
+        "Orange Piccolo em Super Hero"
+      ],
+      "family": "Filho e sucessor, também apresentado como reencarnação, do Grande Rei Demônio Piccolo. Possui ligação especial com Kami; depois assimila Nail e se reúne com Kami. Gohan e Pan são vínculos de ensino e cuidado.",
+      "arc": "A passagem de rival a mentor encontra uma cena decisiva quando protege Gohan do ataque de Nappa.",
+      "lesson": "Uma história difícil não obriga a repetir as mesmas ações. Mudança se torna confiável quando aparece no comportamento.",
+      "limitation": "Deixar uma criança sozinha em ambiente perigoso e encenar ameaças para motivá-la não são práticas a reproduzir.",
+      "continuity": "Mangá Dragon Ball; Orange Piccolo e a relação com Pan recebem destaque em Super Hero.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_479.html",
+        "https://en.dragon-ball-official.com/news/01_1178.html",
+        "https://en.dragon-ball-official.com/news/01_1179.html",
+        "https://en.dragon-ball-official.com/news/01_2398.html"
+      ]
+    },
+    {
+      "id": "bulma",
+      "name": "Bulma",
+      "epithet": "A inteligência que torna a aventura possível",
+      "group": "Terráqueos",
+      "description": "Bulma inicia a busca que coloca o mundo de Dragon Ball em movimento. Sua contribuição não depende de vencer duelos: ela constrói ferramentas, interpreta problemas e mobiliza recursos. A criadora do Radar do Dragão mostra que observar sinais e desenvolver soluções pode mudar um conflito inteiro. Impaciente, generosa e autoritária em momentos diferentes, ela preserva uma personalidade própria diante dos guerreiros.",
+      "traits": [
+        "Inventividade",
+        "Assertividade",
+        "Pragmatismo"
+      ],
+      "emotions": [
+        "Fascínio por descobertas",
+        "Irritação com a imprudência alheia",
+        "Carinho pelos amigos e filhos"
+      ],
+      "powers": [
+        "Engenharia e invenção",
+        "Radar do Dragão",
+        "Máquina do tempo criada por sua versão futura"
+      ],
+      "family": "Filha do Dr. Brief e de sua esposa, mãe de Trunks e Bra com Vegeta. Yamcha é um antigo namorado, não pai de Trunks.",
+      "arc": "Da adolescente que procura as Esferas à cientista que sustenta viagens e estratégias. Sua versão futura mantém um projeto de esperança em um mundo devastado.",
+      "lesson": "Melhore a ferramenta ou o processo quando força de vontade sozinha não resolve. Organizar também é participar da vitória.",
+      "limitation": "Conhecimento técnico não elimina impulsividade nem torna qualquer desejo uma boa decisão. Seus recursos não estão igualmente disponíveis a todos.",
+      "continuity": "Mangá Dragon Ball e Super; a máquina do tempo pertence à história da Bulma do Futuro.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3933.html",
+        "https://en.dragon-ball-official.com/news/01_2351.html",
+        "https://en.dragon-ball-official.com/news/01_3753.html"
+      ]
+    },
+    {
+      "id": "kuririn",
+      "name": "Kuririn",
+      "epithet": "Coragem que convive com o medo",
+      "group": "Terráqueos",
+      "description": "Kuririn começa como colega competitivo e nem sempre leal no treinamento de Mestre Kame. A amizade com Goku amadurece junto com sua coragem. Em batalhas muito além de suas forças, ele observa, ajuda e toma decisões que importam. Seu valor não precisa ser defendido por uma classificação de poder: amizade, cuidado e discernimento são contribuições reais, mesmo quando ele sente medo.",
+      "traits": [
+        "Solidariedade",
+        "Improviso tático",
+        "Autocrítica"
+      ],
+      "emotions": [
+        "Medo reconhecível diante de ameaças",
+        "Humor entre amigos",
+        "Ternura familiar"
+      ],
+      "powers": [
+        "Kienzan",
+        "Taiyoken",
+        "Voo e técnicas de ki"
+      ],
+      "family": "Marido da Androide 18 e pai de Marron. Androide 17 é seu cunhado.",
+      "arc": "De rival de infância a amigo confiável, socorrista do grupo e pai. Na saga Cell, suas decisões em torno de 18 misturam compaixão e envolvimento emocional.",
+      "lesson": "Escolha a contribuição possível: avisar, acompanhar, organizar uma retirada ou pedir reforço também exige coragem.",
+      "limitation": "Afeto pode influenciar avaliações de risco. Ser bondoso não dispensa examinar consequências e compartilhar decisões difíceis.",
+      "continuity": "Mangá Dragon Ball e Super. Não confundir Marron, sua filha, com Maron, personagem de episódios do anime Z.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_371.html",
+        "https://en.dragon-ball-official.com/news/01_3484.html",
+        "https://en.dragon-ball-official.com/news/01_3483.html"
+      ]
+    },
+    {
+      "id": "chichi",
+      "name": "Chi-Chi",
+      "epithet": "A vida cotidiana também precisa de defesa",
+      "group": "Terráqueos",
+      "description": "Chi-Chi é uma artista marcial que entra no torneio para confrontar Goku sobre uma promessa esquecida. Mais tarde, suas preocupações com estudo, dinheiro e segurança dão presença às necessidades da casa. A comédia frequentemente acentua sua irritação, mas reduzi-la a uma esposa que atrapalha aventuras esconde a carga de cuidado que atravessa sua história. Ela também erra quando transforma preocupação em rigidez.",
+      "traits": [
+        "Determinação",
+        "Responsabilidade familiar",
+        "Expectativas elevadas"
+      ],
+      "emotions": [
+        "Preocupação com os filhos",
+        "Frustração com a ausência",
+        "Orgulho e afeto"
+      ],
+      "powers": [
+        "Artes marciais",
+        "Agilidade e força de lutadora treinada",
+        "Equipamento de combate usado na infância"
+      ],
+      "family": "Filha de Gyumao, o Rei Cutelo; esposa de Goku; mãe de Gohan e Goten; avó de Pan.",
+      "arc": "Da menina do Monte Fry-Pan à competidora do 23º torneio e à adulta que tenta preservar estabilidade numa família de guerreiros.",
+      "lesson": "Combinar responsabilidades concretas é tão importante quanto demonstrar amor em momentos extraordinários.",
+      "limitation": "Cobrar sem ouvir pode afastar. A necessidade de educação e segurança não autoriza controlar completamente a vocação dos filhos.",
+      "continuity": "Mangá Dragon Ball; certas cenas domésticas são ampliadas pelo anime.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_133.html",
+        "https://en.dragon-ball-official.com/news/01_1412.html",
+        "https://en.dragon-ball-official.com/news/01_2302.html",
+        "https://en.dragon-ball-official.com/news/01_1226.html"
+      ]
+    },
+    {
+      "id": "goten",
+      "name": "Son Goten",
+      "epithet": "Talento precisa de espaço para crescer",
+      "group": "Saiyajins",
+      "description": "Goten introduz uma infância mais brincalhona depois dos Jogos de Cell. Aprende rapidamente, acompanha o irmão e encontra em Trunks seu grande parceiro de aventuras. A facilidade com o Super Saiyajin contrasta com sua pouca experiência. Seu primeiro encontro com Goku também revela algo essencial: por trás da força extraordinária existe uma criança que deseja conhecer e abraçar o pai.",
+      "traits": [
+        "Espontaneidade",
+        "Sociabilidade",
+        "Facilidade de aprendizado"
+      ],
+      "emotions": [
+        "Diversão nas brincadeiras",
+        "Timidez diante do pai",
+        "Tristeza quando a família é ameaçada"
+      ],
+      "powers": [
+        "Super Saiyajin",
+        "Kamehameha, chamado por ele de Kamekameha",
+        "Fusão com Trunks em Gotenks"
+      ],
+      "family": "Segundo filho de Goku e Chi-Chi, irmão de Gohan e tio de Pan.",
+      "arc": "Na saga Boo, passa de companheiro de brincadeiras a participante de uma estratégia de defesa que exige maturidade ainda em formação.",
+      "lesson": "Desenvolver habilidade não substitui brincar, receber proteção e ter adultos disponíveis.",
+      "limitation": "Talento precoce não equivale a capacidade de decidir sob ameaça. A fusão também herda sua inexperiência e a de Trunks.",
+      "continuity": "Mangá Dragon Ball; adolescência ampliada no arco Super Hero do mangá Super.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1226.html",
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ]
+    },
+    {
+      "id": "trunks",
+      "name": "Trunks",
+      "epithet": "Confiança em busca de responsabilidade",
+      "group": "Saiyajins",
+      "description": "O Trunks da linha principal cresce com Bulma, Vegeta e recursos muito diferentes dos disponíveis à sua contraparte futura. Esperto e confiante, costuma puxar Goten para planos criativos. A infância relativamente protegida explica parte de sua ousadia, mas não o torna menos capaz de afeto. Aprender a cooperar requer reconhecer que entusiasmo e poder não resolvem detalhes esquecidos.",
+      "traits": [
+        "Criatividade",
+        "Confiança",
+        "Espírito de liderança"
+      ],
+      "emotions": [
+        "Admiração pelo pai",
+        "Alegria com Goten",
+        "Frustração quando contrariado"
+      ],
+      "powers": [
+        "Super Saiyajin",
+        "Controle de ki e voo",
+        "Fusão com Goten em Gotenks"
+      ],
+      "family": "Filho de Bulma e Vegeta, irmão de Bra. Trunks do Futuro é uma versão alternativa, não seu irmão nem alguém que simplesmente envelheceu nessa mesma história.",
+      "arc": "Campeão da divisão infantil do 25º torneio e parceiro de Goten contra Boo. Em Super, também experimenta uma identidade de super-herói.",
+      "lesson": "Uma boa ideia precisa de ensaio e divisão clara de tarefas, especialmente quando depende de outra pessoa.",
+      "limitation": "Excesso de confiança atrapalha execução. Ser filho de pessoas poderosas não transmite automaticamente experiência ou prudência.",
+      "continuity": "Linha principal do mangá Dragon Ball; Saiyaman X-1 aparece na expansão Super Hero do mangá Super.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html",
+        "https://en.dragon-ball-official.com/news/01_1226.html",
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ]
+    },
+    {
+      "id": "trunks-futuro",
+      "name": "Trunks do Futuro",
+      "epithet": "Esperança em um mundo que não se desfaz",
+      "group": "Saiyajins",
+      "description": "Trunks chega do futuro trazendo uma espada, um alerta e um medicamento para Goku. Sua postura reservada nasce de uma experiência radicalmente distinta da infância de Trunks na linha principal. A máquina construída por Bulma permite buscar ajuda, mas viajar não apaga automaticamente as perdas de sua origem. Sua história dá à esperança uma tarefa concreta: preparar, comunicar e agir mesmo sem garantia de reparação total.",
+      "traits": [
+        "Seriedade",
+        "Responsabilidade",
+        "Determinação protetora"
+      ],
+      "emotions": [
+        "Luto",
+        "Esperança cautelosa",
+        "Desejo de aproximação com Vegeta"
+      ],
+      "powers": [
+        "Super Saiyajin",
+        "Combate com espada",
+        "Ataques de ki"
+      ],
+      "family": "Filho da Bulma e do Vegeta de sua linha temporal. Foi treinado pelo Gohan do Futuro. Não se deve presumir que todas as relações da linha principal se repetem em sua origem.",
+      "arc": "Enfrenta os androides em seu futuro e participa da luta contra Cell no passado. Em Super, sua linha sofre nova catástrofe com Goku Black e Zamasu.",
+      "lesson": "Trazer informação confiável e pedir ajuda pode transformar o campo de possibilidades, mesmo quando o passado permanece doloroso.",
+      "limitation": "Trauma não produz força automaticamente. O desfecho de sua linha em Super inclui perda irreversível, apesar da resistência.",
+      "continuity": "Linha futura de Dragon Ball e arco Trunks do Futuro de Super; detalhes e poderes diferem entre mangá e anime.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2350.html",
+        "https://en.dragon-ball-official.com/news/01_2351.html",
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "pan",
+      "name": "Pan",
+      "epithet": "A curiosidade da próxima geração",
+      "group": "Saiyajins",
+      "description": "Pan reúne duas famílias acostumadas a formas muito diferentes de heroísmo. No final do mangá original, entra no torneio ainda pequena; em Super Hero, sua relação com Piccolo recebe destaque. Sua energia não deve ocultar sua condição de criança. Aprender é explorar com apoio, e os adultos continuam responsáveis por oferecer segurança mesmo quando a ficção lhe concede capacidades extraordinárias.",
+      "traits": [
+        "Curiosidade",
+        "Determinação",
+        "Espontaneidade"
+      ],
+      "emotions": [
+        "Orgulho ao aprender",
+        "Carinho pelo mestre",
+        "Entusiasmo diante do desafio"
+      ],
+      "powers": [
+        "Voo por controle de ki",
+        "Artes marciais",
+        "Força extraordinária de sua herança saiyajin"
+      ],
+      "family": "Filha de Gohan e Videl; neta de Goku, Chi-Chi e Mr. Satan. Goten é seu tio. Piccolo é mestre e cuidador próximo.",
+      "arc": "Representa a continuidade do aprendizado e dos vínculos, com uma pequena conquista pessoal de voo em Super Hero.",
+      "lesson": "Celebre a aquisição de uma habilidade sem transformar a criança em uma promessa que precisa cumprir expectativas adultas.",
+      "limitation": "Não é adequado deduzir transformações futuras a partir de potencial. Pan não se transforma em Super Saiyajin nos recortes aqui descritos.",
+      "continuity": "Final de Dragon Ball e Super Hero. A Pan de GT pertence à continuidade de GT, com aventuras próprias.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1126.html",
+        "https://en.dragon-ball-official.com/news/01_2398.html",
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ]
+    },
+    {
+      "id": "videl",
+      "name": "Videl",
+      "epithet": "Coragem para investigar e aprender",
+      "group": "Terráqueos",
+      "description": "Videl observa contradições e procura entender quem realmente protege sua cidade. Filha de Mr. Satan e colega de Gohan, não aceita explicações fáceis sobre a identidade do Grande Saiyaman. Sua aprendizagem do voo oferece um contraponto aos despertares espetaculares: concentração, tentativa e orientação também fazem parte de Dragon Ball. A derrota contra Spopovich mostra a violência de um confronto desigual.",
+      "traits": [
+        "Senso de justiça",
+        "Percepção investigativa",
+        "Persistência"
+      ],
+      "emotions": [
+        "Desconfiança diante de segredos",
+        "Satisfação ao aprender",
+        "Afeto por Gohan e Pan"
+      ],
+      "powers": [
+        "Artes marciais",
+        "Voo aprendido com Gohan",
+        "Percepção e investigação"
+      ],
+      "family": "Filha de Mr. Satan, esposa de Gohan e mãe de Pan.",
+      "arc": "Da jovem investigadora e competidora à integrante da família de Gohan. Seu percurso contém habilidade própria antes do casamento.",
+      "lesson": "Faça perguntas, confira pistas e aceite ser iniciante quando encontra uma habilidade nova.",
+      "limitation": "Coragem não torna seguro um confronto desproporcional. Sua agressão no torneio não deve ser tratada como punição por ter sido confiante.",
+      "continuity": "Mangá Dragon Ball. A identidade Grande Saiyaman 2 é destacada em materiais do anime e filmes, não assumida aqui como evento do mangá original.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1292.html",
+        "https://en.dragon-ball-official.com/news/01_1732.html"
+      ]
+    },
+    {
+      "id": "android-18",
+      "name": "Androide 18",
+      "epithet": "Autonomia além da origem",
+      "group": "Androides",
+      "description": "18 foi humana antes das modificações do Dr. Gero. Sua identidade não se resume ao projeto de quem a alterou nem ao romance que desenvolve depois. Reservada, segura e pragmática, toma decisões próprias e protege pessoas próximas. A passagem de antagonista a aliada preserva seu humor seco e sua autonomia: ela não precisa se tornar dócil para estabelecer vínculos.",
+      "traits": [
+        "Independência",
+        "Pragmatismo",
+        "Confiança"
+      ],
+      "emotions": [
+        "Irritação diante de controle",
+        "Afeto pouco espalhafatoso",
+        "Satisfação com estabilidade"
+      ],
+      "powers": [
+        "Fonte de energia de longa sustentação",
+        "Força e voo",
+        "Técnicas de ki, incluindo Kienzan"
+      ],
+      "family": "Irmã gêmea de Androide 17, esposa de Kuririn e mãe de Marron. Ter uma filha é compatível com sua origem humana.",
+      "arc": "Da ativação no laboratório ao combate no torneio da saga Boo e à vida com Kuririn. Sua versão futura tem uma trajetória diferente.",
+      "lesson": "Um passado imposto por outros não precisa definir todos os seus papéis futuros.",
+      "limitation": "Energia sustentada não significa invulnerabilidade. Seus poderes não a impediram de ser absorvida por Cell.",
+      "continuity": "Linha principal de Dragon Ball e Super; não confundir com a 18 da linha de Trunks do Futuro.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_838.html",
+        "https://en.dragon-ball-official.com/news/01_3483.html",
+        "https://en.dragon-ball-official.com/news/01_3484.html"
+      ]
+    },
+    {
+      "id": "android-17",
+      "name": "Androide 17",
+      "epithet": "O valor de permanecer atento",
+      "group": "Androides",
+      "description": "17 compartilha com a irmã a origem humana e as modificações de Gero. Sua independência, inicialmente dirigida contra o criador, ganha outros destinos ao longo da história. Em Super, trabalha protegendo animais e participa do Torneio do Poder. O desfecho desse torneio põe em evidência a atenção tática e uma escolha que beneficia os outros universos, em vez de uma celebração apenas individual.",
+      "traits": [
+        "Autonomia",
+        "Observação",
+        "Pragmatismo tático"
+      ],
+      "emotions": [
+        "Calma aparente",
+        "Apreço por liberdade",
+        "Compromisso com aquilo que protege"
+      ],
+      "powers": [
+        "Energia de longa sustentação",
+        "Barreiras defensivas",
+        "Combate e ataques de ki"
+      ],
+      "family": "Irmão gêmeo de 18, cunhado de Kuririn e tio de Marron. A descrição familiar detalhada de sua vida adulta não é necessária para compreender estes arcos.",
+      "arc": "Antagonista na saga dos androides e participante decisivo da defesa do Universo 7 em Super.",
+      "lesson": "A pessoa que continua observando pode encontrar uma saída quando todos estão concentrados em demonstrar força.",
+      "limitation": "Os atos de sua versão futura pertencem a outra linha temporal e não devem ser atribuídos automaticamente a este 17. Barreiras e reserva energética também têm limites diante de ameaças superiores.",
+      "continuity": "Dragon Ball e Super, com acontecimentos do Torneio do Poder distintos entre anime e mangá.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_838.html",
+        "https://en.dragon-ball-official.com/news/01_2735.html",
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "mestre-kame",
+      "name": "Mestre Kame",
+      "epithet": "Fundamentos para uma vida inteira",
+      "group": "Terráqueos",
+      "description": "O fundador da Escola da Tartaruga ensina que o treinamento acontece também em atividades comuns. Goku e Kuririn desenvolvem uma base antes de procurar golpes espetaculares. Ao competir disfarçado de Jackie Chun, Kame amplia o horizonte dos alunos. A sabedoria de mestre convive com comportamentos de assédio usados pela obra como comédia, que devem ser reconhecidos como inadequados e não imitados.",
+      "traits": [
+        "Experiência",
+        "Criatividade pedagógica",
+        "Contradições de comportamento"
+      ],
+      "emotions": [
+        "Orgulho pelos alunos",
+        "Alegria diante da vida",
+        "Preocupação com seu amadurecimento"
+      ],
+      "powers": [
+        "Kamehameha",
+        "Mafuba",
+        "Leitura técnica de combate"
+      ],
+      "family": "Mestre de Goku, Kuririn, Yamcha, Son Gohan e Gyumao em momentos diferentes. Relação de escola não significa parentesco biológico.",
+      "arc": "Vence Goku no 21º torneio como Jackie Chun, ajudando a mostrar que sempre existe algo a aprender.",
+      "lesson": "Construa fundamento e preserve espaço para comer, descansar, estudar e aproveitar a vida.",
+      "limitation": "Conhecimento e idade não justificam assédio, invasão de privacidade nem humilhação. Um mentor também pode precisar ser contestado.",
+      "continuity": "Mangá Dragon Ball; participação ampliada em Super, com combates diferentes no anime e no mangá.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_141.html",
+        "https://en.dragon-ball-official.com/news/01_1502.html",
+        "https://en.dragon-ball-official.com/news/01_1305.html",
+        "https://en.dragon-ball-official.com/news/01_2302.html"
+      ]
+    },
+    {
+      "id": "tenshinhan",
+      "name": "Tenshinhan",
+      "epithet": "Disciplina capaz de mudar de direção",
+      "group": "Terráqueos",
+      "description": "Tenshinhan é formado pela Escola da Garça com ambições violentas, mas revê o caminho a partir dos encontros com Kame e Goku. Não precisa entrar em outra escola para construir uma ética própria. Sua relação com Chaos e sua disposição para ajudar preservam uma presença discreta na história. Muitas vezes contribui sem ter condições de vencer o inimigo principal.",
+      "traits": [
+        "Disciplina",
+        "Franqueza",
+        "Lealdade"
+      ],
+      "emotions": [
+        "Respeito conquistado em combate",
+        "Luto pelo companheiro",
+        "Determinação diante da desvantagem"
+      ],
+      "powers": [
+        "Kikoho e Shin Kikoho",
+        "Taiyoken",
+        "Voo e técnicas da Escola da Garça"
+      ],
+      "family": "Chaos é amigo e companheiro de treinamento, não filho nem irmão confirmado.",
+      "arc": "Campeão do 22º torneio, abandona o ideal de assassino e se torna aliado. Contra Cell, conter o adversário já oferece tempo precioso.",
+      "lesson": "Mudar de princípio pode ser um sinal de amadurecimento. Sua contribuição não precisa ser a mais visível para ser útil.",
+      "limitation": "O custo do Kikoho e seus sacrifícios não devem servir de elogio à exaustão ou à autodestruição.",
+      "continuity": "Mangá Dragon Ball e aparições em Super; não atribuir-lhe invulnerabilidade universal por uma fala localizada sobre técnica.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_142.html",
+        "https://en.dragon-ball-official.com/news/01_2175.html",
+        "https://en.dragon-ball-official.com/news/01_4397.html",
+        "https://en.dragon-ball-official.com/news/01_1235.html"
+      ]
+    },
+    {
+      "id": "yamcha",
+      "name": "Yamcha",
+      "epithet": "Uma pessoa vale mais que sua pior cena",
+      "group": "Terráqueos",
+      "description": "Yamcha surge como bandido do deserto e passa a integrar o grupo de Goku. O humor posterior frequentemente o reduz a derrotas, mas sua história inclui aprendizado, apoio e participação em crises. Na saga dos androides, ajudar a retirar e cuidar de Goku doente tem valor concreto. A leitura mais justa não exige inventar vitórias: basta enxergar o que ele efetivamente faz.",
+      "traits": [
+        "Sociabilidade",
+        "Disposição para ajudar",
+        "Capacidade de adaptação"
+      ],
+      "emotions": [
+        "Insegurança",
+        "Bom humor",
+        "Afeto pelos companheiros"
+      ],
+      "powers": [
+        "Rogafufuken",
+        "Sokidan",
+        "Kamehameha e voo"
+      ],
+      "family": "Antigo namorado de Bulma e companheiro de Pual. Não há filhos estabelecidos no recorte principal apresentado.",
+      "arc": "De adversário do primeiro arco a aluno de Kame e aliado em batalhas posteriores, com limites cada vez mais visíveis diante dos novos inimigos.",
+      "lesson": "Não transforme um erro, uma derrota ou um meme em uma definição completa de alguém.",
+      "limitation": "Reconhecer seu valor não requer negar falhas pessoais ou fingir que acompanha todos os saltos de poder.",
+      "continuity": "Mangá Dragon Ball; episódios de comédia e atividades adicionais variam nas adaptações.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3753.html",
+        "https://en.dragon-ball-official.com/news/01_2793.html",
+        "https://en.dragon-ball-official.com/news/01_1502.html"
+      ]
+    },
+    {
+      "id": "freeza",
+      "name": "Freeza",
+      "epithet": "Poder sem consideração pelo outro",
+      "group": "Antagonistas",
+      "description": "Freeza comanda uma estrutura de conquista e violência. Sua cortesia aparente convive com crueldade e desprezo por quem considera inferior. O medo da lenda do Super Saiyajin ajuda a revelar a insegurança sob a posição imperial. Como antagonista, demonstra que inteligência, disciplina ou grande poder podem servir a objetivos destrutivos; capacidade não é sinônimo de caráter.",
+      "traits": [
+        "Crueldade",
+        "Cálculo estratégico",
+        "Vaidade"
+      ],
+      "emotions": [
+        "Desprezo",
+        "Medo de perder domínio",
+        "Fúria quando contrariado"
+      ],
+      "powers": [
+        "Transformações corporais",
+        "Ataques concentrados de ki",
+        "Formas Golden e Black em recortes de Super"
+      ],
+      "family": "Filho do Rei Cold. Cooler pertence aos filmes clássicos em que aparece e não é inserido automaticamente nesta continuidade.",
+      "arc": "Tirano central de Namek, retorna em histórias posteriores. Sua cooperação circunstancial no Torneio do Poder não estabelece uma redenção moral.",
+      "lesson": "Não confunda linguagem polida, cargo ou desempenho com confiabilidade ética. Observe ações e incentivos.",
+      "limitation": "Arrogância e desejo de humilhar frequentemente comprometem seu julgamento. Ameaças e domínio não constroem confiança.",
+      "continuity": "Dragon Ball e Super. Black Freeza pertence ao mangá de Super; não é tratado como transformação exibida pelo anime televisivo original de Super.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1819.html",
+        "https://en.dragon-ball-official.com/news/01_3615.html",
+        "https://en.dragon-ball-official.com/news/01_900.html",
+        "https://en.dragon-ball-official.com/news/01_1574.html"
+      ]
+    },
+    {
+      "id": "cell",
+      "name": "Cell",
+      "epithet": "A armadilha de chamar domínio de perfeição",
+      "group": "Antagonistas",
+      "description": "Cell é um organismo artificial construído a partir de células de lutadores. Sua busca por uma forma perfeita envolve absorver outras pessoas e transformar vidas em recursos. Quando alcança o objetivo, inventa um espetáculo de medo para demonstrar superioridade. Sua elegância verbal e técnica torna ainda mais importante separar competência de ética: conhecer muitos golpes não cria respeito por ninguém.",
+      "traits": [
+        "Manipulação",
+        "Vaidade",
+        "Adaptabilidade"
+      ],
+      "emotions": [
+        "Satisfação ao dominar",
+        "Inveja diante de Gohan",
+        "Pânico ao perder vantagem"
+      ],
+      "powers": [
+        "Técnicas herdadas de diferentes lutadores",
+        "Regeneração",
+        "Absorção e produção de Cell Juniors"
+      ],
+      "family": "Criação associada ao projeto do Dr. Gero e de seu computador. Relações de projeto com os androides não equivalem a uma família humana convencional.",
+      "arc": "Viaja de outra linha temporal, absorve 17 e 18 e organiza os Jogos de Cell. Sua derrota final é realizada por Gohan.",
+      "lesson": "Um ideal de perfeição que exige explorar os outros merece ser questionado, mesmo quando impressiona.",
+      "limitation": "Poder, regeneração e autoconfiança não eliminam pontos vulneráveis nem impedem sua destruição.",
+      "continuity": "Saga dos androides e Cell do mangá Dragon Ball. Cell Max de Super Hero é outra criação, não a ressurreição do mesmo Cell.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1257.html",
+        "https://en.dragon-ball-official.com/news/01_1258.html",
+        "https://en.dragon-ball-official.com/news/01_3878.html",
+        "https://en.dragon-ball-official.com/news/01_1515.html"
+      ]
+    },
+    {
+      "id": "majin-boo",
+      "name": "Majin Boo",
+      "epithet": "Formas diferentes, escolhas diferentes",
+      "group": "Seres mágicos",
+      "description": "Majin Boo reúne corpos e personalidades que não devem ser tratados como uma única versão constante. O Boo bondoso estabelece vínculos com Mr. Satan e o cachorro Bee; outras formas expressam ameaça e destruição. Sua história explora absorção, separação e transformação, mas a imagem de bom e mau divididos fisicamente é fantasia, não uma explicação para emoções humanas ou diagnósticos.",
+      "traits": [
+        "Espontaneidade na versão bondosa",
+        "Imprevisibilidade",
+        "Capacidade de criar vínculos"
+      ],
+      "emotions": [
+        "Alegria com comida e companhia",
+        "Raiva diante de agressões",
+        "Afeto por Mr. Satan e Bee"
+      ],
+      "powers": [
+        "Regeneração e elasticidade",
+        "Magia de transformação",
+        "Absorção em determinadas formas"
+      ],
+      "family": "Mr. Satan e Bee compõem sua convivência afetiva. Uub é a reencarnação do Boo puro derrotado, não seu filho; o Boo bondoso continua existindo separadamente.",
+      "arc": "De ameaça despertada por Babidi ao desfecho que separa a destruição de uma possibilidade de convivência.",
+      "lesson": "Cuidado consistente pode favorecer mudança, mas precisa coexistir com proteção e limites.",
+      "limitation": "Ser amável com alguém não garante que a violência cesse. Não cabe a uma vítima assumir a obrigação de transformar seu agressor.",
+      "continuity": "Saga Boo de Dragon Ball e desdobramentos em Super. Evita-se reduzir as diferentes formas a uma escala linear de força.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html",
+        "https://en.dragon-ball-official.com/news/01_1796.html",
+        "https://en.dragon-ball-official.com/news/01_1682.html"
+      ]
+    },
+    {
+      "id": "bills",
+      "name": "Bills",
+      "epithet": "Uma escala nova não cria autoridade moral",
+      "group": "Divindades",
+      "description": "Bills, chamado Beerus nas fontes em inglês, é o Deus da Destruição do Universo 7. Sua chegada muda a medida do possível e mostra a Goku uma distância que não se resolve com entusiasmo imediato. Dorminhoco e apreciador de comida, também é capaz de ameaçar mundos por irritação. A combinação de humor e perigo não torna seus caprichos eticamente aceitáveis.",
+      "traits": [
+        "Temperamento imprevisível",
+        "Curiosidade gastronômica",
+        "Orgulho de sua posição"
+      ],
+      "emotions": [
+        "Tédio",
+        "Irritação",
+        "Interesse por novos adversários"
+      ],
+      "powers": [
+        "Energia de destruição",
+        "Força e velocidade extraordinárias",
+        "Combate divino"
+      ],
+      "family": "Champa é seu irmão e Deus da Destruição do Universo 6. Whis é seu assistente e mestre, não parente estabelecido.",
+      "arc": "Introduz o horizonte divino em A Batalha dos Deuses e passa a observar o desenvolvimento dos saiyajins.",
+      "lesson": "Reconheça a diferença entre estar acima de você em poder e estar certo em uma decisão.",
+      "limitation": "O papel cósmico não apaga a arbitrariedade de suas ações. Sua força não é medida aqui por porcentagens de falas de uma versão específica.",
+      "continuity": "Filme A Batalha dos Deuses e recontagens de Super possuem diferenças.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_689.html",
+        "https://en.dragon-ball-official.com/news/01_1663.html",
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "whis",
+      "name": "Whis",
+      "epithet": "A calma de quem observa o movimento",
+      "group": "Divindades",
+      "description": "Whis acompanha Bills e orienta seu treinamento. Em Super, também ensina Goku e Vegeta, fazendo perguntas e apontando hábitos que os próprios alunos não percebem. Seu humor sereno contrasta com a tensão competitiva dos saiyajins. Ele mostra o valor de observar antes de agir, mas sua posição de anjo envolve regras de neutralidade que limitam sua intervenção nos conflitos.",
+      "traits": [
+        "Paciência",
+        "Observação fina",
+        "Humor discreto"
+      ],
+      "emotions": [
+        "Serenidade aparente",
+        "Curiosidade por sabores",
+        "Satisfação com o progresso dos alunos"
+      ],
+      "powers": [
+        "Domínio do Instinto Superior",
+        "Deslocamento e recursos de seu cajado",
+        "Capacidade de instrução em combate divino"
+      ],
+      "family": "Integra a família dos anjos; Merus é seu irmão mais novo. Bills é seu aluno e a divindade que ele acompanha.",
+      "arc": "De figura aparentemente secundária em A Batalha dos Deuses a mestre central da aprendizagem divina em Super.",
+      "lesson": "Feedback útil descreve um comportamento observável e oferece oportunidade de praticar outra resposta.",
+      "limitation": "Não é uma solução disponível para qualquer crise. Sua neutralidade e suas regras fazem parte do conflito, em vez de garantir resgate automático.",
+      "continuity": "A Batalha dos Deuses e Super; detalhes dos treinamentos variam entre filme, anime e mangá.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1663.html",
+        "https://en.dragon-ball-official.com/news/01_1682.html",
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "broly",
+      "name": "Broly",
+      "epithet": "Poder precisa de um ambiente seguro",
+      "group": "Saiyajins",
+      "description": "O Broly de Dragon Ball Super cresce isolado em Vampa com Paragus. A violência e o controle do pai limitam suas escolhas, enquanto os encontros com Cheelai e Lemo oferecem outras formas de relação. Seu poder aumenta rapidamente durante a luta, mas esse aumento vem acompanhado de perda de controle. A narrativa convida a enxergar uma pessoa por trás da ameaça aparente, sem negar a necessidade de conter o perigo.",
+      "traits": [
+        "Gentileza fora do combate",
+        "Sensibilidade aos vínculos",
+        "Dificuldade de controlar a força"
+      ],
+      "emotions": [
+        "Solidão",
+        "Afeto por companheiros",
+        "Raiva e desorientação em batalha"
+      ],
+      "powers": [
+        "Força saiyajin extraordinária",
+        "Uso do poder do grande macaco sem transformação completa",
+        "Super Saiyajin e estado de poder pleno no filme"
+      ],
+      "family": "Filho de Paragus. Cheelai e Lemo são amigos e aliados, não parentes biológicos.",
+      "arc": "Em Super: Broly, é usado em uma vingança que não escolheu livremente e acaba resgatado graças à intervenção de Cheelai.",
+      "lesson": "Apoiar alguém inclui reduzir coerção, oferecer escolhas e construir segurança, não apenas exigir autocontrole.",
+      "limitation": "Dor e abuso não são métodos de fortalecimento. Potencial excepcional não torna sofrimento necessário nem aceitável.",
+      "continuity": "Esta ficha descreve o Broly de Dragon Ball Super: Broly. O Broly dos filmes de Dragon Ball Z tem origem e caracterização próprias.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_941.html",
+        "https://en.dragon-ball-official.com/news/01_1933.html"
+      ]
+    },
+    {
+      "id": "bardock",
+      "name": "Bardock",
+      "epithet": "Um gesto protetor dentro de uma história violenta",
+      "group": "Saiyajins",
+      "description": "Bardock é o pai de Goku e um guerreiro saiyajin ligado ao sistema de conquistas de Freeza. Sua oposição ao tirano não permite esquecer esse contexto. As obras que desenvolvem sua história enfatizam aspectos distintos: o especial televisivo clássico apresenta uma tragédia com visões do futuro, enquanto materiais posteriores exploram sua ligação com Gine e a decisão de enviar Kakarotto para longe.",
+      "traits": [
+        "Determinação",
+        "Desconfiança da autoridade",
+        "Proteção familiar em momentos decisivos"
+      ],
+      "emotions": [
+        "Pressentimento de ameaça",
+        "Afeto contido",
+        "Revolta contra Freeza"
+      ],
+      "powers": [
+        "Combate saiyajin",
+        "Rajadas de ki",
+        "Resistência e experiência de batalha"
+      ],
+      "family": "Companheiro de Gine e pai de Raditz e Kakarotto. É avô biológico de Gohan e Goten, embora não os tenha criado.",
+      "arc": "Tenta resistir à destruição do Planeta Vegeta. Sua história aproxima a origem cósmica de Goku de decisões familiares concretas.",
+      "lesson": "Questionar a própria organização exige olhar também para os danos de que se participou.",
+      "limitation": "Proteger um filho não apaga violência anterior. Sua tragédia não o transforma automaticamente em um herói sem contradições.",
+      "continuity": "Presença breve no mangá Dragon Ball; especial de TV, Dragon Ball Minus, Super: Broly e mangá Super apresentam versões ou expansões que precisam ser identificadas.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_260.html",
+        "https://en.dragon-ball-official.com/news/01_1413.html",
+        "https://en.dragon-ball-official.com/news/01_1574.html"
+      ]
+    }
+  ],
+  "sagas": [
+    {
+      "id": "primeira-jornada",
+      "title": "A primeira busca e a Escola da Tartaruga",
+      "era": "Dragon Ball clássico",
+      "summary": "O encontro de Goku e Bulma reúne força física e inventividade numa busca pelas Esferas do Dragão. Pessoas que começam como obstáculos tornam-se companheiras, e o mundo deixa de caber na montanha em que Goku cresceu. Depois da aventura inicial, o treinamento com Kuririn e Mestre Kame desloca o foco para o aprendizado. Goku chega à final do 21º Torneio de Artes Marciais, mas perde para Jackie Chun. O começo da jornada já recusa a ideia de um protagonista que precisa vencer sempre.",
+      "lessons": [
+        "Curiosidade e amizade ampliam o que uma pessoa consegue conhecer.",
+        "Fundamentos cotidianos dão estrutura ao talento.",
+        "Uma derrota pode oferecer informação; não determina o valor de quem perdeu."
+      ],
+      "continuity": "Mangá Dragon Ball, busca inicial e treinamento de Kame; o anime expande viagens e situações. A derrota no 21º torneio faz parte do mangá.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_23.html",
+        "https://en.dragon-ball-official.com/news/01_3933.html",
+        "https://en.dragon-ball-official.com/news/01_1502.html"
+      ]
+    },
+    {
+      "id": "red-ribbon",
+      "title": "Red Ribbon: aprender a observar",
+      "era": "Dragon Ball clássico",
+      "summary": "A procura pela esfera de quatro estrelas coloca Goku contra o Exército Red Ribbon e, depois, contra Tao Pai Pai. O encontro com Karin muda a preparação do menino: alcançar o recipiente exige aprender a acompanhar os movimentos do mestre. A água dessa etapa é comum; o progresso vem do treinamento necessário para obtê-la. Essa revelação funciona como uma brincadeira com a promessa de um atalho milagroso. Não deve ser confundida com a água perigosa apresentada em outro arco.",
+      "lessons": [
+        "O método pode ser mais importante que o objeto desejado.",
+        "Observar uma dificuldade específica permite treinar com intenção.",
+        "A ficção não justifica beber substâncias perigosas ou reproduzir desafios físicos extremos."
+      ],
+      "continuity": "Arco Red Ribbon do mangá e sua adaptação. A água comum de Karin é distinta da Água Superdivina ligada ao confronto posterior com Piccolo Daimaoh.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1638.html",
+        "https://en.dragon-ball-official.com/news/01_562.html"
+      ]
+    },
+    {
+      "id": "torneios-piccolo",
+      "title": "Torneios, Piccolo Daimaoh e um novo rival",
+      "era": "Dragon Ball clássico",
+      "summary": "A rivalidade com Tenshinhan mostra Goku diante de outro estilo de luta e termina em nova derrota no torneio. Em seguida, a morte de Kuririn rompe o tom esportivo e abre o conflito com Piccolo Daimaoh. A primeira reação impulsiva de Goku não basta para vencer. Mais tarde, já adulto, ele enfrenta o sucessor do demônio no 23º torneio e conquista o título. O arco combina perda, preparação, mudança de identidade e a passagem para novos vínculos familiares.",
+      "lessons": [
+        "Competir pode ensinar, mas adversário e inimigo não são a mesma coisa.",
+        "Raiva não substitui preparo nem assegura uma boa decisão.",
+        "Tenshinhan e Piccolo ilustram mudanças diferentes; nenhum percurso deve ser generalizado para todas as pessoas."
+      ],
+      "continuity": "Agrupamento editorial de arcos consecutivos do mangá Dragon Ball. Grande Rei Demônio Piccolo e Piccolo Jr. são distinguidos.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_142.html",
+        "https://en.dragon-ball-official.com/news/01_478.html",
+        "https://en.dragon-ball-official.com/news/01_479.html"
+      ]
+    },
+    {
+      "id": "saiyajins",
+      "title": "Saiyajins: ninguém atravessa a crise sozinho",
+      "era": "Dragon Ball / Dragon Ball Z",
+      "summary": "Raditz revela a origem saiyajin de Goku e provoca uma aliança improvável entre ele e Piccolo. A chegada posterior de Nappa e Vegeta encontra um grupo que treinou, mas ainda sofre perdas graves. No confronto final, Goku não derrota Vegeta sozinho: Gohan, Kuririn e Yajirobe mudam o resultado. A descoberta de uma herança biológica tampouco apaga a vida que Goku construiu na Terra. O arco separa origem, escolhas e pertencimento.",
+      "lessons": [
+        "Conhecer de onde você veio não obriga a repetir um destino.",
+        "Uma equipe combina funções diferentes, inclusive resgate e criação de oportunidade.",
+        "Perdas não são um certificado de mérito, e sobrevivência não prova superioridade moral."
+      ],
+      "continuity": "Saga saiyajin do mangá Dragon Ball, adaptada no início de Dragon Ball Z e Kai.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1178.html",
+        "https://en.dragon-ball-official.com/news/01_3929.html",
+        "https://en.dragon-ball-official.com/news/01_503.html"
+      ]
+    },
+    {
+      "id": "namek",
+      "title": "Namek e Freeza: resistência ao domínio",
+      "era": "Dragon Ball / Dragon Ball Z",
+      "summary": "A busca por restaurar vidas leva os amigos a Namek, onde as Esferas também atraem Freeza e Vegeta. O conflito combina alianças provisórias, proteção de habitantes e disputas por informação. A transformação de Goku em Super Saiyajin se torna um marco visual da franquia, mas não deve esconder o sofrimento causado pelo domínio de Freeza. O planeta, seus moradores e o trabalho dos companheiros são partes centrais da história, não apenas cenário para um duelo.",
+      "lessons": [
+        "Uma aliança temporária pode ter objetivos limitados e exigir cautela.",
+        "Ouça quem é diretamente afetado pelo conflito, em vez de olhar somente para o herói.",
+        "Uma transformação ficcional não demonstra que sofrimento produz crescimento na vida real."
+      ],
+      "continuity": "Saga Freeza do mangá Dragon Ball. Duração, cenas de combate e material adicional diferem no anime Z e em Kai.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1819.html",
+        "https://en.dragon-ball-official.com/news/01_3615.html",
+        "https://en.dragon-ball-official.com/news/01_2068.html",
+        "https://en.dragon-ball-official.com/news/01_314.html"
+      ]
+    },
+    {
+      "id": "androides-cell",
+      "title": "Androides e Cell: talento, escolhas e consequências",
+      "era": "Dragon Ball / Dragon Ball Z",
+      "summary": "O aviso de Trunks abre uma corrida de preparação, mas o futuro conhecido não descreve perfeitamente os acontecimentos que os heróis encontram. Androides, uma segunda máquina do tempo e Cell complicam as suposições iniciais. Vegeta permite que Cell avance; Goku aposta no potencial de Gohan sem compreender completamente sua relação com a luta. A vitória de Gohan não torna essas decisões retroativamente prudentes. O arco deixa claro que capacidade, disposição e responsabilidade são questões diferentes.",
+      "lessons": [
+        "Atualize o plano quando os fatos mudam.",
+        "Não faça outra pessoa pagar o preço de uma prova de orgulho.",
+        "Um bom resultado pode acontecer apesar de uma decisão ruim; avalie também o processo."
+      ],
+      "continuity": "Saga dos androides e Cell do mangá. Trunks do Futuro pertence a outra linha temporal; Cell Max é uma criação posterior distinta.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2350.html",
+        "https://en.dragon-ball-official.com/news/01_1235.html",
+        "https://en.dragon-ball-official.com/news/01_1257.html",
+        "https://en.dragon-ball-official.com/news/01_1305.html"
+      ]
+    },
+    {
+      "id": "majin-boo",
+      "title": "Majin Boo: o mundo participa da vitória",
+      "era": "Dragon Ball / Dragon Ball Z",
+      "summary": "A nova geração entra em cena antes que Babidi e Majin Boo rompam a paz. Gotenks e as fusões ampliam as possibilidades, mas também trazem limites de execução e duração. Mr. Satan constrói um vínculo com o Boo bondoso que a superioridade física não teria produzido. Na conclusão contra o Boo puro, o esforço de Goku depende de uma rede: estratégia, proteção, comunicação, Esferas do Dragão e energia compartilhada. O centro da cena é um herói cercado de contribuições.",
+      "lessons": [
+        "Um plano precisa considerar duração e condições de funcionamento.",
+        "Relações importam, sem obrigar ninguém a permanecer diante de violência.",
+        "Reconheça explicitamente as pessoas que tornaram um resultado possível."
+      ],
+      "continuity": "Saga Boo e encerramento do mangá Dragon Ball. Uub é reencarnação do Boo puro; o Boo bondoso mantém existência própria.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1226.html",
+        "https://en.dragon-ball-official.com/news/01_3878.html",
+        "https://en.dragon-ball-official.com/news/01_1796.html"
+      ]
+    },
+    {
+      "id": "deuses",
+      "title": "A Batalha dos Deuses: voltar a ser aprendiz",
+      "era": "Filme e Dragon Ball Super",
+      "summary": "Bills chega em busca do Super Saiyajin Deus e rapidamente mostra uma distância enorme para os guerreiros conhecidos. Goku experimenta uma transformação obtida com a participação de outros saiyajins, enfrenta a divindade e não conquista uma vitória sobre ela. A Terra é poupada, e a história abre caminho para o treinamento com Whis. O novo horizonte não desvaloriza o esforço anterior: revela que aprender pode continuar depois de marcos que pareciam definitivos.",
+      "lessons": [
+        "Aceitar ajuda não diminui a conquista.",
+        "Não controlar o desfecho de uma disputa é diferente de não ter valor.",
+        "Desenvolvimento não obriga a transformar a vida numa comparação infinita com os mais poderosos."
+      ],
+      "continuity": "A Batalha dos Deuses é recontada no anime e mangá de Super com diferenças. Não se combinam porcentagens ou falas de poder como se fossem uma régua única.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_689.html",
+        "https://en.dragon-ball-official.com/news/01_1663.html"
+      ]
+    },
+    {
+      "id": "torneio-poder",
+      "title": "Torneio do Poder: o resultado pertence à equipe",
+      "era": "Dragon Ball Super",
+      "summary": "Representantes de universos diferentes participam de uma disputa pela sobrevivência. O talento individual chama atenção, mas as regras também favorecem coordenação, resistência e leitura do campo. Goku enfrenta Jiren e utiliza o Instinto Superior, sem resolver sozinho o torneio. Androide 17 termina como vencedor e usa o desejo para restaurar os universos apagados no evento. A escolha final amplia o significado de vitória para além da própria equipe.",
+      "lessons": [
+        "Defina sucesso pelo objetivo compartilhado, não pela quantidade de destaque pessoal.",
+        "Atenção a regras e contexto pode superar um impulso de exibir força.",
+        "A cooperação com Freeza é circunstancial e não equivale a confiar plenamente nele."
+      ],
+      "continuity": "Arco Sobrevivência do Universo de Super. Anime e mangá têm combates, eliminações e mecanismos diferentes; esta síntese usa o resultado comum.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_900.html",
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ]
+    },
+    {
+      "id": "broly-super",
+      "title": "Broly: enxergar quem está sendo usado",
+      "era": "Dragon Ball Super: Broly",
+      "summary": "Paragus conduz seu filho para uma vingança, enquanto Freeza explora a situação. Broly enfrenta Goku e Vegeta, aprende durante o combate e perde o controle com o crescimento da própria força. A fusão em Gogeta permite conter a ameaça, mas é Cheelai quem garante a saída de Broly ao desejar seu retorno a Vampa. A história oferece duas tarefas simultâneas: proteger quem está em perigo e perceber a coerção exercida sobre aquele que luta.",
+      "lessons": [
+        "Controlar uma ameaça e reconhecer sofrimento não são objetivos incompatíveis.",
+        "Novos vínculos podem abrir escolhas antes inexistentes.",
+        "Resgate e segurança são conquistas, mesmo sem uma vitória por nocaute."
+      ],
+      "continuity": "Filme Dragon Ball Super: Broly. Não resume a trilogia de Broly dos filmes clássicos de Z.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_941.html"
+      ]
+    },
+    {
+      "id": "super-hero",
+      "title": "Super Hero: presença, herança e confiança",
+      "era": "Filme e mangá Dragon Ball Super",
+      "summary": "A Red Ribbon retorna com novos androides, e Piccolo assume a investigação enquanto Goku e Vegeta treinam longe da Terra. Sua proximidade com Pan dá à história um centro familiar. Gohan precisa responder à ameaça, e o confronto com Cell Max reúne aliados com funções diferentes. O aprendizado aparece no golpe de Gohan que remete ao mestre, mas também na pequena conquista de Pan. A estratégia de simular perigo para mobilizar Gohan permanece questionável fora da lógica da ficção.",
+      "lessons": [
+        "Ensinar também é comparecer e acompanhar o cotidiano.",
+        "Herdar uma técnica pode expressar gratidão sem exigir copiar toda a vida do mestre.",
+        "Capacidade profissional e cuidado familiar precisam encontrar espaço na mesma agenda."
+      ],
+      "continuity": "Dragon Ball Super: Super Hero e sua adaptação expandida no mangá. O prólogo de Saiyaman X-1 e X-2 e acontecimentos posteriores são expansões do mangá.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1515.html",
+        "https://en.dragon-ball-official.com/news/01_1878.html",
+        "https://en.dragon-ball-official.com/news/01_2398.html",
+        "https://en.dragon-ball-official.com/news/01_3370.html"
+      ]
+    }
+  ],
+  "families": [
+    {
+      "id": "familia-son",
+      "name": "Goku, Chi-Chi e os filhos",
+      "members": [
+        "Goku",
+        "Chi-Chi",
+        "Gohan",
+        "Goten",
+        "Son Gohan, o avô",
+        "Gyumao"
+      ],
+      "relationships": [
+        "Goku e Chi-Chi são casados.",
+        "Gohan e Goten são filhos do casal.",
+        "Son Gohan criou Goku como avô adotivo; não é o filho Gohan.",
+        "Gyumao é pai de Chi-Chi e avô materno de Gohan e Goten."
+      ],
+      "description": "Essa família põe lado a lado aventura, estudo, sobrevivência financeira e cuidado diário. Os desacordos não provam falta de afeto, mas afeto também não resolve por si só a distribuição de responsabilidades. A história permite discutir tanto a coragem de proteger quanto a importância de estar disponível depois que a batalha termina.",
+      "lesson": "Um compromisso familiar fica mais claro quando tem ação, horário e responsável. Perguntar de que ajuda alguém precisa costuma ser mais útil do que presumir.",
+      "continuity": "Mangá Dragon Ball. Paternidade biológica, criação adotiva e relação com os mestres são vínculos distintos.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_23.html",
+        "https://en.dragon-ball-official.com/news/01_1412.html",
+        "https://en.dragon-ball-official.com/news/01_1226.html",
+        "https://en.dragon-ball-official.com/news/01_2302.html"
+      ]
+    },
+    {
+      "id": "familia-capsula",
+      "name": "Bulma, Vegeta e a família da Capsule Corporation",
+      "members": [
+        "Bulma",
+        "Vegeta",
+        "Trunks",
+        "Bra",
+        "Dr. Brief",
+        "Mãe de Bulma"
+      ],
+      "relationships": [
+        "Bulma e Vegeta são pais de Trunks e Bra.",
+        "Dr. Brief e sua esposa são os pais de Bulma.",
+        "Vegeta é filho do Rei Vegeta.",
+        "Trunks do Futuro nasce das versões de Bulma e Vegeta de outra linha temporal."
+      ],
+      "description": "A casa reúne ciência, recursos materiais e a transformação de um príncipe que chegou como invasor. Bulma não funciona apenas como apoio ao desenvolvimento de Vegeta: tem projetos, decisões e relevância próprios. O contraste entre o filho criado na paz e o filho de um futuro devastado mostra por que contexto importa na formação de uma pessoa.",
+      "lesson": "Evite comparar duas pessoas apenas pela origem familiar. Apoio, segurança, perdas e oportunidades também compõem suas trajetórias.",
+      "continuity": "Família da linha principal de Dragon Ball e Super, com contraste explicitamente identificado com o futuro de Trunks.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3933.html",
+        "https://en.dragon-ball-official.com/news/01_2351.html",
+        "https://en.dragon-ball-official.com/news/01_2350.html",
+        "https://en.dragon-ball-official.com/news/01_3929.html"
+      ]
+    },
+    {
+      "id": "familia-gohan-videl",
+      "name": "Gohan, Videl e Pan",
+      "members": [
+        "Gohan",
+        "Videl",
+        "Pan",
+        "Mr. Satan",
+        "Goku",
+        "Chi-Chi",
+        "Piccolo"
+      ],
+      "relationships": [
+        "Gohan e Videl são casados e têm uma filha, Pan.",
+        "Mr. Satan é pai de Videl e avô materno de Pan.",
+        "Goku e Chi-Chi são avós paternos de Pan.",
+        "Piccolo participa como mestre e cuidador próximo, sem parentesco biológico."
+      ],
+      "description": "Pan liga a família Son à de Mr. Satan e convive com estilos de cuidado diferentes. O pesquisador, a artista marcial, os avós e o mentor oferecem referências que não precisam disputar exclusividade. A presença de Piccolo não elimina a responsabilidade dos pais: amplia uma rede em que cuidar pode ser compartilhado de forma explícita.",
+      "lesson": "Valorize quem busca na escola, escuta uma dúvida e acompanha uma pequena conquista. Vínculos se constroem também em tarefas que raramente recebem aplauso.",
+      "continuity": "Final do mangá Dragon Ball e Super Hero. A Pan de GT tem trajetória própria.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1126.html",
+        "https://en.dragon-ball-official.com/news/01_1292.html",
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ]
+    },
+    {
+      "id": "familia-kuririn",
+      "name": "Kuririn, 18, Marron e 17",
+      "members": [
+        "Kuririn",
+        "Androide 18",
+        "Marron",
+        "Androide 17"
+      ],
+      "relationships": [
+        "Kuririn e Androide 18 são casados.",
+        "Marron é filha do casal.",
+        "17 e 18 são irmãos gêmeos, originalmente humanos.",
+        "17 é tio de Marron e cunhado de Kuririn."
+      ],
+      "description": "A família evidencia como a palavra androide pode induzir uma conclusão errada: 17 e 18 não têm a mesma origem de uma máquina inteiramente construída. Também mostra a distância entre aliança presente e programação original. A vida de 18 não pertence ao cientista que a modificou, e seu vínculo conjugal não precisa apagar sua personalidade independente.",
+      "lesson": "Pergunte como uma pessoa define a si mesma. Rótulos e histórias anteriores podem ser informações relevantes sem se tornarem uma sentença sobre o futuro.",
+      "continuity": "Linha principal do mangá Dragon Ball e Super. As contrapartes futuras dos gêmeos têm outra história.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_838.html",
+        "https://en.dragon-ball-official.com/news/01_3483.html"
+      ]
+    },
+    {
+      "id": "familia-bardock",
+      "name": "Bardock, Gine e a origem de Kakarotto",
+      "members": [
+        "Bardock",
+        "Gine",
+        "Raditz",
+        "Kakarotto / Goku"
+      ],
+      "relationships": [
+        "Bardock e Gine são os pais de Raditz e Kakarotto.",
+        "Raditz é o irmão mais velho de Goku.",
+        "Gohan e Goten são netos biológicos de Bardock e Gine.",
+        "A criação de Goku na Terra foi realizada por Son Gohan, sem participação de seus pais biológicos."
+      ],
+      "description": "A linhagem saiyajin explica parte da origem de Goku, mas não substitui sua educação terrestre. Herança e pertencimento aparecem como dimensões que podem coexistir. A decisão de proteger Kakarotto é significativa, sem transformar Bardock em alguém que nunca participou de violência. A família torna a história mais complexa, não mais simples.",
+      "lesson": "Conhecer a própria origem pode ampliar a compreensão pessoal sem determinar quem você deve ser ou a quem deve lealdade incondicional.",
+      "continuity": "Mangá Dragon Ball e expansões ligadas a Gine, Minus e Super. O especial clássico de Bardock possui elementos narrativos diferentes.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_260.html",
+        "https://en.dragon-ball-official.com/news/01_1413.html"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "aprender-processo",
+      "title": "O aprendizado pode estar no processo",
+      "scene": "Na torre de Karin, Goku procura obter uma água que acredita capaz de fortalecê-lo. O desafio de alcançá-la é o treinamento; nessa etapa, o conteúdo do recipiente é água comum.",
+      "interpretation": "Uma leitura possível é que resultados sustentados vêm de ações específicas, não de objetos carregados de promessa. Isso não significa que toda solução seja individual: ferramentas, professores e condições adequadas podem ser necessários.",
+      "practice": "Escolha uma habilidade pequena e descreva seu obstáculo em uma frase. Faça uma tentativa curta, observe o erro e altere apenas um aspecto na tentativa seguinte. Registre o que mudou, sem cobrar uma transformação imediata.",
+      "ethicalLimit": "Não reproduza a escalada, o risco físico ou a lógica de enganar alunos. Dificuldade só é útil quando tem finalidade, apoio e limites aceitáveis.",
+      "continuity": "Dragon Ball, arco Red Ribbon. Reflexão editorial, distinta da Água Superdivina do arco posterior.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1638.html"
+      ]
+    },
+    {
+      "id": "derrota-informacao",
+      "title": "Uma derrota pode conter informação",
+      "scene": "Goku termina como vice-campeão nos torneios de número 21 e 22 e conquista o título no 23º. O percurso é interrompido por aventuras e conflitos que mudam sua preparação.",
+      "interpretation": "A série permite observar progresso sem uma linha perfeita de vitórias. Uma tentativa frustrada pode revelar uma lacuna, mas também pode refletir condições desfavoráveis ou um objetivo inadequado. Nem tudo depende de esforço.",
+      "practice": "Depois de uma tarefa, escreva três linhas: o que aconteceu, o que estava sob seu controle e o que faria diferente. Escolha somente um ajuste para o próximo ciclo. Se o objetivo deixou de fazer sentido, redefini-lo também é uma opção.",
+      "ethicalLimit": "Não transforme fracasso em obrigação de insistir para sempre. Abandonar uma atividade nociva ou inviável pode ser uma decisão responsável.",
+      "continuity": "Torneios do mangá Dragon Ball; interpretação aplicada a tarefas cotidianas de baixo risco.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_478.html",
+        "https://en.dragon-ball-official.com/news/01_1502.html"
+      ]
+    },
+    {
+      "id": "coragem-com-medo",
+      "title": "A contribuição possível é suficiente para começar",
+      "scene": "Na batalha contra Vegeta, Kuririn recebe de Goku a energia preparada para a Genki Dama e participa do ataque, enquanto Gohan também intervém. O resultado depende de ações combinadas.",
+      "interpretation": "Coragem pode ser definida aqui como uma ação útil apesar do medo, não como ausência de medo. A cena também desloca a pergunta de quem é mais forte para quem pode realizar cada parte do plano.",
+      "practice": "Quando uma tarefa parecer grande, identifique um gesto possível: reunir um documento, avisar alguém, pedir uma explicação ou combinar ajuda. Não precisa começar pela parte mais difícil. Uma contribuição pequena e clara permite coordenação.",
+      "ethicalLimit": "Em perigo real, priorizar distância, proteção e ajuda adequada vale mais que provar bravura. A cena de combate é uma metáfora, não instrução de confronto.",
+      "continuity": "Saga saiyajin do mangá Dragon Ball.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_503.html",
+        "https://en.dragon-ball-official.com/news/01_3929.html"
+      ]
+    },
+    {
+      "id": "vocacao-propria",
+      "title": "Talento não escolhe sua vida por você",
+      "scene": "Gohan demonstra grande potencial de combate desde criança e também expressa vontade de se tornar estudioso. Mais tarde, sua identidade inclui pesquisa, casamento e paternidade.",
+      "interpretation": "Habilidade e desejo não são equivalentes. É possível admirar o talento de alguém e ainda assim não compreender o tipo de vida que essa pessoa pretende construir. A cena convida a ouvir antes de projetar um destino.",
+      "practice": "Separe uma folha em três partes: aquilo que sei fazer, aquilo que quero desenvolver e aquilo de que preciso cuidar. Procure uma pequena decisão que respeite as três, sem exigir que coincidam completamente. Converse sobre a escolha com quem será afetado.",
+      "ethicalLimit": "Não use potencial como justificativa para pressionar uma criança ou para desvalorizar uma carreira. A pessoa continua tendo direito a preferências e limites.",
+      "continuity": "Gohan no mangá Dragon Ball e em Super Hero.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_503.html",
+        "https://en.dragon-ball-official.com/news/01_1515.html",
+        "https://en.dragon-ball-official.com/news/01_1292.html"
+      ]
+    },
+    {
+      "id": "cuidado-presenca",
+      "title": "Cuidado aparece na agenda",
+      "scene": "Em Super Hero, Piccolo participa do treinamento de Pan e a busca na escola. A história dá visibilidade a ações domésticas que sustentam a relação entre eles.",
+      "interpretation": "Afeto pode aparecer em gestos grandes, mas a confiança costuma ser percebida também na repetição de compromissos simples. Isso não exige disponibilidade ilimitada: uma rede de apoio funciona melhor com combinações honestas.",
+      "practice": "Escolha um compromisso pequeno com alguém importante e transforme-o em uma ação verificável: uma conversa sem distrações, uma tarefa da casa ou um acompanhamento previamente combinado. Reserve o tempo e confirme se a ajuda é desejada.",
+      "ethicalLimit": "Cuidar não significa controlar, invadir privacidade ou assumir tudo sozinho. A encenação de perigo usada no filme não é um modelo de educação.",
+      "continuity": "Filme Super Hero e sua expansão no mangá Dragon Ball Super.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1878.html",
+        "https://en.dragon-ball-official.com/news/01_2398.html"
+      ]
+    },
+    {
+      "id": "orgulho-consequencias",
+      "title": "Antes do desafio, pergunte quem paga o preço",
+      "scene": "Vegeta aceita permitir que Cell alcance sua forma perfeita e impede a intervenção de Trunks. O adversário explora sua vontade de enfrentar alguém mais forte.",
+      "interpretation": "A decisão mostra como uma preferência pessoal pode se disfarçar de teste legítimo. O problema não é desejar um desafio; é colocar outras pessoas em risco sem que elas tenham escolhido participar.",
+      "practice": "Antes de aumentar o escopo de um compromisso, anote quem será afetado, o que pode ser perdido e quais condições exigiriam parar. Consulte as pessoas envolvidas. Um plano mais modesto e consentido pode ser uma escolha melhor.",
+      "ethicalLimit": "Não interprete a cena como manual de negociação agressiva. Orgulho ferido não dá autorização para apostar recursos ou segurança de terceiros.",
+      "continuity": "Saga Cell do mangá Dragon Ball.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1235.html"
+      ]
+    },
+    {
+      "id": "vitoria-coletiva",
+      "title": "Dê nome a quem ajudou",
+      "scene": "Na conclusão contra o Boo puro, a Genki Dama reúne contribuições de muitas pessoas, e Mr. Satan ajuda a conquistar a participação dos habitantes da Terra.",
+      "interpretation": "A imagem concentra o golpe em Goku, mas o resultado pertence a uma rede. Uma leitura cotidiana é que o trabalho visível frequentemente depende de preparação e apoio que recebem menos reconhecimento.",
+      "practice": "Ao terminar um projeto, liste três contribuições de outras pessoas e agradeça por algo específico. Se você coordenou, registre também o que faltou oferecer à equipe. Na próxima tarefa, peça ajuda antes de chegar ao esgotamento.",
+      "ethicalLimit": "Agradecimento não substitui remuneração, crédito ou divisão justa de carga. Ninguém deve ser pressionado a se sacrificar pelo sucesso de outro.",
+      "continuity": "Encerramento da saga Boo no mangá Dragon Ball.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html"
+      ]
+    },
+    {
+      "id": "seguranca-antes-poder",
+      "title": "Sofrimento não é treinamento obrigatório",
+      "scene": "No filme Super: Broly, Paragus controla o filho, e Cheelai intervém para salvá-lo no desfecho. O crescimento de poder durante o combate acontece junto de perda de controle.",
+      "interpretation": "O personagem permite reconhecer a diferença entre capacidade e bem-estar. Sobreviver a experiências difíceis não significa que elas foram necessárias, benéficas ou que a pessoa deveria suportar mais.",
+      "practice": "Ao apoiar alguém, comece por perguntar qual ajuda é bem-vinda e quais situações precisam parar. Ofereça uma escolha concreta e limitada, como companhia para organizar um próximo passo. Respeite uma recusa e procure repartir a carga de apoio.",
+      "ethicalLimit": "Não romantize abuso nem prometa que carinho resolverá uma situação violenta. Proteção e apoio especializado podem ser necessários; esta é uma leitura da ficção.",
+      "continuity": "Dragon Ball Super: Broly, distinto dos filmes clássicos de Z.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_941.html"
+      ]
+    }
+  ],
+  "goku": {
+    "intro": "Goku inspira porque continua curioso diante de um mundo que se expande. Ele aprende com rivais, mestres, amigos e desconhecidos; gosta da atividade que pratica e consegue recomeçar depois de derrotas. Mas uma leitura adulta não precisa convertê-lo em um exemplo perfeito. Sua relação com o risco, suas falhas ao compreender Gohan e a tensão entre treino e família também fazem parte do personagem. O que vale trazer para a vida cotidiana é uma seleção consciente de atitudes, examinadas junto de seus limites.",
+    "identity": "Goku é um saiyajin criado na Terra. Seu corpo, suas transformações, o ki e as possibilidades de ressurreição pertencem à fantasia. Nenhuma dessas regras demonstra como corpos humanos respondem à dor, à privação ou ao esforço. Comparar-se literalmente a ele seria ignorar tanto a biologia ficcional quanto os recursos narrativos que o protegem.",
+    "nuance": "Goku não vence sempre e não age apenas por altruísmo: ele ama lutar. Seu prazer pela competição pode aproximá-lo de pessoas e também levá-lo a escolhas perigosas. Há derrotas diante de Jackie Chun, Tenshinhan e Bills, além de situações nas quais outros concluem o combate. Reconhecer isso torna a inspiração mais útil: há qualidades a cultivar e decisões a questionar.",
+    "chapters": [
+      {
+        "title": "Curiosidade: permitir que o mundo surpreenda",
+        "story": "Ao conhecer Bulma, Goku sai de uma vida isolada para uma viagem cheia de máquinas, cidades e pessoas que não compreende. O encontro inicial não acontece entre dois especialistas: cada um sabe algo que o outro desconhece.",
+        "reflection": "Curiosidade começa quando uma lacuna deixa de ser vergonha e passa a ser pergunta. Goku frequentemente se interessa antes de avaliar se parecerá inteligente. Essa abertura pode inspirar, mas sua ingenuidade também o coloca em dificuldade. Na vida cotidiana, curiosidade funciona melhor acompanhada de verificação: uma explicação atraente ainda precisa fazer sentido, e entusiasmo não é prova de confiança. Perguntar não obriga a aceitar, comprar, concordar ou seguir adiante.",
+        "practice": "Reserve dez minutos para uma pergunta pequena que realmente lhe interessa. Escreva o que você acha que sabe, consulte uma fonte adequada e registre uma coisa que mudou. Se a resposta continuar incerta, mantenha a pergunta aberta. A meta é compreender melhor, sem transformar cada interesse em um novo projeto obrigatório."
+      },
+      {
+        "title": "Humildade: continuar aluno depois de uma conquista",
+        "story": "Goku perde para Jackie Chun no 21º torneio e continua treinando. Muito depois, Bills o derrota, e a chegada de Whis abre outra etapa de aprendizado.",
+        "reflection": "A humildade útil reconhece uma diferença concreta entre aquilo que já sabemos e aquilo que ainda não conseguimos fazer. Ela não exige negar conquistas nem aceitar humilhação. Em Goku, a presença de alguém mais habilidoso costuma despertar interesse; fora da ficção, também é legítimo sentir frustração. A comparação pode informar o próximo passo, mas não deve se tornar uma sentença sobre valor pessoal. Um professor competente ajuda a transformar a diferença em caminho praticável.",
+        "practice": "Escolha uma habilidade que precisa melhorar e peça feedback sobre um comportamento observável. Prefira uma pergunta delimitada, como qual parte da explicação ficou confusa. Ouça, anote e teste uma mudança. Você pode aceitar uma observação útil sem aceitar agressividade, exposição pública ou exigências incompatíveis com seus limites."
+      },
+      {
+        "title": "Prática deliberada: saber o que está sendo treinado",
+        "story": "Com Karin, Goku precisa aprender a acompanhar movimentos para alcançar o recipiente. Com Gohan, na preparação para Cell, trabalha para tornar o estado de Super Saiyajin mais habitual.",
+        "reflection": "Essas cenas sugerem uma diferença entre repetir muito e repetir com um objetivo. A primeira pergunta não precisa ser quanto sofrimento você suporta, mas qual componente está tentando melhorar. Velocidade, compreensão e consistência podem exigir exercícios diferentes. A metáfora tem limites: saiyajins aprendem em condições que não existem para seres humanos. O ponto aproveitável é organizar uma tentativa, observar seu efeito e ajustar a próxima, sem confundir volume de esforço com qualidade de aprendizado.",
+        "practice": "Escolha uma microtarefa, como explicar um conceito sem consultar suas anotações. Faça uma rodada breve e identifique uma lacuna. Consulte a resposta, reformule e tente novamente mais tarde. Registre um exemplo do que ficou claro. Se o exercício estiver apenas repetindo erros ou produzindo exaustão, mude o método ou peça orientação."
+      },
+      {
+        "title": "Descanso: encerrar o treino também é uma decisão",
+        "story": "Antes dos Jogos de Cell, Goku passa um período descansando com Gohan depois do treinamento na Sala do Espírito e do Tempo. Ele não trata toda hora disponível como uma obrigação de aumentar o esforço.",
+        "reflection": "A cena contrasta com a imagem de um personagem que apenas ultrapassa limites. Saber parar pode ser parte de preparar-se, e tempo livre não precisa ser justificado somente pela produtividade que produzirá depois. O descanso também tem valor como experiência de vida. Não existe aqui um protocolo científico extraído do anime: há uma pergunta sobre o hábito de sentir culpa quando não estamos produzindo. Um projeto importante não deveria tornar alimentação, sono, afeto e lazer invisíveis.",
+        "practice": "Escolha um horário possível para encerrar uma atividade e deixe uma nota com o próximo passo. Essa pequena preparação pode facilitar a retomada sem manter a tarefa aberta o tempo inteiro. Use uma pausa para algo de que goste ou simplesmente para não fazer nada. Se precisar renegociar uma entrega, comunique antes de tentar compensar tudo com esforço sem fim."
+      },
+      {
+        "title": "Cooperação: receber ajuda sem desaparecer",
+        "story": "Contra Vegeta, Goku termina ferido e depende das intervenções de Gohan, Kuririn e Yajirobe. O protagonista continua importante, mas não controla sozinho o resultado.",
+        "reflection": "Há uma forma de orgulho que aceita liderar, mas não aceita precisar. A cena enfraquece essa fantasia de autossuficiência. Contribuições são diferentes: alguém percebe uma abertura, outra pessoa transmite algo, outra interrompe uma ameaça. Fora da batalha, coordenação envolve dizer de que se precisa e ouvir o que o outro pode oferecer. Pedir ajuda não exige entregar toda a autonomia; significa construir um acordo, com responsabilidade distribuída e espaço para uma resposta negativa.",
+        "practice": "Para uma tarefa pendente, escreva três partes: o que você fará, de que ajuda precisa e quando é necessário combinar a próxima etapa. Faça um pedido específico e proporcional, explicando seu objetivo. Depois reconheça a contribuição recebida. Se ninguém puder ajudar, reduza o escopo ou reveja o prazo em vez de fingir capacidade ilimitada."
+      },
+      {
+        "title": "Perdão com limites: mudança precisa de evidência",
+        "story": "Goku pede que Kuririn poupe Vegeta no fim da invasão saiyajin porque deseja enfrentá-lo novamente. O rival acaba se tornando aliado, mas esse desfecho não estava garantido naquele momento.",
+        "reflection": "A cena é frequentemente lembrada como confiança na mudança. Ela também contém uma motivação competitiva e um risco imposto a outros. Uma leitura equilibrada distingue abrir uma possibilidade de restaurar confiança sem evidência. Perdoar, retomar convivência e devolver acesso são decisões separadas. Uma pessoa pode mudar, mas ninguém tem obrigação de permanecer disponível enquanto espera. O futuro favorável de Vegeta não transforma qualquer segunda chance em uma decisão prudente.",
+        "practice": "Quando considerar retomar um acordo, descreva o comportamento que precisaria mudar, o limite que você pretende manter e como observará consistência ao longo do tempo. Não baseie a decisão apenas em promessas ou na própria esperança. Você pode desejar que alguém melhore e ainda escolher distância, recusar uma parceria ou encerrar contato."
+      },
+      {
+        "title": "Erros: a semente dos deuses oferecida a Cell",
+        "story": "Nos Jogos de Cell, Goku entrega uma semente dos deuses ao adversário antes do confronto com Gohan. Ele reconhece o potencial do filho, mas não compreende plenamente sua resistência emocional à luta.",
+        "reflection": "O episódio revela uma falha de perspectiva: imaginar que outra pessoa vive o desafio como você vive. Gohan derrotar Cell não resolve a questão ética da decisão anterior. Resultados e processos precisam ser examinados separadamente; uma aposta arriscada pode terminar bem, e uma escolha cuidadosa pode enfrentar um desfecho ruim. A leitura proposta aqui rejeita o uso de raiva ou trauma como ferramentas educativas. Conhecer uma capacidade não dá permissão para provocar sofrimento a fim de demonstrá-la.",
+        "practice": "Ao revisar um erro, separe intenção, decisão, impacto e reparação possível. Escute quem foi afetado antes de explicar sua intenção. Em uma tarefa compartilhada, confirme disposição e condições antes de assumir que outra pessoa aceita o desafio. Troque a defesa automática do próprio plano por uma mudança concreta de procedimento."
+      },
+      {
+        "title": "Prazer pela luta e responsabilidade por uma vida inteira",
+        "story": "Goku encontra alegria genuína no combate. Ao mesmo tempo, o encontro com Goten na saga Boo mostra um filho que deseja proximidade com o pai. O personagem existe entre a aventura e os vínculos que continuam fora dela.",
+        "reflection": "Gostar profundamente de uma atividade pode sustentar aprendizado e dar sentido à vida. O problema surge quando o prazer de um passa a organizar toda a rotina dos outros sem acordo. A família não é apenas a plateia que torce pelo crescimento do herói. Também tem necessidades, projetos e direito à presença. Inspirar-se em Goku não exige imitá-lo inteiro: é possível preservar curiosidade e dedicação enquanto se constrói uma distribuição mais justa de tempo e cuidado.",
+        "practice": "Olhe a próxima semana e reserve espaço para três dimensões: uma atividade que você ama, uma responsabilidade concreta e um encontro de cuidado ou lazer. Faça combinações realistas com quem divide a rotina. Se os três não couberem, reduza o projeto ou renegocie tarefas. Viver bem pode significar escolher um limite antes que alguém precise pagar pelo excesso."
+      }
+    ],
+    "sources": [
+      "https://en.dragon-ball-official.com/news/01_23.html",
+      "https://en.dragon-ball-official.com/news/01_1502.html",
+      "https://en.dragon-ball-official.com/news/01_689.html",
+      "https://en.dragon-ball-official.com/news/01_1663.html",
+      "https://en.dragon-ball-official.com/news/01_1638.html",
+      "https://en.dragon-ball-official.com/news/01_1166.html",
+      "https://en.dragon-ball-official.com/news/01_3133.html",
+      "https://en.dragon-ball-official.com/news/01_3929.html",
+      "https://en.dragon-ball-official.com/news/01_1305.html",
+      "https://en.dragon-ball-official.com/news/01_1226.html"
+    ]
+  },
+  "techniques": [
+    {
+      "id": "kamehameha",
+      "name": "Kamehameha",
+      "users": [
+        "Mestre Kame",
+        "Goku",
+        "Kuririn",
+        "Gohan",
+        "Goten",
+        "Yamcha",
+        "Cell"
+      ],
+      "description": "Técnica da Escola da Tartaruga que concentra ki e o libera pelas mãos. Goku a aprende observando Kame, enquanto personagens diferentes desenvolvem suas próprias aplicações. O mesmo nome pode aparecer em ataques de intensidades e contextos muito distintos.",
+      "limitation": "Depende do usuário, de sua energia e da oportunidade de execução. Não é uma vitória automática nem exclusividade de Goku.",
+      "continuity": "Mangá Dragon Ball e adaptações; variações adicionais aparecem em Super e filmes.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_140.html",
+        "https://en.dragon-ball-official.com/news/01_141.html",
+        "https://en.dragon-ball-official.com/news/01_1258.html"
+      ]
+    },
+    {
+      "id": "galick-ho",
+      "name": "Galick Ho",
+      "users": [
+        "Vegeta"
+      ],
+      "description": "Rajada concentrada de ki característica de Vegeta, conhecida como Galick Gun nas fontes em inglês. Sua pose e o modo de projetar a energia distinguem visualmente o golpe do Kamehameha.",
+      "limitation": "O confronto de rajadas depende das condições dos lutadores. O nome da técnica não estabelece superioridade permanente sobre outra.",
+      "continuity": "Apresentada no confronto entre Goku e Vegeta na saga saiyajin; outros usuários e combinações aparecem posteriormente.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3929.html"
+      ]
+    },
+    {
+      "id": "makankosappo",
+      "name": "Makankosappo",
+      "users": [
+        "Piccolo",
+        "Gohan"
+      ],
+      "description": "Ataque perfurante no qual o usuário reúne energia junto à testa e a dispara pelos dedos. Piccolo o prepara como arma contra Goku e o utiliza na aliança contra Raditz. Gohan emprega a técnica em Super Hero, conectando o golpe à relação entre aluno e mestre.",
+      "limitation": "A preparação pode exigir tempo e uma abertura. Contra Raditz, a imobilização realizada por Goku é decisiva para acertar.",
+      "continuity": "Saga saiyajin de Dragon Ball; uso de Gohan em Super Hero.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1179.html",
+        "https://en.dragon-ball-official.com/news/01_1178.html",
+        "https://en.dragon-ball-official.com/news/01_3370.html"
+      ]
+    },
+    {
+      "id": "kienzan",
+      "name": "Kienzan",
+      "users": [
+        "Kuririn",
+        "Androide 18"
+      ],
+      "description": "Disco de ki com efeito cortante, associado a Kuririn. Pode ameaçar um adversário cuja força geral supera a do usuário, mostrando a importância de propriedades específicas e oportunidade tática.",
+      "limitation": "Não é uma lâmina infalível: acertar, surpreender e considerar as capacidades do alvo continuam importantes. Um golpe perigoso não torna seguro um confronto desigual.",
+      "continuity": "Mangá Dragon Ball; 18 demonstra a técnica no torneio da saga Boo.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1819.html",
+        "https://en.dragon-ball-official.com/news/01_3483.html"
+      ]
+    },
+    {
+      "id": "taiyoken",
+      "name": "Taiyoken",
+      "users": [
+        "Tenshinhan",
+        "Goku",
+        "Kuririn",
+        "Cell"
+      ],
+      "description": "Clarão intenso que prejudica temporariamente a visão. A técnica, ligada à Escola da Garça, demonstra que criar uma oportunidade de fuga ou reposicionamento pode ser tão útil quanto produzir dano.",
+      "limitation": "Seu efeito é temporário e depende de surpreender a visão do oponente. Exposição não equivale a incapacitação permanente, e proteger os olhos pode mudar o resultado.",
+      "continuity": "Mangá Dragon Ball; também chamada de Solar Flare nas fontes em inglês.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_144.html",
+        "https://en.dragon-ball-official.com/news/01_1235.html"
+      ]
+    },
+    {
+      "id": "kikoho",
+      "name": "Kikoho",
+      "users": [
+        "Tenshinhan"
+      ],
+      "description": "Técnica da Escola da Garça que concentra uma grande descarga de energia. Sua evolução, o Shin Kikoho, permite a Tenshinhan conter Cell por um período e criar tempo para outros escaparem.",
+      "limitation": "Seu uso cobra um custo severo do usuário. O impacto tático de conter um inimigo não deve ser confundido com capacidade de derrotá-lo ou com uma defesa da exaustão.",
+      "continuity": "Mangá Dragon Ball, do 22º torneio às intervenções contra Cell e Boo.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_144.html",
+        "https://en.dragon-ball-official.com/news/01_1235.html",
+        "https://en.dragon-ball-official.com/news/01_4397.html"
+      ]
+    },
+    {
+      "id": "bukujutsu",
+      "name": "Bukujutsu — voo por ki",
+      "users": [
+        "Tenshinhan",
+        "Goku",
+        "Gohan",
+        "Videl",
+        "Pan",
+        "Muitos outros lutadores"
+      ],
+      "description": "Permite mover-se pelo ar por controle de ki. A aprendizagem de Videl com Gohan e o desenvolvimento de Pan ajudam a mostrar a técnica como uma habilidade, além de uma conveniência visual das batalhas.",
+      "limitation": "Aprender exige controle, e alguns torneios impõem regras próprias. Não é uma capacidade real demonstrada por artes marciais humanas.",
+      "continuity": "Mangá Dragon Ball e Super; o momento em que Pan aprende é tratado de maneira própria em Super Hero.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1292.html",
+        "https://en.dragon-ball-official.com/news/01_144.html",
+        "https://en.dragon-ball-official.com/news/01_2398.html"
+      ]
+    },
+    {
+      "id": "kaioken",
+      "name": "Kaioken",
+      "users": [
+        "Goku"
+      ],
+      "description": "Método ensinado pelo Senhor Kaioh para elevar temporariamente o desempenho a partir do controle do ki. A aura avermelhada diferencia visualmente essa intensificação das transformações saiyajins.",
+      "limitation": "Exige grande controle e pode sobrecarregar o corpo. Não serve como analogia literal para ignorar dor, aumentar medicamentos ou trabalhar sem descanso.",
+      "continuity": "Saga saiyajin e Namek; a combinação com Super Saiyajin Blue é especialmente associada ao anime de Super.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_277.html",
+        "https://en.dragon-ball-official.com/news/01_657.html",
+        "https://en.dragon-ball-official.com/news/01_970.html"
+      ]
+    },
+    {
+      "id": "genki-dama",
+      "name": "Genki Dama",
+      "users": [
+        "Goku",
+        "Kuririn, ao receber a energia preparada por Goku"
+      ],
+      "description": "Reúne energia vital para produzir uma esfera ofensiva. Ensinada pelo Senhor Kaioh, aparece em situações nas quais Goku precisa de tempo, proteção e contribuições externas. Sua imagem funciona muito bem como símbolo de participação coletiva.",
+      "limitation": "A preparação pode deixar o usuário vulnerável. Seu tamanho visual e a participação de muitos não garantem resultado em qualquer situação.",
+      "continuity": "Mangá Dragon Ball e histórias posteriores; as circunstâncias variam conforme o arco.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_657.html",
+        "https://en.dragon-ball-official.com/news/01_503.html",
+        "https://en.dragon-ball-official.com/news/01_3878.html"
+      ]
+    },
+    {
+      "id": "teletransporte",
+      "name": "Teletransporte — Shunkan Ido",
+      "users": [
+        "Goku",
+        "Habitantes de Yardrat",
+        "Vegeta no mangá de Super"
+      ],
+      "description": "Técnica aprendida por Goku em Yardrat, ligada ao controle espiritual ensinado por Pybara. Em seus usos habituais, Goku localiza um ki para orientar o deslocamento e também pode levar pessoas em contato com ele.",
+      "limitation": "Não é deslocamento livre e garantido para qualquer coordenada. Perceber um destino adequado e ter condições de usar a técnica importa para seu funcionamento.",
+      "continuity": "Dragon Ball após Namek; Pybara e o aprendizado de Vegeta são desenvolvidos no mangá de Super.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2841.html",
+        "https://en.dragon-ball-official.com/news/01_314.html"
+      ]
+    },
+    {
+      "id": "fusao",
+      "name": "Fusão metamoru",
+      "users": [
+        "Goten e Trunks, formando Gotenks",
+        "Goku e Vegeta, formando Gogeta"
+      ],
+      "description": "Dois participantes ajustam condições e executam movimentos sincronizados para criar temporariamente um novo guerreiro. A necessidade de coordenação transforma uma habilidade individual em tarefa conjunta.",
+      "limitation": "Movimentos incorretos produzem resultados inadequados, e a fusão tem duração limitada. Gotenks mostra que a personalidade resultante pode continuar imprudente. Não confundir com a fusão dos brincos Potara.",
+      "continuity": "Ensinada na saga Boo; Gogeta aparece em filmes com continuidades próprias, incluindo Super: Broly.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1226.html",
+        "https://en.dragon-ball-official.com/news/01_941.html"
+      ]
+    },
+    {
+      "id": "mafuba",
+      "name": "Mafuba",
+      "users": [
+        "Mutaito",
+        "Mestre Kame",
+        "Tenshinhan",
+        "Goku em Super"
+      ],
+      "description": "Técnica de selamento que captura o alvo em um recipiente preparado. Ela desloca o problema de superar a força do adversário para conseguir contê-lo, com grande importância do preparo e dos materiais.",
+      "limitation": "É desgastante e depende da execução e das condições de selamento. No mangá clássico, um recipiente quebrado impede o plano de Tenshinhan contra Piccolo Daimaoh.",
+      "continuity": "Dragon Ball e usos posteriores em Super; o funcionamento detalhado deve ser consultado na versão da cena.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_144.html",
+        "https://en.dragon-ball-official.com/news/01_4410.html"
+      ]
+    }
+  ]
+}
