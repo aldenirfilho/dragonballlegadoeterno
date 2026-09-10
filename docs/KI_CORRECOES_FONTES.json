@@ -1,0 +1,188 @@
+{
+  "checkedAt": "2026-09-10",
+  "corrections": [
+    {
+      "recordId": "freeza-final-goku-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_314.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_1899.html",
+      "reason": "A página 314 trata de Ginger Town e Cell. A alternativa identifica Goku Super Saiyajin no fim do arco Freeza, em Namek.",
+      "scope": "phase-and-form",
+      "numericSourceChanged": false
+    },
+    {
+      "recordId": "androides-vegeta-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_1235.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_912.html",
+      "reason": "A página 1235 trata de Cell em sua segunda forma e Super Vegeta. A alternativa descreve a estreia de Vegeta Super Saiyajin contra Androide 19.",
+      "scope": "phase-and-form",
+      "numericSourceChanged": false
+    },
+    {
+      "recordId": "androides-piccolo-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_1257.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_314.html",
+      "reason": "A página 1257 trata de Cell perfeito. A alternativa identifica Piccolo após a união com Kami em Ginger Town.",
+      "scope": "phase-and-form",
+      "numericSourceChanged": false
+    },
+    {
+      "recordId": "boo-despertar-vegeta-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_2351.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_2526.html",
+      "reason": "A página 2351 é o perfil de Bulma da linha futura. A alternativa identifica Majin Vegeta e seu ataque contra Boo.",
+      "scope": "phase-and-form",
+      "numericSourceChanged": false
+    },
+    {
+      "recordId": "gt-baby-vegeta-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_3786.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_2431.html",
+      "reason": "A página 3786 divulga somente Goku SS4. A alternativa explica Baby dominando o corpo de Vegeta e a forma Super Baby 2.",
+      "scope": "phase-and-form",
+      "numericSourceChanged": false
+    },
+    {
+      "recordId": "torneio-poder-goku-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_2735.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_3987.html",
+      "reason": "A página 2735 é o perfil de Damon no mangá. A alternativa identifica Goku com Instinto Superior no confronto com Jiren.",
+      "scope": "phase-and-form",
+      "numericSourceChanged": false
+    },
+    {
+      "recordId": "origens-yamcha-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_3753.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_302.html",
+      "reason": "01_3753 é Yamcha no arco Androides/Cell. 01_302 descreve a fase de bandido do deserto e a busca inicial."
+    },
+    {
+      "recordId": "torneio-22-yamcha-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_2793.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_494.html",
+      "reason": "01_2793 é Yamcha no arco Freeza. 01_494 identifica explicitamente a aparência do Tale 117 no 22º torneio."
+    },
+    {
+      "recordId": "freeza-formas-freeza-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_1819.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_576.html",
+      "reason": "01_576 é o perfil específico da primeira forma e confirma expressamente 530.000; pode substituir 01_1819 sem perder o fundamento numérico, embora a página anterior também mencione o valor em retrospecto."
+    },
+    {
+      "recordId": "freeza-final-freeza-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_3615.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_1493.html",
+      "reason": "01_3615 é o perfil da terceira forma e apenas anuncia a transformação seguinte; 01_1493 identifica a quarta/última forma no duelo de Namek. A nova página é de produto e serve à identificação visual, sem fornecer índice de poder."
+    },
+    {
+      "recordId": "androides-android-18-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_838.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_181.html",
+      "reason": "01_838 é o perfil de Androide 17, embora também cite 18. 01_181 identifica diretamente a energia artificial e a personagem na fase Androides/Cell."
+    },
+    {
+      "recordId": "boo-final-majin-boo-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_1796.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_4397.html",
+      "reason": "01_1796 é uma entrevista com fã. 01_4397 descreve diretamente Boo após absorver Gotenks/Piccolo e depois Gohan; sustenta a fase de absorções, sem números."
+    },
+    {
+      "recordId": "torneio-poder-android-17-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_2735.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_300.html",
+      "reason": "01_2735 cobre Damon no mangá; a ficha identifica o anime. 01_300 vincula 17 ao Torneio do Poder e à versão Universe Survival. Página de produto, útil à aparência/fase, sem índice de ki."
+    },
+    {
+      "recordId": "torneio-poder-android-18-1",
+      "oldUrl": "https://en.dragon-ball-official.com/news/01_3484.html",
+      "newUrl": "https://en.dragon-ball-official.com/news/01_301.html",
+      "reason": "01_3484 é Kuririn em Androides/Cell. 01_301 vincula expressamente Androide 18 e seu traje ao Torneio do Poder do anime. Página de produto, sem índice de ki."
+    },
+    {
+      "recordId": "piccolo-daimaoh-mestre-kame-1",
+      "oldSources": [
+        "https://en.dragon-ball-official.com/news/01_141.html"
+      ],
+      "newSources": [
+        "https://en.dragon-ball-official.com/news/01_4410.html"
+      ],
+      "reason": "Referências específicas da fase, técnica e continuidade; sem alterar números de poder."
+    },
+    {
+      "recordId": "torneio-poder-freeza-1",
+      "oldSources": [
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ],
+      "newSources": [
+        "https://en.dragon-ball-official.com/news/01_366.html",
+        "https://www.toei-anim.co.jp/tv/dragon_s/episode/summary/108/",
+        "https://www.toei-anim.co.jp/tv/dragon_s/special/22.html"
+      ],
+      "reason": "Referências específicas da fase, técnica e continuidade; sem alterar números de poder."
+    },
+    {
+      "recordId": "torneio-poder-kuririn-1",
+      "oldSources": [
+        "https://en.dragon-ball-official.com/news/01_3484.html"
+      ],
+      "newSources": [
+        "https://www.toei-anim.co.jp/tv/dragon_s/episode/summary/99/"
+      ],
+      "reason": "Referências específicas da fase, técnica e continuidade; sem alterar números de poder."
+    },
+    {
+      "recordId": "torneio-poder-mestre-kame-1",
+      "oldSources": [
+        "https://en.dragon-ball-official.com/news/01_1305.html"
+      ],
+      "newSources": [
+        "https://www.toei-anim.co.jp/tv/dragon_s/episode/summary/105/"
+      ],
+      "reason": "Referências específicas da fase, técnica e continuidade; sem alterar números de poder."
+    },
+    {
+      "recordId": "super-hero-goten-1",
+      "oldSources": [
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ],
+      "newSources": [
+        "https://en.dragon-ball-official.com/news/01_859.html",
+        "https://en.dragon-ball-official.com/news/01_2154.html",
+        "https://en.dragon-ball-official.com/news/01_1091.html"
+      ],
+      "reason": "Referências específicas da fase, técnica e continuidade; sem alterar números de poder."
+    },
+    {
+      "recordId": "super-hero-trunks-1",
+      "oldSources": [
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ],
+      "newSources": [
+        "https://en.dragon-ball-official.com/news/01_859.html",
+        "https://en.dragon-ball-official.com/news/01_2154.html",
+        "https://en.dragon-ball-official.com/news/01_1091.html"
+      ],
+      "reason": "Referências específicas da fase, técnica e continuidade; sem alterar números de poder."
+    },
+    {
+      "recordId": "torneio-poder-gohan-1",
+      "oldSources": [
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ],
+      "newSources": [
+        "https://www.toei-anim.co.jp/tv/dragon_s/episode/summary/90/",
+        "https://www.toei-anim.co.jp/tv/dragon_s/episode/summary/103/"
+      ],
+      "reason": "Sinopses específicas da continuidade anime em lugar de perfil de Damon do mangá; limite da fonte registrado."
+    },
+    {
+      "recordId": "torneio-poder-vegeta-1",
+      "oldSources": [
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ],
+      "newSources": [
+        "https://www.toei-anim.co.jp/tv/dragon_s/episode/summary/122/"
+      ],
+      "reason": "Sinopses específicas da continuidade anime em lugar de perfil de Damon do mangá; limite da fonte registrado."
+    }
+  ]
+}

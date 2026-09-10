@@ -1,0 +1,768 @@
+{
+  "checkedAt": "2026-09-10",
+  "entries": [
+    {
+      "id": "ki",
+      "term": "Ki",
+      "original": "気",
+      "reading": "ki",
+      "category": "energia",
+      "meaning": "Caractere associado a ânimo, espírito, intenção, atmosfera e respiração; o sentido depende do contexto.",
+      "inStory": "Na ficção, energia interna controlada para voar, concentrar poder e executar técnicas.",
+      "caution": "Não é uma unidade física nem comprovação de energia sobrenatural no corpo humano.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_362.html",
+        "https://dragon-ball-official.com/news/01_362.html"
+      ]
+    },
+    {
+      "id": "poder-de-luta",
+      "term": "Poder de luta",
+      "original": "戦闘力",
+      "reading": "sentōryoku",
+      "category": "energia",
+      "meaning": "Capacidade de combate; aparece traduzida também como nível ou poder de batalha.",
+      "inStory": "Scouters exibem uma leitura que pode mudar quando o personagem controla sua energia.",
+      "caution": "Um número momentâneo não resume técnica, estratégia ou resultado de uma luta.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2951.html"
+      ]
+    },
+    {
+      "id": "super-saiyajin",
+      "term": "Super Saiyajin",
+      "original": "超サイヤ人",
+      "reading": "sūpā saiya-jin",
+      "category": "energia",
+      "meaning": "Na escrita da obra, 超 representa superação e recebe a leitura especial de «super».",
+      "inStory": "Designa uma transformação Saiyajin; existem formas e contextos narrativos diferentes.",
+      "caution": "A grafia não fornece um multiplicador universal para todas as transformações.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_658.html",
+        "https://en.dragon-ball-official.com/news/01_941.html"
+      ]
+    },
+    {
+      "id": "zenkai",
+      "term": "Zenkai",
+      "original": "ZENKAI",
+      "reading": "zenkai",
+      "category": "energia",
+      "meaning": "Nome empregado oficialmente no sistema ZENKAI Awakening de Dragon Ball Legends.",
+      "inStory": "A recuperação Saiyajin pode acompanhar um aumento de poder na história. Esse acontecimento precisa ser distinguido da mecânica de Legends.",
+      "caution": "O sistema do jogo não define uma escala de recuperação para o mangá. A grafia em kanji e a etimologia desse uso popular não foram confirmadas nesta edição.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1297.html",
+        "https://en.dragon-ball-official.com/news/01_4036.html"
+      ]
+    },
+    {
+      "id": "kamehameha",
+      "term": "Kamehameha",
+      "original": "かめはめ波",
+      "reading": "kamehameha",
+      "category": "tecnicas",
+      "meaning": "Nome próprio da técnica. O caractere final 波 significa onda; isso não determina a etimologia do nome inteiro.",
+      "inStory": "A Escola da Tartaruga concentra energia e a libera pelas mãos.",
+      "caution": "«Onda do rei tartaruga» não é tradução documentada pela fonte consultada.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_140.html",
+        "https://dragon-ball-official.com/news/01_140.html"
+      ]
+    },
+    {
+      "id": "kaio-ken",
+      "term": "Kaio-ken",
+      "original": "界王拳",
+      "reading": "kaiōken",
+      "category": "tecnicas",
+      "meaning": "界 remete a domínio ou mundo; 王, a rei; 拳, a punho ou arte de combate desarmado. Leitura contextual: técnica de Kaio.",
+      "inStory": "Goku aprende com Kaio a amplificar temporariamente sua energia.",
+      "caution": "É uma técnica de amplificação, não o nome de uma transformação Saiyajin. A explicação dos caracteres não substitui o nome próprio.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_277.html",
+        "https://dragon-ball-official.com/news/01_277.html"
+      ]
+    },
+    {
+      "id": "genki-dama",
+      "term": "Genki-dama",
+      "original": "元気玉",
+      "reading": "genki-dama",
+      "category": "tecnicas",
+      "meaning": "玉 representa esfera; 元気 remete a vigor ou vitalidade. Uma tradução explicativa é «esfera de energia vital».",
+      "inStory": "Goku reúne pequenas contribuições de energia do ambiente e de outros seres.",
+      "caution": "A tradução é explicativa; não indica uma medida científica de energia.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_362.html",
+        "https://dragon-ball-official.com/news/01_362.html"
+      ]
+    },
+    {
+      "id": "buku-jutsu",
+      "term": "Buku-jutsu",
+      "original": "舞空術",
+      "reading": "bukūjutsu",
+      "category": "tecnicas",
+      "meaning": "Os caracteres combinam dançar, céu e técnica: uma imagem de movimento livre no ar.",
+      "inStory": "Permite voar por controle do ki; Gohan também a ensina a Videl.",
+      "caution": "A leitura descritiva dos caracteres não transforma a habilidade em uma prática real de levitação.",
+      "sources": [
+        "https://dragon-ball-official.com/news/01_144.html",
+        "https://en.dragon-ball-official.com/news/01_1292.html"
+      ]
+    },
+    {
+      "id": "shunkan-ido",
+      "term": "Shunkan Idō",
+      "original": "瞬間移動",
+      "reading": "shunkan idō",
+      "category": "tecnicas",
+      "meaning": "Deslocamento instantâneo; nome japonês da técnica conhecida como teletransporte.",
+      "inStory": "Pybara, de Yardrat, ensinou a habilidade a Goku e posteriormente a Vegeta no mangá Super.",
+      "caution": "Não atribuir automaticamente as mesmas regras a todos os teletransportes da franquia.",
+      "sources": [
+        "https://dragon-ball-official.com/news/01_2841.html",
+        "https://en.dragon-ball-official.com/news/01_2841.html"
+      ]
+    },
+    {
+      "id": "taiyo-ken",
+      "term": "Taiyo-ken",
+      "original": "太陽拳",
+      "reading": "taiyōken",
+      "category": "tecnicas",
+      "meaning": "太陽 significa Sol; 拳, punho ou técnica marcial: «técnica solar» é uma tradução possível.",
+      "inStory": "Um clarão intenso prejudica temporariamente a visão dos adversários.",
+      "caution": "Não depende de ser um soco físico, apesar de 拳 aparecer no nome.",
+      "sources": [
+        "https://dragon-ball-official.com/news/01_144.html",
+        "https://en.dragon-ball-official.com/news/01_159.html"
+      ]
+    },
+    {
+      "id": "kikoho",
+      "term": "Kikoho",
+      "original": "気功砲",
+      "reading": "kikōhō",
+      "category": "tecnicas",
+      "meaning": "気功 reúne ki e trabalho ou habilidade; 砲 indica canhão. O nome evoca uma descarga concentrada.",
+      "inStory": "Técnica de Tenshinhan com grande poder destrutivo e custo vital.",
+      "caution": "Não confundir com Kaio-ken, nem com práticas reais chamadas qigong ou kikō.",
+      "sources": [
+        "https://dragon-ball-official.com/news/01_144.html",
+        "https://en.dragon-ball-official.com/news/01_144.html"
+      ]
+    },
+    {
+      "id": "makankosappo",
+      "term": "Makankosappo",
+      "original": "魔貫光殺砲",
+      "reading": "makankōsappō",
+      "category": "tecnicas",
+      "meaning": "Os caracteres evocam demônio, perfuração, luz, morte e canhão; descrevem poeticamente um ataque perfurante.",
+      "inStory": "Piccolo concentra ki nos dedos e dispara um feixe em espiral.",
+      "caution": "«Canhão de luz demoníaca perfurante» é uma tradução editorial; não uma localização oficial brasileira.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_429.html"
+      ]
+    },
+    {
+      "id": "mafuba",
+      "term": "Mafuba",
+      "original": "魔封波",
+      "reading": "mafūba",
+      "category": "tecnicas",
+      "meaning": "魔 indica demônio; 封, selar; 波, onda: «onda de selamento demoníaco».",
+      "inStory": "A técnica aprisiona o alvo em um recipiente preparado.",
+      "caution": "É uma criação ficcional; a semelhança visual com talismãs não prova reprodução de um ritual religioso específico.",
+      "sources": [
+        "https://dragon-ball-official.com/news/01_144.html",
+        "https://en.dragon-ball-official.com/news/01_142.html"
+      ]
+    },
+    {
+      "id": "zanzoken",
+      "term": "Zanzoken",
+      "original": "残像拳",
+      "reading": "zanzōken",
+      "category": "tecnicas",
+      "meaning": "残像 significa imagem residual; 拳 integra o nome da técnica de combate.",
+      "inStory": "Movimentos rápidos deixam imagens aparentes que confundem o oponente.",
+      "caution": "Não é a mesma habilidade que criar corpos independentes.",
+      "sources": [
+        "https://dragon-ball-official.com/news/01_140.html",
+        "https://en.dragon-ball-official.com/news/01_1866.html"
+      ]
+    },
+    {
+      "id": "janken",
+      "term": "Jan-ken",
+      "original": "ジャン拳",
+      "reading": "janken",
+      "category": "tecnicas",
+      "meaning": "Brinca com o nome japonês de pedra, papel e tesoura e com 拳, punho.",
+      "inStory": "Goku aprende com seu avô uma sequência de golpes baseada nos três gestos.",
+      "caution": "A brincadeira cotidiana é inofensiva; os golpes exagerados pertencem à comédia de ação.",
+      "sources": [
+        "https://dragon-ball-official.com/news/01_140.html",
+        "https://en.dragon-ball-official.com/news/01_140.html",
+        "https://web-japan.org/kidsweb/archives/cool/03-10/handgames.html"
+      ]
+    },
+    {
+      "id": "kienzan",
+      "term": "Kienzan",
+      "original": "気円斬",
+      "reading": "kienzan",
+      "category": "tecnicas",
+      "meaning": "Os caracteres combinam ki, círculo e corte: «corte circular de ki» é uma tradução explicativa.",
+      "inStory": "Kuririn arremessa um ataque de energia cortante, como no confronto com Freeza.",
+      "caution": "O sentido do nome não demonstra que ele corte qualquer material ou adversário.",
+      "sources": [
+        "https://dragon-ball-official.com/news/01_943.html",
+        "https://en.dragon-ball-official.com/news/01_943.html"
+      ]
+    },
+    {
+      "id": "fusao",
+      "term": "Fusão",
+      "original": "フュージョン",
+      "reading": "fyūjon",
+      "category": "tecnicas",
+      "meaning": "Adaptação japonesa da palavra inglesa fusion, união ou fusão.",
+      "inStory": "A técnica combina dois lutadores; Goku a ensina a Goten e Trunks.",
+      "caution": "Dança da fusão, Potara e assimilação namekuseijin precisam ser descritos separadamente.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html"
+      ]
+    },
+    {
+      "id": "son-goku",
+      "term": "Son Goku",
+      "original": "孫悟空",
+      "reading": "Son Gokū",
+      "category": "nomes",
+      "meaning": "Nome retomado de Jornada ao Oeste, clássico chinês. 孫 é o sobrenome; 悟 envolve compreender; 空, céu ou vazio conforme o contexto.",
+      "inStory": "É o protagonista criado por Akira Toriyama.",
+      "caution": "Não tratar Goku como uma palavra que significa arroz, nem reduzir todo o personagem a uma tradução literal dos kanji.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_93.html"
+      ]
+    },
+    {
+      "id": "gohan",
+      "term": "Gohan",
+      "original": "悟飯 / ご飯",
+      "reading": "gohan",
+      "category": "nomes",
+      "meaning": "ご飯 é arroz cozido e também refeição. O nome 悟飯 troca a primeira parte pela escrita 悟, compartilhada com Goku.",
+      "inStory": "É o nome do avô adotivo de Goku e do filho mais velho de Goku.",
+      "caution": "A relação sonora é clara; «arroz iluminado» não é a tradução cotidiana da palavra gohan.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_93.html",
+        "https://en.dragon-ball-official.com/news/01_503.html",
+        "https://marugoto.jpf.go.jp/assets/docs/teacher/resource/starter_a/starter_activities_teachers_notes_EN.pdf"
+      ]
+    },
+    {
+      "id": "goten",
+      "term": "Goten",
+      "original": "孫悟天",
+      "reading": "Son Goten",
+      "category": "nomes",
+      "meaning": "Compartilha 悟 com Goku e Gohan; 天 é o caractere de céu ou firmamento.",
+      "inStory": "Filho mais novo de Goku e Chi-Chi, aprende controle do ki com Gohan.",
+      "caution": "Essa análise da escrita não estabelece uma explicação de Toriyama sobre a escolha do nome.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1226.html",
+        "https://en.dragon-ball-official.com/news/01_187.html"
+      ]
+    },
+    {
+      "id": "kakarot",
+      "term": "Kakarot / Kakarotto",
+      "original": "カカロット",
+      "reading": "kakarotto",
+      "category": "nomes",
+      "meaning": "Trocadilho documentado com carrot, cenoura em inglês.",
+      "inStory": "É o nome Saiyajin de Goku.",
+      "caution": "Não significa cenoura em japonês corrente; a palavra cotidiana é ninjin.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_260.html",
+        "https://dragon-ball-official.com/news/01_260.html"
+      ]
+    },
+    {
+      "id": "raditz",
+      "term": "Raditz",
+      "original": "ラディッツ",
+      "reading": "radittsu",
+      "category": "nomes",
+      "meaning": "Trocadilho documentado com radish, rabanete em inglês.",
+      "inStory": "É o irmão de Goku e filho de Bardock.",
+      "caution": "O nome adaptado é diferente da palavra japonesa usual para o alimento.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_260.html",
+        "https://dragon-ball-official.com/news/01_260.html"
+      ]
+    },
+    {
+      "id": "bardock",
+      "term": "Bardock",
+      "original": "バーダック",
+      "reading": "bādakku",
+      "category": "nomes",
+      "meaning": "Nome derivado de burdock, bardana em inglês, planta cuja raiz é utilizada como alimento.",
+      "inStory": "É o pai de Goku e Raditz.",
+      "caution": "A referência vegetal não determina personalidade ou nível de poder.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_260.html",
+        "https://dragon-ball-official.com/news/01_260.html"
+      ]
+    },
+    {
+      "id": "piccolo",
+      "term": "Piccolo",
+      "original": "ピッコロ",
+      "reading": "pikkoro",
+      "category": "nomes",
+      "meaning": "Remete ao piccolo, instrumento conhecido em português como flautim.",
+      "inStory": "O nome foi usado pelo Grande Rei Demônio e por seu filho, que se torna aliado de Goku.",
+      "caution": "Não é uma palavra japonesa para uma espécie de alienígena. O nome dos dois personagens pede atenção ao contexto.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1065.html",
+        "https://en.dragon-ball-official.com/news/01_156.html"
+      ]
+    },
+    {
+      "id": "kamesennin",
+      "term": "Kamesennin / Mestre Kame",
+      "original": "亀仙人",
+      "reading": "kame sennin",
+      "category": "nomes",
+      "meaning": "亀 é tartaruga; 仙人 designa um eremita extraordinário ou imortal das tradições do leste asiático.",
+      "inStory": "Mestre da Escola da Tartaruga e professor de Goku e Kuririn.",
+      "caution": "A palavra 仙人 não corresponde exatamente a «santo» na tradição cristã.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_141.html",
+        "https://en.dragon-ball-official.com/news/01_578.html"
+      ]
+    },
+    {
+      "id": "muten-roshi",
+      "term": "Muten Rōshi",
+      "original": "武天老師",
+      "reading": "muten rōshi",
+      "category": "nomes",
+      "meaning": "Título honorífico de Kame, explicado pelo portal oficial como «grande mestre idoso», aproximadamente.",
+      "inStory": "Enfatiza sua reputação como mestre das artes marciais.",
+      "caution": "É um título; não outro personagem nem um sobrenome.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_187.html"
+      ]
+    },
+    {
+      "id": "kaio",
+      "term": "Kaio",
+      "original": "界王",
+      "reading": "kaiō",
+      "category": "nomes",
+      "meaning": "界 indica mundo ou domínio; 王, rei: governante de um domínio.",
+      "inStory": "Kaio do Norte treina Goku e supervisiona uma região do universo ficcional.",
+      "caution": "Não é uma categoria religiosa universal; sua função pertence à cosmologia da obra.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_277.html",
+        "https://en.dragon-ball-official.com/news/01_657.html"
+      ]
+    },
+    {
+      "id": "shenron",
+      "term": "Shenron",
+      "original": "神龍",
+      "reading": "shenron; leitura japonesa comum: shinryū",
+      "category": "nomes",
+      "meaning": "神 e 龍 compõem a ideia de dragão divino. Shenron é uma leitura especial usada na obra.",
+      "inStory": "Surge quando as sete Esferas do Dragão são reunidas e a invocação é feita.",
+      "caution": "A forma do nome remete ao repertório chinês; não é a leitura japonesa comum dos caracteres.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_626.html"
+      ]
+    },
+    {
+      "id": "pan",
+      "term": "Pan",
+      "original": "パン",
+      "reading": "pan",
+      "category": "nomes",
+      "meaning": "パン é a palavra japonesa para pão; o nome permite reconhecer essa associação alimentar.",
+      "inStory": "Filha de Gohan e Videl, recebe treinamento de Goku no final do mangá original.",
+      "caution": "A equivalência lexical não comprova outras hipóteses sobre intenção do autor, como referências mitológicas.",
+      "sources": [
+        "https://marugoto.jpf.go.jp/assets/docs/download/starter_a/MarugotoStarterWordbook_EN.pdf",
+        "https://en.dragon-ball-official.com/news/01_1126.html"
+      ]
+    },
+    {
+      "id": "ma",
+      "term": "Ma",
+      "original": "魔",
+      "reading": "ma",
+      "category": "cultura",
+      "meaning": "Caractere associado a demônio ou poder maléfico.",
+      "inStory": "Aparece na roupa de Piccolo e no uniforme que ele entrega a Gohan.",
+      "caution": "Um símbolo ganha novos sentidos na narrativa; a marca de Gohan não significa que ele seja moralmente mau.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_156.html"
+      ]
+    },
+    {
+      "id": "jinzo-ningen",
+      "term": "Jinzō ningen / Androides",
+      "original": "人造人間",
+      "reading": "jinzō ningen",
+      "category": "cultura",
+      "meaning": "Expressão que significa ser humano artificial.",
+      "inStory": "Abrange criações de Dr. Gero: há seres inteiramente mecânicos e humanos modificados, como 17 e 18.",
+      "caution": "«Androide» é a localização convencional; ela não descreve igualmente a composição de todos os modelos.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_507.html"
+      ]
+    },
+    {
+      "id": "tenkaichi-budokai",
+      "term": "Tenkaichi Budokai",
+      "original": "天下一武道会",
+      "reading": "tenkaichi budōkai",
+      "category": "cultura",
+      "meaning": "Nome que anuncia um encontro de artes marciais para decidir quem é o melhor sob o céu.",
+      "inStory": "Torneio no qual Goku e seus companheiros enfrentam regras, rivais e novos aprendizados.",
+      "caution": "Não é um campeonato real de uma única arte marcial japonesa.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_23.html",
+        "https://en.dragon-ball-official.com/news/01_187.html"
+      ]
+    },
+    {
+      "id": "budo",
+      "term": "Budō",
+      "original": "武道",
+      "reading": "budō",
+      "category": "cultura",
+      "meaning": "Expressão traduzida como caminhos marciais; reúne práticas de formação física, técnica e pessoal.",
+      "inStory": "Ajuda a discutir o aprendizado com Kame, além da vitória sobre adversários.",
+      "caution": "É uma lente comparativa: Dragon Ball mistura luta chinesa, tradições japonesas, humor e fantasia.",
+      "sources": [
+        "https://www.nipponbudokan.or.jp/english/budochater",
+        "https://en.dragon-ball-official.com/news/01_1305.html"
+      ]
+    },
+    {
+      "id": "dojo",
+      "term": "Dōjō",
+      "original": "道場",
+      "reading": "dōjō",
+      "category": "cultura",
+      "meaning": "Espaço de prática e formação em artes marciais.",
+      "inStory": "Permite comparar ambientes de aprendizagem da obra com espaços de treinamento reais.",
+      "caution": "Kame House e planetas de treinamento não reproduzem um modelo único de dōjō.",
+      "sources": [
+        "https://www.nipponbudokan.or.jp/english/budochater",
+        "https://en.dragon-ball-official.com/news/01_141.html"
+      ]
+    },
+    {
+      "id": "goroawase",
+      "term": "Goroawase",
+      "original": "語呂合わせ",
+      "reading": "goroawase",
+      "category": "cultura",
+      "meaning": "Jogo sonoro que aproxima palavras e leituras de números.",
+      "inStory": "O Dia de Goku usa 5 → go e 9 → ku: 9 de maio.",
+      "caution": "A data segue a associação mês/dia 5/9; em português brasileiro, escrevemos 09/05. Não é a origem do nome Goku.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_33.html",
+        "https://en.dragon-ball-official.com/news/01_2643.html"
+      ]
+    },
+    {
+      "id": "itadakimasu",
+      "term": "Itadakimasu",
+      "original": "いただきます",
+      "reading": "itadakimasu",
+      "category": "cultura",
+      "meaning": "Expressão de agradecimento usada antes de comer; relaciona-se a receber o alimento.",
+      "inStory": "Vocabulário de contexto para observar as refeições presentes em animes, inclusive Dragon Ball.",
+      "caution": "Não equivale simplesmente a «bom apetite» dito a outra pessoa. O uso não identifica automaticamente uma religião.",
+      "sources": [
+        "https://md.jpf.go.jp/userfiles/file/2018/Lengua%20Japonesa/Gramatica/A1-ES_rev.pdf"
+      ]
+    },
+    {
+      "id": "gochisosama",
+      "term": "Gochisōsama",
+      "original": "ごちそうさま",
+      "reading": "gochisōsama",
+      "category": "cultura",
+      "meaning": "Agradecimento após a refeição; pode reconhecer o preparo ou a hospitalidade.",
+      "inStory": "Complementa a leitura cultural de cenas de comida e convivência.",
+      "caution": "É vocabulário contextual, sem atribuição a uma fala ou episódio específico neste glossário.",
+      "sources": [
+        "https://md.jpf.go.jp/userfiles/file/2018/Lengua%20Japonesa/Gramatica/A1-ES_rev.pdf"
+      ]
+    },
+    {
+      "id": "senzu",
+      "term": "Senzu",
+      "original": "仙豆",
+      "reading": "senzu",
+      "category": "objetos",
+      "meaning": "仙 evoca eremita ou ser extraordinário; 豆 designa grão de leguminosa. Uma tradução possível é «feijão do eremita».",
+      "inStory": "Karin cultiva os grãos que restauram a energia e curam ferimentos na história.",
+      "caution": "Não curam qualquer doença: o vírus cardíaco de Goku persiste mesmo após um Senzu.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_578.html",
+        "https://en.dragon-ball-official.com/news/01_3484.html"
+      ]
+    },
+    {
+      "id": "choseisui",
+      "term": "Chōseisui / Água Sagrada",
+      "original": "超聖水",
+      "reading": "chōseisui",
+      "category": "objetos",
+      "meaning": "超, super; 聖, sagrado; 水, água: «água supersagrada».",
+      "inStory": "A água de Karin é comum; a melhora de Goku vem do esforço necessário para alcançá-la.",
+      "caution": "Não confundir esta água com a Chōshinsui, outro elemento narrativo.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_658.html"
+      ]
+    },
+    {
+      "id": "nyoibo",
+      "term": "Nyoi-bō / Bastão Mágico",
+      "original": "如意棒",
+      "reading": "nyoibō",
+      "category": "objetos",
+      "meaning": "Nome do bastão de Goku, chamado Power Pole na fonte oficial em inglês.",
+      "inStory": "É um presente que Goku recebeu de seu avô Gohan.",
+      "caution": "A fonte citada confirma o objeto e sua procedência; não usamos uma tradução etimológica sem documentação específica.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1328.html"
+      ]
+    },
+    {
+      "id": "kintoun",
+      "term": "Kintoun / Nuvem Voadora",
+      "original": "筋斗雲",
+      "reading": "kinto'un",
+      "category": "objetos",
+      "meaning": "Nome da nuvem mágica de transporte de Goku.",
+      "inStory": "Kame a entrega a Goku; a narrativa permite que apenas pessoas de coração puro a utilizem.",
+      "caution": "A nuvem é um motivo fantástico. Não fixamos uma tradução literal como explicação de sua origem.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_141.html",
+        "https://en.dragon-ball-official.com/news/01_3933.html"
+      ]
+    },
+    {
+      "id": "dragon-balls",
+      "term": "Esferas do Dragão",
+      "original": "ドラゴンボール",
+      "reading": "doragon bōru",
+      "category": "objetos",
+      "meaning": "Adaptação japonesa das palavras inglesas dragon e ball: dragão e esfera.",
+      "inStory": "As sete esferas terrestres permitem invocar Shenron e formular desejos.",
+      "caution": "Regras, quantidade de desejos e limitações variam conforme o conjunto e o momento da história.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_626.html",
+        "https://en.dragon-ball-official.com/news/01_3933.html"
+      ]
+    },
+    {
+      "id": "dragon-radar",
+      "term": "Radar do Dragão",
+      "original": "ドラゴンレーダー",
+      "reading": "doragon rēdā",
+      "category": "objetos",
+      "meaning": "Nome do detector das Esferas do Dragão.",
+      "inStory": "Bulma inventa o aparelho ao identificar o sinal emitido pelas esferas.",
+      "caution": "É tecnologia ficcional; o uso da palavra radar não comprova uma engenharia realizável.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3933.html"
+      ]
+    },
+    {
+      "id": "hoipoi-capsules",
+      "term": "Cápsulas Hoipoi",
+      "original": "ホイポイカプセル",
+      "reading": "hoipoi kapuseru",
+      "category": "objetos",
+      "meaning": "Nome comercial ficcional das cápsulas que tornam objetos portáteis; kapuseru adapta capsule.",
+      "inStory": "Dr. Brief cria a tecnologia que sustenta a Capsule Corporation.",
+      "caution": "Não atribuímos à palavra Hoipoi uma etimologia que a fonte não fornece.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2148.html"
+      ]
+    },
+    {
+      "id": "potara",
+      "term": "Potara",
+      "original": "ポタラ",
+      "reading": "potara",
+      "category": "objetos",
+      "meaning": "Nome dos brincos especiais associados aos Kaioshins.",
+      "inStory": "Permitem fundir personagens, como Goku e Vegeta em Vegetto.",
+      "caution": "Não inferimos origem religiosa pelo som do nome; as condições de duração exigem contexto da obra.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1908.html",
+        "https://en.dragon-ball-official.com/news/01_2835.html"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "arroz-e-nomes",
+      "title": "🍚 Gohan, arroz e memória à mesa",
+      "inStory": "O nome Gohan aproxima um personagem de uma palavra cotidiana de comida.",
+      "japan": "Gohan significa arroz cozido e também refeição.",
+      "brazil": "O IBGE registra arroz e feijão como combinação tradicional, com hábitos que mudam ao longo do tempo.",
+      "bridge": "Alimentos familiares ajudam a perceber o humor dos nomes.",
+      "caution": "Não existe uma dieta única japonesa ou brasileira; gohan não significa arroz com feijão.",
+      "sources": [
+        "https://sydney.jpf.go.jp/senseis-voices/japanese-rice/",
+        "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/27301-presenca-do-feijao-nos-domicilios-brasileiros-cai-pela-metade-em-15-anos"
+      ]
+    },
+    {
+      "id": "graos-e-fantasia",
+      "title": "🫘 Senzu, soja e feijões",
+      "inStory": "O Senzu transforma um pequeno grão em recurso decisivo da aventura.",
+      "japan": "No Setsubun, uma prática documentada usa grãos de soja torrados.",
+      "brazil": "No Brasil, feijões participam de numerosas refeições e tradições regionais.",
+      "bridge": "O alimento comum pode ganhar sentidos festivos, afetivos ou fantásticos.",
+      "caution": "Não há evidência aqui de que o Setsubun tenha inspirado o Senzu; nenhum feijão real tem seu poder.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_578.html",
+        "https://fjsp.org.br/vamos_de_kamishibai_oni_no_setsubun/",
+        "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/27301-presenca-do-feijao-nos-domicilios-brasileiros-cai-pela-metade-em-15-anos"
+      ]
+    },
+    {
+      "id": "mestres-e-capoeira",
+      "title": "🥋 Aprender com Kame e com mestres de capoeira",
+      "inStory": "Kame treina Goku e Kuririn e insiste no desenvolvimento para além de vencer.",
+      "japan": "A Carta do Budō valoriza respeito, fundamentos e formação pessoal.",
+      "brazil": "Na roda de capoeira, mestres transmitem movimentos, música, códigos e memória de resistência.",
+      "bridge": "Observar, praticar e conviver também ensina.",
+      "caution": "A capoeira é uma expressão afro-brasileira com história própria; não é uma versão brasileira do budō.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1305.html",
+        "https://www.nipponbudokan.or.jp/english/budochater",
+        "https://ich.unesco.org/en/RL/capoeira-circle-00892"
+      ]
+    },
+    {
+      "id": "familias-e-saberes",
+      "title": "👨‍👩‍👧 Família também transmite saberes",
+      "inStory": "Goku aprende com o avô Gohan; mais tarde, gerações novas entram na história.",
+      "japan": "A documentação do washoku descreve a transmissão de saberes culinários nas refeições familiares.",
+      "brazil": "O ofício das baianas de acarajé preserva conhecimentos entre gerações e comunidades.",
+      "bridge": "Uma herança pode ser um saber praticado em companhia.",
+      "caution": "Famílias, ofícios e mestres têm formas diversas de organização; a comparação não impõe um modelo familiar único.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_23.html",
+        "https://ich.unesco.org/en/RL/washoku-traditional-dietary-cultures-of-the-japanese-notably-for-the-celebration-of-new-year-00869",
+        "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficio-das-baianas-de-acaraje-e-tema-de-encontro-no-espirito-santo"
+      ]
+    },
+    {
+      "id": "agradecer-e-comer",
+      "title": "🍽️ Refeição como momento de vínculo",
+      "inStory": "As pausas para comer ajudam a olhar os personagens fora do combate.",
+      "japan": "Itadakimasu e gochisōsama marcam agradecimentos antes e depois de refeições.",
+      "brazil": "O Guia Alimentar brasileiro valoriza comer em companhia e compartilhar o preparo.",
+      "bridge": "Palavras, gestos e convivência podem dar sentido ao ato de comer.",
+      "caution": "Não se trata de afirmar que brasileiros têm um ritual único equivalente, nem que toda pessoa japonesa segue o mesmo costume.",
+      "sources": [
+        "https://md.jpf.go.jp/userfiles/file/2018/Lengua%20Japonesa/Gramatica/A1-ES_rev.pdf",
+        "https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed_3reimpr.pdf",
+        "https://en.dragon-ball-official.com/news/01_1305.html"
+      ]
+    },
+    {
+      "id": "desejos-tanabata",
+      "title": "🎋 Desejos, estrelas e a presença japonesa no Brasil",
+      "inStory": "Shenron torna o pedido de um desejo um acontecimento da aventura.",
+      "japan": "No Tanabata, desejos podem ser escritos em tanzaku e pendurados em bambus.",
+      "brazil": "A Fundação Japão documenta essa prática também em sua biblioteca de São Paulo.",
+      "bridge": "O próprio Brasil abriga práticas culturais japonesas recriadas e compartilhadas.",
+      "caution": "Tanabata não é um ritual de invocação de Shenron; não afirmamos influência direta.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_626.html",
+        "https://fjsp.org.br/agenda/biblioeventos-2026-tanabata/"
+      ]
+    },
+    {
+      "id": "janken-jokenpo",
+      "title": "✊ Jan-ken e o nosso pedra, papel e tesoura",
+      "inStory": "Goku converte os gestos de uma brincadeira em uma técnica cômica.",
+      "japan": "Janken aparece em materiais japoneses como jogo de mãos para escolhas cotidianas.",
+      "brazil": "Materiais da rede municipal de Goiânia ensinam pedra, papel e tesoura, também chamado jokenpô.",
+      "bridge": "Aqui a aproximação é concreta: os gestos da brincadeira ajudam a entender a piada.",
+      "caution": "A técnica violenta do mangá não deve ser reproduzida para brincar.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_140.html",
+        "https://web-japan.org/kidsweb/archives/cool/03-10/handgames.html",
+        "https://sme.goiania.go.gov.br/conexaoescola/ensino_fundamental/pedra-papel-tesoura-ou-jokenpo/"
+      ]
+    },
+    {
+      "id": "humor-palavras",
+      "title": "😄 Kaio, trocadilhos e versos bem-humorados",
+      "inStory": "Kaio gosta de piadas; até aceitar Goku como aluno envolve fazê-lo rir.",
+      "japan": "O Dia de Goku brinca com as leituras dos números cinco e nove.",
+      "brazil": "O cordel trabalha rima, ritmo e temas cotidianos, inclusive humor.",
+      "bridge": "Prestar atenção ao som revela uma parte da graça que traduções podem perder.",
+      "caution": "Goroawase e cordel são formas distintas; não existe um senso de humor nacional uniforme.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_657.html",
+        "https://en.dragon-ball-official.com/news/01_33.html",
+        "https://bcr.iphan.gov.br/bens-culturais/literatura-de-cordel/"
+      ]
+    },
+    {
+      "id": "fazer-juntos",
+      "title": "🎉 Energia coletiva e trabalho de festa",
+      "inStory": "A Genki-dama dramatiza a contribuição de muitos para uma ação comum.",
+      "japan": "Festivais Yama, Hoko e Yatai articulam construção, música e tarefas comunitárias.",
+      "brazil": "O Bumba-meu-boi do Maranhão reúne criação de cantos, figurinos, bordados e apresentações.",
+      "bridge": "A comparação destaca o trabalho compartilhado que torna algo maior possível.",
+      "caution": "É uma metáfora de cooperação, sem equivalência religiosa nem transferência real de ki.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_362.html",
+        "https://ich.unesco.org/en/RL/yama-hoko-yatai-float-festivals-in-japan-02292",
+        "https://ich.unesco.org/en/RL/cultural-complex-of-bumba-meu-boi-from-maranho-01510"
+      ]
+    },
+    {
+      "id": "historias-em-viagem",
+      "title": "📚 Histórias que viajam e ganham outra forma",
+      "inStory": "Son Goku remete a Jornada ao Oeste, obra chinesa retomada por um mangá japonês.",
+      "japan": "O kamishibai é uma forma de narrar histórias com ilustrações, apresentada também pela Fundação Japão.",
+      "brazil": "O cordel combina versos, oralidade e capas ilustradas para contar histórias antigas ou atuais.",
+      "bridge": "Formatos diferentes reinventam o prazer de acompanhar personagens e narradores.",
+      "caution": "Kamishibai e cordel não são origens comprovadas de Dragon Ball; a ponte é uma comparação de linguagens.",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_93.html",
+        "https://fjsp.org.br/agenda/biblioeventos-2026-kamishibai-yamanba/",
+        "https://bcr.iphan.gov.br/bens-culturais/literatura-de-cordel/"
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "Nomes como Kakarot, Raditz e Bardock guardam trocadilhos alimentares. As referências documentadas estão nos respectivos verbetes.",
+    "Itadakimasu, gochisōsama, budō e dōjō aparecem como vocabulário de apoio à leitura cultural, sem atribuição a um episódio específico.",
+    "As comparações brasileiras incluem capoeira, baianas de acarajé, Bumba-meu-boi do Maranhão, cordel e a presença japonesa em São Paulo. Cada tradição tem sua própria história."
+  ]
+}

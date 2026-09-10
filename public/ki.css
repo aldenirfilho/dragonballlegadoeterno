@@ -29,6 +29,16 @@
 .ki-card details p { margin-bottom: 10px; }
 .ki-card-links { display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; margin-top: 20px; color: var(--gold); font-size: .875rem; }
 .ki-card:target { outline: 2px solid var(--gold); outline-offset: 5px; }
+.ki-portrait { margin: 0 0 20px; }
+.ki-image-frame { background: #17222a; border-radius: 8px; overflow: hidden; }
+.ki-portrait img { display: block; width: 100%; height: 220px; object-fit: contain; }
+.ki-portrait img[hidden] { display: none; }
+.ki-portrait figcaption { font-size: .875rem; line-height: 1.5; color: var(--muted); padding-top: 12px; }
+.ki-portrait figcaption > strong { display: block; color: var(--ink); font-weight: 500; }
+.ki-portrait figcaption > span { display: block; margin-top: 6px; }
+.ki-card .ki-image-credit { margin-top: 10px; padding-top: 0; border: none; font-size: .875rem; }
+.ki-card .ki-image-credit summary { font-weight: 400; }
+.ki-image-error { padding: 30px 20px; margin: 0; font-size: .9375rem; color: var(--muted); }
 .ki-compare-selects, .ki-comparison { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin-top: 22px; }
 .ki-method { max-width: 960px; }
 .ki-copy { margin-top: 12px; }

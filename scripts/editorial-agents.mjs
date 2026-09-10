@@ -2,6 +2,8 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 import { validateKi } from "./ki-page.mjs";
+import { validateKiImages } from "./ki-images.mjs";
+import { validateGlossary } from "./glossary-page.mjs";
 export const normalize = (value) =>
   String(value)
     .normalize("NFD")
@@ -87,6 +89,11 @@ if (
   const result = inspect(data, news, images);
   const ki = read("content/ki.json");
   result.problems.push(...validateKi(ki));
+  const kiImages = read("content/ki-images.json"), glossary = read("content/glossary.json");
+  result.problems.push(...validateKiImages(ki, kiImages), ...validateGlossary(glossary));
+  result.totals.kiImages = kiImages.images.length;
+  result.totals.glossaryEntries = glossary.entries.length;
+  result.totals.culturalComparisons = glossary.comparisons.length;
   result.totals.kiPhases = ki.phases.length;
   result.totals.kiRecords = ki.records.length;
   result.totals.kiVerifiedValues = ki.records.filter((r) => r.value !== null).length;

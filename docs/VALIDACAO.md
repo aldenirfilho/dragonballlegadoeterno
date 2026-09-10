@@ -57,3 +57,11 @@ O resultado de publicação deve ser conferido no histórico do GitHub Actions e
 - 29 fases, 101 registros e 12 leituras numéricas verificadas.
 - As validações do navegador usam simulação; a instalação e o uso em dispositivos reais permanecem sem homologação nesta atualização.
 - Metodologia, fontes, correções e reversão documentadas em `ATLAS_DO_KI.md`.
+
+## Atualização 1.3.0 — imagens e dicionário (10/09/2026)
+
+- 47 páginas e 92 recursos locais offline.
+- 32 testes passaram; auditoria editorial e diff sem erros.
+- 101 fichas ilustradas, 45 verbetes e dez comparações culturais.
+- Dez fan arts novas inspecionadas visualmente; 85 imagens oficiais externas verificadas por disponibilidade e associação ao texto da fonte.
+- Imagens externas não foram inspecionadas visualmente e dependem de internet. Sem homologação interativa de navegador ou instalação em dispositivos reais nesta etapa.
