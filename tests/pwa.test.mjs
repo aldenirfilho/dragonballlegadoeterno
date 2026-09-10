@@ -6,7 +6,7 @@ import vm from "node:vm";
 const workerCode = fs.readFileSync("dist/sw.js", "utf8");
 function worker(scope = "https://example.test/dragonballlegadoeterno/") {
   const events = {}, stores = new Map();
-  let online = true, claimed = false, skipped = false;
+  let online = true, claimed = false, skipped = false, cacheDenied = false;
   const cacheFor = (name) => {
     if (!stores.has(name)) stores.set(name, new Map());
     const store = stores.get(name);
@@ -27,7 +27,7 @@ function worker(scope = "https://example.test/dragonballlegadoeterno/") {
   };
   vm.runInNewContext(workerCode, {
     self, URL, Request, Response, AbortController, setTimeout, clearTimeout,
-    caches: { open: async (key) => cacheFor(key), keys: async () => [...stores.keys()], delete: async (key) => stores.delete(key) },
+    caches: { open: async (key) => { if (cacheDenied) throw new Error("Storage denied"); return cacheFor(key); }, keys: async () => [...stores.keys()], delete: async (key) => stores.delete(key) },
     fetch: async (request) => {
       if (!online) throw new Error("offline");
       return new Response("rede:" + request.url, { status: request.url.includes("ausente") ? 404 : 200 });
@@ -43,7 +43,7 @@ function worker(scope = "https://example.test/dragonballlegadoeterno/") {
     events.fetch({ request: { url: new URL(relative, scope).href, method: "GET", mode: "navigate", ...properties }, respondWith: (r) => { response = r; } });
     return response;
   };
-  return { stores, dispatch, fetchPage, setOnline: (value) => { online = value; }, get claimed() { return claimed; }, get skipped() { return skipped; } };
+  return { stores, dispatch, fetchPage, denyCache: () => { cacheDenied = true; }, setOnline: (value) => { online = value; }, get claimed() { return claimed; }, get skipped() { return skipped; } };
 }
 
 test("manifest e ícones permitem instalação tanto na raiz quanto no subdiretório", () => {
@@ -145,12 +145,12 @@ test("cache removido é detectado e recursos visitados voltam a ser salvos", asy
   assert.match(await (await w.fetchPage("goku.html")).text(), /^rede:/);
 });
 
-function installUI() {
+function installUI(hasInstallButton = true) {
   const events = {}, buttonEvents = {};
   const button = { hidden: true, addEventListener: (name, fn) => { buttonEvents[name] = fn; } };
   const status = {}, offlineStatus = {}, notice = { hidden: true }, link = { hidden: false };
   const media = { matches: false, addEventListener: () => {} };
-  const nodes = { "[data-install-app]": button, "[data-app-status]": status, "[data-offline-status]": offlineStatus };
+  const nodes = { "[data-install-app]": hasInstallButton ? button : undefined, "[data-app-status]": status, "[data-offline-status]": offlineStatus };
   const navigator = { onLine: true };
   vm.runInNewContext(fs.readFileSync("public/pwa.js", "utf8"), {
     URL, navigator,
@@ -181,4 +181,21 @@ test("oferta de instalação aparece apenas após evento; recusa mantém instru�
   assert.equal(ui.notice.hidden, false);
   ui.events.appinstalled();
   assert.match(ui.status.textContent, /Aplicativo instalado/);
+});
+
+test("armazenamento bloqueado não interrompe a navegação online", async () => {
+  const w = worker();
+  w.denyCache();
+  const online = await w.fetchPage("ki.html");
+  assert.equal(online.status, 200);
+  assert.match(await online.text(), /^rede:/);
+  w.setOnline(false);
+  assert.equal((await w.fetchPage("ki.html")).status, 503);
+});
+
+test("página sem botão mantém a oferta nativa de instalação", () => {
+  const ui = installUI(false);
+  let prevented = false;
+  ui.events.beforeinstallprompt({ preventDefault: () => { prevented = true; } });
+  assert.equal(prevented, false);
 });

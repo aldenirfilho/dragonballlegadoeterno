@@ -1276,4 +1276,11 @@ dialog h2 {
 }
 @media(max-width:560px){.hero-art{object-position:82% center}}
 
+@media (min-width: 851px) and (max-width: 1200px) {
+  .head-inner { flex-wrap: wrap; padding-block: 14px; }
+  .head-tools { margin-left: auto; }
+  .navigation { order: 3; flex-basis: 100%; justify-content: flex-start; flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+  .navigation a { white-space: nowrap; }
+}
+
 @media (max-width: 850px) { .navigation { top: 100%; } }

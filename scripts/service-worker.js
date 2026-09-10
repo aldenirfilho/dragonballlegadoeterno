@@ -37,8 +37,9 @@ self.addEventListener("message", (event) => {
 });
 
 async function respond(request, key) {
-  const cache = await caches.open(CACHE);
-  const saved = await cache.match(key);
+  let cache, saved;
+  try { cache = await caches.open(CACHE); saved = await cache.match(key); }
+  catch { /* Armazenamento negado não pode bloquear a rede. */ }
   // Imagens fazem parte do snapshot; uma nova publicação renova seu cache.
   if (request.destination === "image" && saved) return saved;
   const controller = new AbortController();
@@ -47,14 +48,15 @@ async function respond(request, key) {
     const response = await fetch(request, { signal: controller.signal, cache: "no-cache" });
     if (response.status >= 500) throw new Error("Servidor indisponível");
     // Recompõe os recursos visitados se o sistema tiver removido o cache.
-    if (response.ok && !response.redirected && allowed.has(key)) {
+    if (cache && response.ok && !response.redirected && allowed.has(key)) {
       try { await cache.put(key, response.clone()); } catch { /* Falta de espaço não impede a leitura online. */ }
     }
     return response;
   } catch {
     if (saved) return saved;
     if (request.mode === "navigate") {
-      const fallback = await cache.match(new URL("offline.html", ROOT).href);
+      let fallback;
+      try { fallback = await cache?.match(new URL("offline.html", ROOT).href); } catch { /* Cache indisponível. */ }
       if (fallback) return Response.redirect(new URL("offline.html", ROOT).href);
     }
     return new Response("Recurso indisponível sem conexão.", { status: 503 });

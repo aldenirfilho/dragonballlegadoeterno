@@ -49,7 +49,8 @@ test("links internos, âncoras e imagens resolvem em arquivos existentes", () =>
     for (const match of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
       const url = match[1];
       if (/^(https?:|mailto:|data:)/.test(url)) continue;
-      const [pathname, anchor] = url.split("#");
+      const [target, anchor] = url.split("#");
+      const pathname = target.split("?")[0];
       const dest = path.join("dist", pathname || file);
       assert.ok(fs.existsSync(dest), `${file}: ${url}`);
       if (anchor && dest.endsWith(".html"))

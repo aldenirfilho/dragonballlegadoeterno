@@ -6,6 +6,7 @@ Uma enciclopédia independente de fãs em português brasileiro. Histórias, per
 
 ## O que há no acervo
 
+- [Atlas do Ki](https://aldenirfilho.github.io/dragonballlegadoeterno/ki.html): 29 fases, 101 registros e 12 leituras numéricas verificadas, filtros, comparação de contexto e download das fontes.
 - Perfis dos personagens: trajetória, personalidade, emoções, poderes, vínculos e contradições.
 - Especial de Goku: oito ensaios sobre curiosidade, prática, mestres, descanso, cooperação e responsabilidade.
 - História e sagas com indicação de continuidade; famílias e vínculos de mentoria.
@@ -41,6 +42,7 @@ A prévia abre em `http://127.0.0.1:4173/`. O resultado estático fica em `dist/
 | Caminho | Finalidade |
 | --- | --- |
 | `content/encyclopedia.json` | Personagens, sagas, famílias, lições, Goku e técnicas |
+| `content/ki.json` | Atlas por fase, personagem, forma, valor e fonte |
 | `content/news.json` | Anúncios verificados, território e corte editorial |
 | `content/transformations.json` | Formas e diferenças de continuidade |
 | `content/films.json` | Guia histórico de filmes |
@@ -51,6 +53,12 @@ A prévia abre em `http://127.0.0.1:4173/`. O resultado estático fica em `dist/
 | `agents/` | Instruções dos agentes editoriais |
 | `docs/` | Política editorial, fontes, operação e validação |
 | `.github/workflows/` | Verificação, publicação Pages e relatório editorial |
+
+## Atlas do Ki e versão 1.2.0
+
+A nova seção está disponível pelo menu, pela busca e pelos perfis dos personagens. Os filtros podem ser compartilhados por link. Valores desconhecidos permanecem como “sem número verificado”; limites como “mais de 8.000” preservam o sinal `>`. Mangá, anime, filmes, DAIMA e GT são identificados no contexto de cada fase.
+
+Esta versão corrige navegação online quando o armazenamento do PWA é negado, evita suprimir a instalação nativa em páginas sem botão, trata URLs inválidas no servidor local e permite fechar o menu com Escape. O atlas e seus dados também integram o pacote offline. Veja [metodologia e cobertura](docs/ATLAS_DO_KI.md).
 
 ## Atualização contínua
 

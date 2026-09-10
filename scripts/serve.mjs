@@ -1,7 +1,7 @@
 import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
-const root = path.resolve("dist");
+import { pathToFileURL } from "node:url";
 const types = {
   ".html": "text/html; charset=utf-8",
   ".css": "text/css",
@@ -13,11 +13,17 @@ const types = {
   ".jpg": "image/jpeg",
   ".svg": "image/svg+xml",
 };
-http
-  .createServer((req, res) => {
-    const name = decodeURIComponent(
-      new URL(req.url, "http://localhost").pathname,
-    );
+export function createStaticServer(directory = "dist") {
+  const root = path.resolve(directory);
+  return http.createServer((req, res) => {
+    let name;
+    try { name = decodeURIComponent(new URL(req.url, "http://localhost").pathname); }
+    catch {
+      res.writeHead(400, { "Content-Type": "text/plain; charset=utf-8" });
+      res.end("Endereço inválido");
+      return;
+    }
+    if (name.includes("\0")) { res.writeHead(400); res.end("Endereço inválido"); return; }
     const file = path.resolve(
       root,
       "." + name + (name.endsWith("/") ? "index.html" : ""),
@@ -31,9 +37,12 @@ http
       res.writeHead(err ? 404 : 200, {
         "Content-Type": types[path.extname(file)] || "text/plain",
       });
-      res.end(err ? "Página não encontrada" : data);
+      res.end(req.method === "HEAD" ? undefined : err ? "Página não encontrada" : data);
     });
-  })
-  .listen(4173, "127.0.0.1", () =>
+  });
+}
+if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
+  createStaticServer().listen(4173, "127.0.0.1", () =>
     console.log("Local: http://127.0.0.1:4173/"),
   );
+}

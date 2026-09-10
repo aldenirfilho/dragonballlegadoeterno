@@ -1,0 +1,52 @@
+.ki-intro { display: grid; grid-template-columns: 1.25fr 1fr; gap: 48px; align-items: center; padding-top: 48px; padding-bottom: 40px; }
+.ki-intro .page-title { margin: 8px 0 14px; font-size: clamp(3rem, 6vw, 5.5rem); line-height: 1.05; }
+.ki-intro .page-title em { color: var(--orange); font-style: normal; }
+.ki-intro figure { margin: 0; }
+.ki-intro img { width: 100%; height: 220px; object-fit: cover; border-radius: var(--radius); }
+.ki-intro figcaption { margin-top: 8px; color: var(--muted); font-size: .875rem; }
+.ki-stats { display: flex; flex-wrap: wrap; gap: 24px; margin-top: 24px; color: var(--muted); }
+.ki-stats strong { font-size: 1.5rem; color: var(--gold); margin-right: 5px; }
+.ki-workspace { padding-bottom: 24px; }
+.ki-filters { display: grid; grid-template-columns: 1fr 1.3fr 1fr; gap: 16px; padding: 24px; background: var(--panel2); border: 1px solid var(--line); border-radius: var(--radius); }
+.ki-filters label, .ki-compare-selects label, .ki-copy { display: flex; flex-direction: column; gap: 8px; font-size: .875rem; font-weight: bold; min-width: 0; }
+.ki-filters label:last-of-type { grid-column: span 2; }
+.ki-filters input, .ki-filters select, .ki-compare-selects select, .ki-copy input { width: 100%; min-width: 0; padding: 12px; border: 1px solid #566671; border-radius: 7px; background: var(--bg); color: var(--ink); font: inherit; font-size: 1rem; }
+.ki-filters button { align-self: end; justify-content: center; min-height: 49px; }
+.ki-toolbar { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; padding-top: 20px; }
+.ki-toolbar output { color: var(--muted); }
+.ki-explanation a { text-decoration: underline; text-underline-offset: 3px; }
+.ki-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
+.ki-card { display: flex; flex-direction: column; padding: 24px; background: var(--panel); border: 1px solid var(--line); border-top: 3px solid var(--orange); border-radius: var(--radius); min-width: 0; scroll-margin-top: 150px; }
+.ki-card[data-evidence="sem-numero"] { border-top-color: #657986; }
+.ki-card-heading { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 15px; }
+.ki-card h2 { font-size: 1.45rem; margin: 0 0 5px; line-height: 1.25; }
+.ki-card .ki-form { margin: 0 0 14px; color: var(--gold); font-size: 1rem; }
+.ki-value { font-size: clamp(1.8rem, 3vw, 2.75rem); font-variant-numeric: tabular-nums; font-weight: 800; color: var(--gold); line-height: 1.2; margin: 8px 0; }
+.ki-value.unmeasured { font-size: 1.2rem; color: var(--muted); font-weight: 500; line-height: 1.45; }
+.ki-card > .meta { margin: 0 0 12px; }
+.ki-card details { margin-top: auto; padding-top: 16px; border-top: 1px solid var(--line); font-size: .9375rem; }
+.ki-card summary { cursor: pointer; font-weight: bold; }
+.ki-card details p { margin-bottom: 10px; }
+.ki-card-links { display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; margin-top: 20px; color: var(--gold); font-size: .875rem; }
+.ki-card:target { outline: 2px solid var(--gold); outline-offset: 5px; }
+.ki-compare-selects, .ki-comparison { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin-top: 22px; }
+.ki-method { max-width: 960px; }
+.ki-copy { margin-top: 12px; }
+.ki-explanation { margin-top: 22px; margin-bottom: 24px; }
+@media (max-width: 1050px) { .ki-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 750px) {
+  .ki-intro { grid-template-columns: 1fr; gap: 24px; padding-top: 28px; }
+  .ki-intro img { height: 160px; }
+  .ki-filters { grid-template-columns: 1fr 1fr; padding: 18px; }
+  .ki-filters label:last-of-type { grid-column: auto; }
+  .ki-filters button { grid-column: span 2; }
+  .ki-comparison, .ki-compare-selects { grid-template-columns: 1fr; }
+}
+@media (max-width: 550px) {
+  .ki-grid, .ki-filters { grid-template-columns: 1fr; }
+  .ki-filters button { grid-column: auto; }
+  .ki-card { padding: 20px; }
+  .ki-stats { gap: 14px; font-size: .875rem; }
+  .ki-stats strong { font-size: 1.25rem; }
+}
+@media print { .ki-filters, .ki-toolbar button, [data-ki-compare], .ki-copy { display: none !important; } .ki-grid { display: block; } .ki-card { break-inside: avoid; margin-bottom: 20px; } }

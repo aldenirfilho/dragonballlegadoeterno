@@ -1,0 +1,1771 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-09-10",
+  "title": "Atlas do Ki",
+  "methodology": {
+    "unit": "Índice de poder de luta citado pela fonte; não é uma unidade física de energia.",
+    "coverage": "Seleção de marcos das sagas e dos personagens do acervo, incluindo continuidades distintas. Não é uma lista de cada episódio ou de todos os lutadores.",
+    "unknown": "Sem número verificado nesta edição não significa ki zero nem prova de que nenhuma publicação oficial possua um número.",
+    "comparisons": "Valores descrevem estados e instantes: energia contida, técnica carregada e máximo declarado não são medidas equivalentes. Limites com > permanecem limites.",
+    "sources": "Números exigem fonte primária que os informe explicitamente. Estatísticas de jogos, cifras de fãs e extrapolações não são níveis canônicos do anime ou mangá."
+  },
+  "characters": [
+    {
+      "id": "goku",
+      "name": "Son Goku",
+      "profile": "personagem-goku.html"
+    },
+    {
+      "id": "vegeta",
+      "name": "Vegeta",
+      "profile": "personagem-vegeta.html"
+    },
+    {
+      "id": "gohan",
+      "name": "Son Gohan",
+      "profile": "personagem-gohan.html"
+    },
+    {
+      "id": "piccolo",
+      "name": "Piccolo",
+      "profile": "personagem-piccolo.html"
+    },
+    {
+      "id": "bulma",
+      "name": "Bulma",
+      "profile": "personagem-bulma.html"
+    },
+    {
+      "id": "kuririn",
+      "name": "Kuririn",
+      "profile": "personagem-kuririn.html"
+    },
+    {
+      "id": "chichi",
+      "name": "Chi-Chi",
+      "profile": "personagem-chichi.html"
+    },
+    {
+      "id": "goten",
+      "name": "Son Goten",
+      "profile": "personagem-goten.html"
+    },
+    {
+      "id": "trunks",
+      "name": "Trunks",
+      "profile": "personagem-trunks.html"
+    },
+    {
+      "id": "trunks-futuro",
+      "name": "Trunks do Futuro",
+      "profile": "personagem-trunks-futuro.html"
+    },
+    {
+      "id": "pan",
+      "name": "Pan",
+      "profile": "personagem-pan.html"
+    },
+    {
+      "id": "videl",
+      "name": "Videl",
+      "profile": "personagem-videl.html"
+    },
+    {
+      "id": "android-18",
+      "name": "Androide 18",
+      "profile": "personagem-android-18.html"
+    },
+    {
+      "id": "android-17",
+      "name": "Androide 17",
+      "profile": "personagem-android-17.html"
+    },
+    {
+      "id": "mestre-kame",
+      "name": "Mestre Kame",
+      "profile": "personagem-mestre-kame.html"
+    },
+    {
+      "id": "tenshinhan",
+      "name": "Tenshinhan",
+      "profile": "personagem-tenshinhan.html"
+    },
+    {
+      "id": "yamcha",
+      "name": "Yamcha",
+      "profile": "personagem-yamcha.html"
+    },
+    {
+      "id": "freeza",
+      "name": "Freeza",
+      "profile": "personagem-freeza.html"
+    },
+    {
+      "id": "cell",
+      "name": "Cell",
+      "profile": "personagem-cell.html"
+    },
+    {
+      "id": "majin-boo",
+      "name": "Majin Boo",
+      "profile": "personagem-majin-boo.html"
+    },
+    {
+      "id": "bills",
+      "name": "Bills",
+      "profile": "personagem-bills.html"
+    },
+    {
+      "id": "whis",
+      "name": "Whis",
+      "profile": "personagem-whis.html"
+    },
+    {
+      "id": "broly",
+      "name": "Broly",
+      "profile": "personagem-broly.html"
+    },
+    {
+      "id": "bardock",
+      "name": "Bardock",
+      "profile": "personagem-bardock.html"
+    },
+    {
+      "id": "ginyu",
+      "name": "Capitão Ginyu",
+      "profile": null
+    },
+    {
+      "id": "nail",
+      "name": "Nail",
+      "profile": null
+    },
+    {
+      "id": "saibaman",
+      "name": "Saibaman",
+      "profile": null
+    }
+  ],
+  "phases": [
+    {
+      "id": "origens",
+      "title": "Primeira busca",
+      "era": "Clássico",
+      "continuity": "Mangá Dragon Ball",
+      "summary": "Força, técnica e engenhosidade aparecem antes do uso de scouters na narrativa."
+    },
+    {
+      "id": "torneio-21",
+      "title": "21º Torneio",
+      "era": "Clássico",
+      "continuity": "Mangá Dragon Ball · treinamento de Kame e 21º torneio",
+      "summary": "O aprendizado de fundamentos se encontra com técnica e experiência."
+    },
+    {
+      "id": "red-ribbon",
+      "title": "Red Ribbon e Karin",
+      "era": "Clássico",
+      "continuity": "Mangá Dragon Ball · Red Ribbon",
+      "summary": "Treinamento e observação mudam a capacidade de Goku; a água comum não é um multiplicador mágico."
+    },
+    {
+      "id": "torneio-22",
+      "title": "22º Torneio",
+      "era": "Clássico",
+      "continuity": "Mangá Dragon Ball · 22º torneio",
+      "summary": "Estilos diferentes mostram que versatilidade também conta numa luta."
+    },
+    {
+      "id": "piccolo-daimaoh",
+      "title": "Piccolo Daimaoh",
+      "era": "Clássico",
+      "continuity": "Mangá Dragon Ball · Grande Rei Demônio Piccolo",
+      "summary": "O arco mostra uma mudança de preparo; a comparação numérica permanece sem verificação nesta edição."
+    },
+    {
+      "id": "torneio-23",
+      "title": "23º Torneio",
+      "era": "Clássico",
+      "continuity": "Mangá Dragon Ball · 23º torneio",
+      "summary": "Goku adulto e Piccolo Jr. se encontram; não confundir o rival com seu antecessor."
+    },
+    {
+      "id": "raditz",
+      "title": "Chegada de Raditz",
+      "era": "Z · Saiyajins",
+      "continuity": "Mangá Dragon Ball · confronto com Raditz",
+      "summary": "A leitura muda conforme concentração, equipamento e emoção; um número é um registro de momento."
+    },
+    {
+      "id": "nappa",
+      "title": "Saibamans e Nappa",
+      "era": "Z · Saiyajins",
+      "continuity": "Mangá Dragon Ball · chegada de Nappa e Vegeta",
+      "summary": "Técnicas concentradas e riscos imprevisíveis tornam inadequado reduzir a luta a uma tabela de vencedores."
+    },
+    {
+      "id": "vegeta-terra",
+      "title": "Duelo com Vegeta",
+      "era": "Z · Saiyajins",
+      "continuity": "Mangá Dragon Ball · batalha na Terra",
+      "summary": "Amplificação temporária, desgaste e cooperação interferem no desfecho."
+    },
+    {
+      "id": "namek-chegada",
+      "title": "Primeiros confrontos em Namek",
+      "era": "Z · Namek",
+      "continuity": "Mangá Dragon Ball · confrontos iniciais em Namek",
+      "summary": "Recuperação, poder oculto e informação alteram as relações entre os combatentes."
+    },
+    {
+      "id": "ginyu",
+      "title": "Forças Especiais Ginyu",
+      "era": "Z · Namek",
+      "continuity": "Mangá Dragon Ball · confronto com Ginyu",
+      "summary": "Duas leituras de Goku mostram por que ocultar energia distorce a impressão do scouter."
+    },
+    {
+      "id": "freeza-formas",
+      "title": "Freeza: primeiras transformações",
+      "era": "Z · Namek",
+      "continuity": "Mangá Dragon Ball · Freeza em Namek",
+      "summary": "Formas e estados precisam acompanhar o número; uma leitura isolada não descreve toda a saga."
+    },
+    {
+      "id": "freeza-final",
+      "title": "Goku e Freeza: desfecho",
+      "era": "Z · Namek",
+      "continuity": "Mangá Dragon Ball · final de Namek",
+      "summary": "A transformação em Super Saiyajin é um marco; cifras populares de guias exigem fonte própria."
+    },
+    {
+      "id": "androides",
+      "title": "Trunks e androides",
+      "era": "Z · Androides e Cell",
+      "continuity": "Mangá Dragon Ball · chegada de Trunks e androides",
+      "summary": "Transformações e energia artificial tornam a comparação por scouter ainda mais limitada."
+    },
+    {
+      "id": "cell",
+      "title": "Treino e Jogos de Cell",
+      "era": "Z · Androides e Cell",
+      "continuity": "Mangá Dragon Ball · Jogos de Cell",
+      "summary": "Controle, velocidade, resistência e concentração importam junto da potência."
+    },
+    {
+      "id": "boo-despertar",
+      "title": "Torneio e despertar de Boo",
+      "era": "Z · Majin Boo",
+      "continuity": "Mangá Dragon Ball · início da saga Boo",
+      "summary": "Ki, habilidade e formas diferentes não cabem em uma única leitura permanente."
+    },
+    {
+      "id": "boo-final",
+      "title": "Boo: absorções e batalha final",
+      "era": "Z · Majin Boo",
+      "continuity": "Mangá Dragon Ball · conclusão da saga Boo",
+      "summary": "Absorções, regeneração e energia compartilhada precisam ser distinguidas."
+    },
+    {
+      "id": "deuses",
+      "title": "Batalha dos Deuses",
+      "era": "Super · deuses",
+      "continuity": "Mangá Dragon Ball Super · arco de Bills",
+      "summary": "Ki divino abre outra dimensão de treinamento; não o convertemos em pontos de scouter."
+    },
+    {
+      "id": "ressurreicao-freeza",
+      "title": "Ressurreição de Freeza",
+      "era": "Super · filme",
+      "continuity": "Filme Dragon Ball Z: Resurrection F / Ressurreição de F",
+      "summary": "As formas Blue e Golden pertencem a um novo contexto, sem uma conversão de scouter verificada aqui."
+    },
+    {
+      "id": "universo-6",
+      "title": "Torneio dos universos 6 e 7",
+      "era": "Super · mangá",
+      "continuity": "Mangá Dragon Ball Super · volumes 1–2",
+      "summary": "Regras, técnicas e leitura do adversário são parte do confronto."
+    },
+    {
+      "id": "trunks-black",
+      "title": "Trunks do Futuro e Goku Black",
+      "era": "Super · mangá",
+      "continuity": "Mangá Dragon Ball Super · arco de Trunks do Futuro",
+      "summary": "As duas adaptações têm diferenças; as fichas desta fase se referem ao mangá."
+    },
+    {
+      "id": "torneio-poder",
+      "title": "Torneio do Poder",
+      "era": "Super · anime",
+      "continuity": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "summary": "Estratégia, cooperação e resistência decidem uma competição com regras próprias."
+    },
+    {
+      "id": "broly",
+      "title": "Broly e Gogeta",
+      "era": "Super · filme",
+      "continuity": "Filme Dragon Ball Super: Broly",
+      "summary": "A adaptação durante o combate e a perda de controle não são crescimento ilimitado comprovado."
+    },
+    {
+      "id": "moro",
+      "title": "Prisioneiro da Patrulha Galáctica",
+      "era": "Super · mangá",
+      "continuity": "Mangá Dragon Ball Super · arco de Moro",
+      "summary": "Estas fichas descrevem o mangá, sem antecipar detalhes da adaptação animada anunciada."
+    },
+    {
+      "id": "granolah",
+      "title": "Granolah e Gas",
+      "era": "Super · mangá",
+      "continuity": "Mangá Dragon Ball Super · arco de Granolah",
+      "summary": "Desejos, treinamento e condições particulares alteram a disputa; números de fãs ficam fora do catálogo."
+    },
+    {
+      "id": "super-hero",
+      "title": "Super Hero",
+      "era": "Super · filme e mangá",
+      "continuity": "Dragon Ball Super: Super Hero · filme e adaptação em mangá",
+      "summary": "O desenvolvimento de Piccolo, Gohan e Pan mostra formas diferentes de crescimento."
+    },
+    {
+      "id": "daima",
+      "title": "DAIMA",
+      "era": "DAIMA",
+      "continuity": "Anime Dragon Ball DAIMA · continuidade identificada separadamente",
+      "summary": "Aparência infantil, transformações e ambiente têm regras próprias nesta aventura."
+    },
+    {
+      "id": "gt-baby",
+      "title": "GT · Baby",
+      "era": "GT",
+      "continuity": "Anime Dragon Ball GT · arco de Baby",
+      "summary": "GT é apresentado separadamente de Super e DAIMA, sem forçar uma escala conjunta."
+    },
+    {
+      "id": "gt-dragoes",
+      "title": "GT · Dragões Malignos",
+      "era": "GT",
+      "continuity": "Anime Dragon Ball GT · confronto com os Dragões Malignos",
+      "summary": "O mesmo nome de transformação não permite comparar automaticamente continuidades distintas."
+    }
+  ],
+  "records": [
+    {
+      "id": "origens-goku-1",
+      "character": "goku",
+      "phase": "origens",
+      "form": "Menino · primeiros usos de ki",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Aprende a reproduzir o Kamehameha. A fonte consultada descreve a técnica, sem fornecer uma leitura de scouter.",
+      "reference": "Mangá Dragon Ball",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_23.html"
+      ]
+    },
+    {
+      "id": "origens-bulma-1",
+      "character": "bulma",
+      "phase": "origens",
+      "form": "Inventividade e tecnologia",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Sua contribuição é científica. Não há medição de combate verificada nesta ficha; isso não equivale a ki zero.",
+      "reference": "Mangá Dragon Ball",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3933.html"
+      ]
+    },
+    {
+      "id": "origens-yamcha-1",
+      "character": "yamcha",
+      "phase": "origens",
+      "form": "Lutador do deserto",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Começa como rival e passa a integrar o grupo. O perfil consultado não atribui um índice numérico a essa fase.",
+      "reference": "Mangá Dragon Ball",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3753.html"
+      ]
+    },
+    {
+      "id": "torneio-21-goku-1",
+      "character": "goku",
+      "phase": "torneio-21",
+      "form": "Aluno de Kame",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Chega à final e enfrenta Jackie Chun. Sem medição numérica verificada para esse momento.",
+      "reference": "Mangá Dragon Ball · treinamento de Kame e 21º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_23.html"
+      ]
+    },
+    {
+      "id": "torneio-21-kuririn-1",
+      "character": "kuririn",
+      "phase": "torneio-21",
+      "form": "Aluno de Kame",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Treina com Goku e participa do torneio. A ficha registra desenvolvimento, sem converter resultados em pontos.",
+      "reference": "Mangá Dragon Ball · treinamento de Kame e 21º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_371.html"
+      ]
+    },
+    {
+      "id": "torneio-21-mestre-kame-1",
+      "character": "mestre-kame",
+      "phase": "torneio-21",
+      "form": "Jackie Chun",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Usa experiência e técnicas especiais no torneio. Derrotar um rival não fornece automaticamente uma medida de ki.",
+      "reference": "Mangá Dragon Ball · treinamento de Kame e 21º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1502.html"
+      ]
+    },
+    {
+      "id": "red-ribbon-goku-1",
+      "character": "goku",
+      "phase": "red-ribbon",
+      "form": "Antes e depois do treino com Karin",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Aprende a acompanhar os movimentos de Karin e volta a enfrentar Tao Pai Pai. Sem valor numérico verificado para as duas etapas.",
+      "reference": "Mangá Dragon Ball · Red Ribbon",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1638.html"
+      ]
+    },
+    {
+      "id": "torneio-22-goku-1",
+      "character": "goku",
+      "phase": "torneio-22",
+      "form": "Finalista",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Enfrenta Tenshinhan. Esta ficha não atribui números retroativos à disputa.",
+      "reference": "Mangá Dragon Ball · 22º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_142.html"
+      ]
+    },
+    {
+      "id": "torneio-22-tenshinhan-1",
+      "character": "tenshinhan",
+      "phase": "torneio-22",
+      "form": "Discípulo da Escola da Garça",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Confronta Goku com seu repertório de técnicas. A fonte descreve a luta, sem estabelecer uma leitura de scouter.",
+      "reference": "Mangá Dragon Ball · 22º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_142.html"
+      ]
+    },
+    {
+      "id": "torneio-22-yamcha-1",
+      "character": "yamcha",
+      "phase": "torneio-22",
+      "form": "Discípulo da Escola da Tartaruga",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Participa do torneio e enfrenta Tenshinhan. O resultado não é convertido em pontuação de ki.",
+      "reference": "Mangá Dragon Ball · 22º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2793.html"
+      ]
+    },
+    {
+      "id": "piccolo-daimaoh-goku-1",
+      "character": "goku",
+      "phase": "piccolo-daimaoh",
+      "form": "Confronto com Piccolo Daimaoh",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A evolução permite enfrentar o grande demônio. Não se trata do Piccolo Jr. que aparece depois.",
+      "reference": "Mangá Dragon Ball · Grande Rei Demônio Piccolo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_478.html"
+      ]
+    },
+    {
+      "id": "piccolo-daimaoh-mestre-kame-1",
+      "character": "mestre-kame",
+      "phase": "piccolo-daimaoh",
+      "form": "Mafuba",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Uma técnica de selamento depende de execução e cobra um custo. Seu efeito não revela um índice de ki.",
+      "reference": "Mangá Dragon Ball · Grande Rei Demônio Piccolo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_141.html"
+      ]
+    },
+    {
+      "id": "torneio-23-goku-1",
+      "character": "goku",
+      "phase": "torneio-23",
+      "form": "Adulto · finalista",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Enfrenta Piccolo Jr. na final. Sem leitura numérica verificada na fonte desta ficha.",
+      "reference": "Mangá Dragon Ball · 23º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_479.html"
+      ]
+    },
+    {
+      "id": "torneio-23-piccolo-1",
+      "character": "piccolo",
+      "phase": "torneio-23",
+      "form": "Piccolo Jr.",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Usa técnicas de ki e expansão corporal contra Goku. Tamanho do corpo não é uma escala numérica universal.",
+      "reference": "Mangá Dragon Ball · 23º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_479.html"
+      ]
+    },
+    {
+      "id": "torneio-23-chichi-1",
+      "character": "chichi",
+      "phase": "torneio-23",
+      "form": "Competidora",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Seu treinamento em artes marciais faz parte da história. O perfil não fornece uma medição para esta luta.",
+      "reference": "Mangá Dragon Ball · 23º torneio",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1412.html"
+      ]
+    },
+    {
+      "id": "raditz-goku-1",
+      "character": "goku",
+      "phase": "raditz",
+      "form": "Aliança com Piccolo",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A luta exige cooperação e cria oportunidade para o golpe de Piccolo. Esta ficha não usa valores de guias que não foram conferidos.",
+      "reference": "Mangá Dragon Ball · confronto com Raditz",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1178.html"
+      ]
+    },
+    {
+      "id": "raditz-piccolo-1",
+      "character": "piccolo",
+      "phase": "raditz",
+      "form": "Makankosappo carregado",
+      "value": 1330,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "Valor citado pelo portal oficial para a técnica contra Raditz; não é a força constante de Piccolo em repouso.",
+      "reference": "Mangá Dragon Ball · Makankosappo contra Raditz; retrospectiva oficial dos namekuseijins",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_530.html"
+      ]
+    },
+    {
+      "id": "raditz-gohan-1",
+      "character": "gohan",
+      "phase": "raditz",
+      "form": "Explosão de raiva",
+      "value": 1307,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "A medição acompanha um pico emocional durante o ataque a Raditz, não uma capacidade mantida a todo momento.",
+      "reference": "Mangá Dragon Ball · capítulo 203, citado no perfil oficial",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_503.html"
+      ]
+    },
+    {
+      "id": "nappa-saibaman-1",
+      "character": "saibaman",
+      "phase": "nappa",
+      "form": "Arma biológica",
+      "value": 1200,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "O portal oficial informa o nível dos Saibamans usados na invasão da Terra.",
+      "reference": "Mangá Dragon Ball · capítulo 214, citado no perfil oficial",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2894.html"
+      ]
+    },
+    {
+      "id": "nappa-gohan-1",
+      "character": "gohan",
+      "phase": "nappa",
+      "form": "Masenko",
+      "value": 2800,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "Pico de poder ao disparar a técnica após o sacrifício de Piccolo; a leitura se refere a essa situação.",
+      "reference": "Mangá Dragon Ball · capítulo 223, citado no perfil oficial",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_503.html"
+      ]
+    },
+    {
+      "id": "nappa-goku-1",
+      "character": "goku",
+      "phase": "nappa",
+      "form": "Chegada ao campo de batalha",
+      "value": 8000,
+      "comparison": ">",
+      "status": "confirmado",
+      "note": "O valor japonês é “mais de 8.000”. A famosa variante de 9.000 vem de uma dublagem inglesa; não misturamos as duas.",
+      "reference": "Dragon Ball Z · leitura comentada pelo portal oficial, distinguindo versões linguísticas",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_184.html"
+      ]
+    },
+    {
+      "id": "nappa-piccolo-1",
+      "character": "piccolo",
+      "phase": "nappa",
+      "form": "Proteção de Gohan",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Planeja ataques e protege seu aluno. Sem número verificado nesta etapa.",
+      "reference": "Mangá Dragon Ball · chegada de Nappa e Vegeta",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1178.html"
+      ]
+    },
+    {
+      "id": "nappa-kuririn-1",
+      "character": "kuririn",
+      "phase": "nappa",
+      "form": "Ataque disperso",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Elimina vários Saibamans com uma técnica de ki. A eficiência da técnica não fornece uma leitura constante.",
+      "reference": "Mangá Dragon Ball · chegada de Nappa e Vegeta",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2894.html"
+      ]
+    },
+    {
+      "id": "nappa-tenshinhan-1",
+      "character": "tenshinhan",
+      "phase": "nappa",
+      "form": "Confronto com Saibaman",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Derruba um Saibaman no combate inicial. Não inferimos um valor exato apenas pela vitória.",
+      "reference": "Mangá Dragon Ball · chegada de Nappa e Vegeta",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2894.html"
+      ]
+    },
+    {
+      "id": "nappa-yamcha-1",
+      "character": "yamcha",
+      "phase": "nappa",
+      "form": "Confronto com Saibaman",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "É surpreendido pela autodestruição do oponente. A morte não prova inferioridade em todos os aspectos da luta.",
+      "reference": "Mangá Dragon Ball · chegada de Nappa e Vegeta",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2894.html"
+      ]
+    },
+    {
+      "id": "vegeta-terra-goku-1",
+      "character": "goku",
+      "phase": "vegeta-terra",
+      "form": "Kaioken ×3 e ×4",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A amplificação aparece na luta e no Kamehameha contra o Galick Ho. Não multiplicamos um limite “maior que” para inventar uma leitura exata.",
+      "reference": "Mangá Dragon Ball · batalha na Terra",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3929.html"
+      ]
+    },
+    {
+      "id": "vegeta-terra-vegeta-1",
+      "character": "vegeta",
+      "phase": "vegeta-terra",
+      "form": "Forma normal e Oozaru",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Transforma-se usando uma lua artificial. Esta edição não atribui números às formas sem verificar diretamente a fonte da medição.",
+      "reference": "Mangá Dragon Ball · batalha na Terra",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3929.html"
+      ]
+    },
+    {
+      "id": "vegeta-terra-gohan-1",
+      "character": "gohan",
+      "phase": "vegeta-terra",
+      "form": "Oozaru",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A transformação participa da derrota de Vegeta. Sua condição já inclui todo o desgaste da batalha.",
+      "reference": "Mangá Dragon Ball · batalha na Terra",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_503.html"
+      ]
+    },
+    {
+      "id": "vegeta-terra-kuririn-1",
+      "character": "kuririn",
+      "phase": "vegeta-terra",
+      "form": "Genki Dama recebida de Goku",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Usa energia reunida por outra pessoa. A potência desse ataque não pode ser tratada como seu ki individual.",
+      "reference": "Mangá Dragon Ball · batalha na Terra",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3929.html"
+      ]
+    },
+    {
+      "id": "namek-chegada-vegeta-1",
+      "character": "vegeta",
+      "phase": "namek-chegada",
+      "form": "Contra Kiwi e Dodoria",
+      "value": 24000,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "Leitura informada para essa fase em Namek. Não deve ser aplicada retroativamente à invasão da Terra.",
+      "reference": "Mangá Dragon Ball · primeira fase de Vegeta em Namek, retrospectivas oficiais",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2250.html",
+        "https://en.dragon-ball-official.com/news/01_3406.html"
+      ]
+    },
+    {
+      "id": "namek-chegada-gohan-1",
+      "character": "gohan",
+      "phase": "namek-chegada",
+      "form": "Potencial em desenvolvimento",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "O grande patriarca desperta seu potencial. A ficha registra a mudança sem inventar um valor para cada minuto.",
+      "reference": "Mangá Dragon Ball · confrontos iniciais em Namek",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2250.html"
+      ]
+    },
+    {
+      "id": "namek-chegada-kuririn-1",
+      "character": "kuririn",
+      "phase": "namek-chegada",
+      "form": "Potencial em desenvolvimento",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Conhece o grande patriarca em Namek. Não se converte o potencial liberado em um índice não verificado.",
+      "reference": "Mangá Dragon Ball · confrontos iniciais em Namek",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2250.html"
+      ]
+    },
+    {
+      "id": "ginyu-goku-1",
+      "character": "goku",
+      "phase": "ginyu",
+      "form": "Poder contido",
+      "value": 5000,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "Leitura inicial do scouter. O próprio Ginyu percebe que ela não representa todo o poder de Goku.",
+      "reference": "Mangá Dragon Ball · confronto de Goku e Ginyu, perfil oficial de Ginyu",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2068.html"
+      ]
+    },
+    {
+      "id": "ginyu-goku-2",
+      "character": "goku",
+      "phase": "ginyu",
+      "form": "Kaioken · demonstração",
+      "value": 180000,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "Leitura da demonstração diante de Ginyu. Não é equivalente à medição anterior com energia contida.",
+      "reference": "Mangá Dragon Ball · capítulo 285, citado no perfil oficial de Ginyu",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2068.html"
+      ]
+    },
+    {
+      "id": "ginyu-ginyu-1",
+      "character": "ginyu",
+      "phase": "ginyu",
+      "form": "Máximo declarado no perfil",
+      "value": 120000,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "O portal oficial informa esse nível para Ginyu em seu próprio corpo; não para Ginyu no corpo de Goku.",
+      "reference": "Perfil oficial de Ginyu · capacidade no corpo original",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2068.html"
+      ]
+    },
+    {
+      "id": "freeza-formas-freeza-1",
+      "character": "freeza",
+      "phase": "freeza-formas",
+      "form": "Primeira forma",
+      "value": 530000,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "Valor atribuído à primeira forma na retrospectiva oficial. Não representa a forma final.",
+      "reference": "Perfil oficial de Freeza na segunda forma · comparação com a primeira forma",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1819.html"
+      ]
+    },
+    {
+      "id": "freeza-formas-freeza-2",
+      "character": "freeza",
+      "phase": "freeza-formas",
+      "form": "Segunda forma",
+      "value": 1000000,
+      "comparison": ">",
+      "status": "confirmado",
+      "note": "Limite inferior anunciado: o poder supera um milhão. O sinal “>” é parte essencial do registro.",
+      "reference": "Mangá Dragon Ball · capítulo 296, citado no perfil oficial",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1819.html"
+      ]
+    },
+    {
+      "id": "freeza-formas-nail-1",
+      "character": "nail",
+      "phase": "freeza-formas",
+      "form": "Antes de lutar com Freeza",
+      "value": 42000,
+      "comparison": "=",
+      "status": "confirmado",
+      "note": "Medição informada pelo portal antes da luta. A regeneração não lhe assegura vencer o adversário.",
+      "reference": "Mangá Dragon Ball · Nail contra Freeza, perfil oficial",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2250.html"
+      ]
+    },
+    {
+      "id": "freeza-formas-piccolo-1",
+      "character": "piccolo",
+      "phase": "freeza-formas",
+      "form": "Assimilação com Nail",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A união amplia sua capacidade. O perfil não fornece um índice de scouter verificado para Piccolo após a assimilação.",
+      "reference": "Mangá Dragon Ball · Freeza em Namek",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2250.html"
+      ]
+    },
+    {
+      "id": "freeza-formas-gohan-1",
+      "character": "gohan",
+      "phase": "freeza-formas",
+      "form": "Ataques sob forte emoção",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Ataca Freeza na segunda forma. Esta ficha não transfere a leitura de 2.800 da Terra para Namek.",
+      "reference": "Mangá Dragon Ball · Freeza em Namek",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1819.html"
+      ]
+    },
+    {
+      "id": "freeza-final-goku-1",
+      "character": "goku",
+      "phase": "freeza-final",
+      "form": "Super Saiyajin",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A transformação marca o duelo. Uma cifra publicada em guia precisa ter edição e referência conferidas antes de entrar no atlas.",
+      "reference": "Mangá Dragon Ball · final de Namek",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_314.html"
+      ]
+    },
+    {
+      "id": "freeza-final-freeza-1",
+      "character": "freeza",
+      "phase": "freeza-final",
+      "form": "Forma final",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A forma final é distinta das duas formas medidas acima. Não se extrapola um valor a partir do desenho ou da porcentagem de esforço.",
+      "reference": "Mangá Dragon Ball · final de Namek",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3615.html"
+      ]
+    },
+    {
+      "id": "androides-trunks-futuro-1",
+      "character": "trunks-futuro",
+      "phase": "androides",
+      "form": "Super Saiyajin",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Sua chegada muda o conflito com Freeza e antecipa a ameaça dos androides. Sem índice verificado para essa forma.",
+      "reference": "Mangá Dragon Ball · chegada de Trunks e androides",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2350.html"
+      ]
+    },
+    {
+      "id": "androides-vegeta-1",
+      "character": "vegeta",
+      "phase": "androides",
+      "form": "Super Saiyajin",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Passa a usar a transformação, mas enfrenta limites contra os androides. Não há valor numérico verificado nesta ficha.",
+      "reference": "Mangá Dragon Ball · chegada de Trunks e androides",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1235.html"
+      ]
+    },
+    {
+      "id": "androides-android-17-1",
+      "character": "android-17",
+      "phase": "androides",
+      "form": "Energia artificial",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Uma fonte artificial de energia não deve ser confundida com ki orgânico detectável da mesma maneira. Sem pontuação numérica nesta edição.",
+      "reference": "Mangá Dragon Ball · chegada de Trunks e androides",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_838.html"
+      ]
+    },
+    {
+      "id": "androides-android-18-1",
+      "character": "android-18",
+      "phase": "androides",
+      "form": "Energia artificial",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Sua capacidade não é representada aqui como zero nem como um número infinito. Ausência de leitura não significa ausência de poder.",
+      "reference": "Mangá Dragon Ball · chegada de Trunks e androides",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_838.html"
+      ]
+    },
+    {
+      "id": "androides-piccolo-1",
+      "character": "piccolo",
+      "phase": "androides",
+      "form": "União com Kami",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A reunião com Kami altera suas capacidades. A evolução é descrita sem criar um multiplicador de scouter.",
+      "reference": "Mangá Dragon Ball · chegada de Trunks e androides",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1257.html"
+      ]
+    },
+    {
+      "id": "cell-goku-1",
+      "character": "goku",
+      "phase": "cell",
+      "form": "Super Saiyajin dominado",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Trabalha o domínio da transformação. Sem leitura numérica verificada para o duelo com Cell.",
+      "reference": "Mangá Dragon Ball · Jogos de Cell",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1305.html"
+      ]
+    },
+    {
+      "id": "cell-gohan-1",
+      "character": "gohan",
+      "phase": "cell",
+      "form": "Super Saiyajin 2",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A nova transformação acompanha o desfecho do confronto. Um valor fixo de scouter não foi verificado nas fontes desta edição.",
+      "reference": "Mangá Dragon Ball · Jogos de Cell",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html"
+      ]
+    },
+    {
+      "id": "cell-vegeta-1",
+      "character": "vegeta",
+      "phase": "cell",
+      "form": "Treinamento e decisões",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Seu progresso não elimina as consequências de permitir a evolução de Cell. Sem cifra atribuída.",
+      "reference": "Mangá Dragon Ball · Jogos de Cell",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1235.html"
+      ]
+    },
+    {
+      "id": "cell-trunks-futuro-1",
+      "character": "trunks-futuro",
+      "phase": "cell",
+      "form": "Forma musculosa de Super Saiyajin",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Aumentar volume e força pode comprometer a velocidade. Esta ficha não transforma musculatura em pontuação.",
+      "reference": "Mangá Dragon Ball · Jogos de Cell",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2350.html"
+      ]
+    },
+    {
+      "id": "cell-cell-1",
+      "character": "cell",
+      "phase": "cell",
+      "form": "Perfeito e técnicas herdadas",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Combina técnicas de outros lutadores. Não somamos os supostos níveis dos doadores para calcular seu poder.",
+      "reference": "Mangá Dragon Ball · Jogos de Cell",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1258.html"
+      ]
+    },
+    {
+      "id": "cell-tenshinhan-1",
+      "character": "tenshinhan",
+      "phase": "cell",
+      "form": "Shin Kikoho",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Conter o adversário com uma técnica custosa não significa possuir o mesmo poder total que ele.",
+      "reference": "Mangá Dragon Ball · Jogos de Cell",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1235.html"
+      ]
+    },
+    {
+      "id": "boo-despertar-goku-1",
+      "character": "goku",
+      "phase": "boo-despertar",
+      "form": "Super Saiyajin 3",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A transformação amplia a força e impõe custos de energia. Sem índice numérico verificado.",
+      "reference": "Mangá Dragon Ball · início da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html"
+      ]
+    },
+    {
+      "id": "boo-despertar-vegeta-1",
+      "character": "vegeta",
+      "phase": "boo-despertar",
+      "form": "Majin Vegeta",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A mudança de estado e o confronto com Boo não produzem uma leitura oficial verificada nesta ficha.",
+      "reference": "Mangá Dragon Ball · início da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2351.html"
+      ]
+    },
+    {
+      "id": "boo-despertar-gohan-1",
+      "character": "gohan",
+      "phase": "boo-despertar",
+      "form": "Potencial liberado pelo Kaioshin",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "O despertar é descrito como desenvolvimento de potencial, sem convertê-lo em um nível de scouter inventado.",
+      "reference": "Mangá Dragon Ball · início da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html"
+      ]
+    },
+    {
+      "id": "boo-despertar-goten-1",
+      "character": "goten",
+      "phase": "boo-despertar",
+      "form": "Super Saiyajin e treino de fusão",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A transformação precoce não permite calcular sua energia por comparação com a idade de Goku.",
+      "reference": "Mangá Dragon Ball · início da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1226.html"
+      ]
+    },
+    {
+      "id": "boo-despertar-trunks-1",
+      "character": "trunks",
+      "phase": "boo-despertar",
+      "form": "Super Saiyajin e treino de fusão",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Aprende a cooperar com Goten. A fusão exige condições próprias e não equivale à soma simples de dois números.",
+      "reference": "Mangá Dragon Ball · início da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1226.html"
+      ]
+    },
+    {
+      "id": "boo-despertar-videl-1",
+      "character": "videl",
+      "phase": "boo-despertar",
+      "form": "Aprendizado de voo",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Aprende a controlar energia para voar. Saber usar ki não implica possuir uma medição numérica publicada.",
+      "reference": "Mangá Dragon Ball · início da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1292.html"
+      ]
+    },
+    {
+      "id": "boo-final-majin-boo-1",
+      "character": "majin-boo",
+      "phase": "boo-final",
+      "form": "Formas e absorções",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "As diferentes versões de Boo não recebem um único número. Poder e habilidades mudam conforme a forma e as absorções.",
+      "reference": "Mangá Dragon Ball · conclusão da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1796.html"
+      ]
+    },
+    {
+      "id": "boo-final-goku-1",
+      "character": "goku",
+      "phase": "boo-final",
+      "form": "Genki Dama final",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A técnica reúne contribuições externas. Sua potência não deve ser registrada como energia pessoal de Goku.",
+      "reference": "Mangá Dragon Ball · conclusão da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html"
+      ]
+    },
+    {
+      "id": "boo-final-vegeta-1",
+      "character": "vegeta",
+      "phase": "boo-final",
+      "form": "Sustentação do combate",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Seu papel inclui ganhar tempo para o plano coletivo. A relevância dessa ação não depende de liderar uma tabela de poder.",
+      "reference": "Mangá Dragon Ball · conclusão da saga Boo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3878.html"
+      ]
+    },
+    {
+      "id": "deuses-goku-1",
+      "character": "goku",
+      "phase": "deuses",
+      "form": "Super Saiyajin Deus",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Recebe a transformação e enfrenta Bills. A fonte não fornece equivalência numérica com leituras antigas.",
+      "reference": "Mangá Dragon Ball Super · arco de Bills",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "deuses-bills-1",
+      "character": "bills",
+      "phase": "deuses",
+      "form": "Deus da Destruição",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Sua superioridade na história não estabelece uma porcentagem fixa comparável entre todas as versões.",
+      "reference": "Mangá Dragon Ball Super · arco de Bills",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_689.html"
+      ]
+    },
+    {
+      "id": "deuses-whis-1",
+      "character": "whis",
+      "phase": "deuses",
+      "form": "Mentor angelical",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Atua como mestre e acompanhante de Bills. Sem índice numérico verificado.",
+      "reference": "Mangá Dragon Ball Super · arco de Bills",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1663.html"
+      ]
+    },
+    {
+      "id": "ressurreicao-freeza-goku-1",
+      "character": "goku",
+      "phase": "ressurreicao-freeza",
+      "form": "Super Saiyajin Blue",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Treinamento divino e controle de ki. A ficha não atribui bilhões ou trilhões à transformação.",
+      "reference": "Filme Dragon Ball Z: Resurrection F / Ressurreição de F",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1641.html"
+      ]
+    },
+    {
+      "id": "ressurreicao-freeza-vegeta-1",
+      "character": "vegeta",
+      "phase": "ressurreicao-freeza",
+      "form": "Super Saiyajin Blue",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Compartilha o aprendizado com Whis. Não inferimos igualdade numérica de dois usuários da mesma forma.",
+      "reference": "Filme Dragon Ball Z: Resurrection F / Ressurreição de F",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "ressurreicao-freeza-freeza-1",
+      "character": "freeza",
+      "phase": "ressurreicao-freeza",
+      "form": "Golden Freeza",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Forma posterior a Namek. A leitura de 530.000 da primeira forma em Namek não representa este estado.",
+      "reference": "Filme Dragon Ball Z: Resurrection F / Ressurreição de F",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1641.html"
+      ]
+    },
+    {
+      "id": "universo-6-goku-1",
+      "character": "goku",
+      "phase": "universo-6",
+      "form": "Blue contra Hit",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Enfrenta uma técnica temporal. Não misturamos a execução do mangá com combinações exclusivas da adaptação em anime.",
+      "reference": "Mangá Dragon Ball Super · volumes 1–2",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "universo-6-vegeta-1",
+      "character": "vegeta",
+      "phase": "universo-6",
+      "form": "Blue e uso de energia",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A ficha distingue domínio da técnica de uma medição numérica, ausente na fonte consultada.",
+      "reference": "Mangá Dragon Ball Super · volumes 1–2",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "trunks-black-goku-1",
+      "character": "goku",
+      "phase": "trunks-black",
+      "form": "Blue e controle",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Enfrenta Goku Black e Zamasu. Não se usa um suposto multiplicador para ranquear todas as formas divinas.",
+      "reference": "Mangá Dragon Ball Super · arco de Trunks do Futuro",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1877.html"
+      ]
+    },
+    {
+      "id": "trunks-black-vegeta-1",
+      "character": "vegeta",
+      "phase": "trunks-black",
+      "form": "Blue e aperfeiçoamento",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A evolução é tratada como técnica e preparação. Nenhuma medição de scouter foi verificada para esta etapa.",
+      "reference": "Mangá Dragon Ball Super · arco de Trunks do Futuro",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1877.html"
+      ]
+    },
+    {
+      "id": "trunks-black-trunks-futuro-1",
+      "character": "trunks-futuro",
+      "phase": "trunks-black",
+      "form": "Defesa de sua linha temporal",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "O Trunks desta ficha é o viajante do tempo. Não é o Trunks criança da linha principal.",
+      "reference": "Mangá Dragon Ball Super · arco de Trunks do Futuro",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1877.html"
+      ]
+    },
+    {
+      "id": "torneio-poder-goku-1",
+      "character": "goku",
+      "phase": "torneio-poder",
+      "form": "Instinto Superior",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A técnica envolve resposta corporal e controle. Nenhum índice universal de scouter foi verificado para esta forma.",
+      "reference": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ]
+    },
+    {
+      "id": "torneio-poder-vegeta-1",
+      "character": "vegeta",
+      "phase": "torneio-poder",
+      "form": "Super Saiyajin Blue",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Compete pelo Universo 7. A ficha não atribui cifras de fãs às transformações desta competição.",
+      "reference": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ]
+    },
+    {
+      "id": "torneio-poder-android-17-1",
+      "character": "android-17",
+      "phase": "torneio-poder",
+      "form": "Energia artificial e estratégia",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Sua atuação inclui resistência e apoio. A energia artificial não deve ser interpretada como potência ofensiva infinita.",
+      "reference": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ]
+    },
+    {
+      "id": "torneio-poder-android-18-1",
+      "character": "android-18",
+      "phase": "torneio-poder",
+      "form": "Combate em equipe",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Combina capacidade individual com cooperação. Sem leitura numérica verificada.",
+      "reference": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3484.html"
+      ]
+    },
+    {
+      "id": "torneio-poder-freeza-1",
+      "character": "freeza",
+      "phase": "torneio-poder",
+      "form": "Golden Freeza",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A participação no torneio é posterior à Ressurreição de F. Usar a mesma forma não prova energia idêntica em épocas distintas.",
+      "reference": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ]
+    },
+    {
+      "id": "torneio-poder-gohan-1",
+      "character": "gohan",
+      "phase": "torneio-poder",
+      "form": "Potencial liberado",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Combate com o Universo 7. Esta edição não atribui pontuação de scouter a seu estado.",
+      "reference": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2735.html"
+      ]
+    },
+    {
+      "id": "torneio-poder-kuririn-1",
+      "character": "kuririn",
+      "phase": "torneio-poder",
+      "form": "Técnicas e apoio",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Repertório e decisões importam em uma arena com eliminação. Sem leitura numérica verificada.",
+      "reference": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3484.html"
+      ]
+    },
+    {
+      "id": "torneio-poder-mestre-kame-1",
+      "character": "mestre-kame",
+      "phase": "torneio-poder",
+      "form": "Experiência e técnicas",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Participa apesar da distância de potência dos adversários mais fortes. Seu papel não é resumido a uma classificação numérica.",
+      "reference": "Anime Dragon Ball Super · Sobrevivência do Universo",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1305.html"
+      ]
+    },
+    {
+      "id": "broly-broly-1",
+      "character": "broly",
+      "phase": "broly",
+      "form": "Transformações durante a luta",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Seu poder cresce durante o conflito. Não inventamos leituras exatas nem um máximo infinito para representar essa progressão.",
+      "reference": "Filme Dragon Ball Super: Broly",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_941.html"
+      ]
+    },
+    {
+      "id": "broly-goku-1",
+      "character": "goku",
+      "phase": "broly",
+      "form": "Formas divinas e fusão",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Goku e Vegeta recorrem a Gogeta. A fusão é um personagem combinado, não um número individual de Goku.",
+      "reference": "Filme Dragon Ball Super: Broly",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_941.html"
+      ]
+    },
+    {
+      "id": "broly-vegeta-1",
+      "character": "vegeta",
+      "phase": "broly",
+      "form": "Formas divinas e fusão",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A mesma fusão também depende de Vegeta. Não se duplica seu poder nas duas fichas.",
+      "reference": "Filme Dragon Ball Super: Broly",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_941.html"
+      ]
+    },
+    {
+      "id": "moro-goku-1",
+      "character": "goku",
+      "phase": "moro",
+      "form": "Instinto Superior aperfeiçoado",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "O treinamento com Merus participa da evolução. A fonte não fornece leitura numérica dessa capacidade.",
+      "reference": "Mangá Dragon Ball Super · arco de Moro",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_900.html"
+      ]
+    },
+    {
+      "id": "moro-vegeta-1",
+      "character": "vegeta",
+      "phase": "moro",
+      "form": "Treino em Yardrat",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Desenvolve controle espiritual e técnicas para enfrentar a energia absorvida por Moro. Sem índice de scouter verificado.",
+      "reference": "Mangá Dragon Ball Super · arco de Moro",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2841.html"
+      ]
+    },
+    {
+      "id": "granolah-goku-1",
+      "character": "goku",
+      "phase": "granolah",
+      "form": "Variações do Instinto Superior",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Busca uma execução adequada a seu modo de lutar. Não convertemos esse aprendizado em um valor universal.",
+      "reference": "Mangá Dragon Ball Super · arco de Granolah",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1574.html"
+      ]
+    },
+    {
+      "id": "granolah-vegeta-1",
+      "character": "vegeta",
+      "phase": "granolah",
+      "form": "Ultra Ego",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Aprende com Bills uma via ligada à Destruição. O estado não autoriza concluir que sofrer dano sempre aumenta sua força sem limite.",
+      "reference": "Mangá Dragon Ball Super · arco de Granolah",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1574.html"
+      ]
+    },
+    {
+      "id": "granolah-freeza-1",
+      "character": "freeza",
+      "phase": "granolah",
+      "form": "Black Freeza",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Aparece com uma nova transformação. Nenhuma pontuação oficial verificável foi anexada a esta ficha.",
+      "reference": "Mangá Dragon Ball Super · arco de Granolah",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1574.html"
+      ]
+    },
+    {
+      "id": "granolah-bardock-1",
+      "character": "bardock",
+      "phase": "granolah",
+      "form": "Memória do confronto em Cereal",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Esta entrada é um flashback, anterior à vida adulta de Goku. Não situa Bardock como contemporâneo dessa fase.",
+      "reference": "Mangá Dragon Ball Super · arco de Granolah",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1574.html"
+      ]
+    },
+    {
+      "id": "super-hero-gohan-1",
+      "character": "gohan",
+      "phase": "super-hero",
+      "form": "Gohan Beast",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Nova transformação no confronto com Cell Max. A fonte descreve a forma, sem publicar um nível de scouter.",
+      "reference": "Dragon Ball Super: Super Hero · filme e adaptação em mangá",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2398.html"
+      ]
+    },
+    {
+      "id": "super-hero-piccolo-1",
+      "character": "piccolo",
+      "phase": "super-hero",
+      "form": "Orange Piccolo",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "O potencial despertado ganha nova expressão. Esta ficha não estabelece uma equivalência numérica com Bills ou Goku.",
+      "reference": "Dragon Ball Super: Super Hero · filme e adaptação em mangá",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_2398.html"
+      ]
+    },
+    {
+      "id": "super-hero-pan-1",
+      "character": "pan",
+      "phase": "super-hero",
+      "form": "Primeiro voo",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Aprender a voar é uma conquista de controle de ki. Não atribuímos um índice de combate a esse marco.",
+      "reference": "Dragon Ball Super: Super Hero · filme e adaptação em mangá",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ]
+    },
+    {
+      "id": "super-hero-goten-1",
+      "character": "goten",
+      "phase": "super-hero",
+      "form": "Jovem · fusão com Trunks",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A execução da fusão influencia o resultado. Nenhuma pontuação foi inferida a partir do efeito cômico.",
+      "reference": "Dragon Ball Super: Super Hero · filme e adaptação em mangá",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ]
+    },
+    {
+      "id": "super-hero-trunks-1",
+      "character": "trunks",
+      "phase": "super-hero",
+      "form": "Jovem · fusão com Goten",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "O Trunks desta fase pertence à linha principal. Sem número verificado nesta edição.",
+      "reference": "Dragon Ball Super: Super Hero · filme e adaptação em mangá",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_1878.html"
+      ]
+    },
+    {
+      "id": "daima-goku-1",
+      "character": "goku",
+      "phase": "daima",
+      "form": "Super Saiyajin 4 · DAIMA",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Versão da transformação identificada oficialmente como DAIMA. Não se usa o mesmo número imaginário da versão de GT.",
+      "reference": "Anime Dragon Ball DAIMA · continuidade identificada separadamente",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3980.html"
+      ]
+    },
+    {
+      "id": "daima-vegeta-1",
+      "character": "vegeta",
+      "phase": "daima",
+      "form": "Super Saiyajin 3 · DAIMA",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A forma é identificada pelo material oficial referente a DAIMA. Sem índice numérico verificado.",
+      "reference": "Anime Dragon Ball DAIMA · continuidade identificada separadamente",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3449.html"
+      ]
+    },
+    {
+      "id": "gt-baby-goku-1",
+      "character": "goku",
+      "phase": "gt-baby",
+      "form": "Super Saiyajin 4 · GT",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "Transformação associada ao confronto com Baby. A ficha não importa estatísticas de jogos para o anime.",
+      "reference": "Anime Dragon Ball GT · arco de Baby",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3786.html"
+      ]
+    },
+    {
+      "id": "gt-baby-vegeta-1",
+      "character": "vegeta",
+      "phase": "gt-baby",
+      "form": "Hospedeiro de Baby",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "O estado de possessão exige contexto. Não é uma simples leitura do Vegeta independente da influência de Baby.",
+      "reference": "Anime Dragon Ball GT · arco de Baby",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_3786.html"
+      ]
+    },
+    {
+      "id": "gt-dragoes-goku-1",
+      "character": "goku",
+      "phase": "gt-dragoes",
+      "form": "Super Saiyajin 4 · confronto final",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A forma de GT permanece separada da de DAIMA. Não importamos os atributos das cartas ou dos jogos como medição da obra.",
+      "reference": "Anime Dragon Ball GT · confronto com os Dragões Malignos",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_4031.html"
+      ]
+    },
+    {
+      "id": "gt-dragoes-vegeta-1",
+      "character": "vegeta",
+      "phase": "gt-dragoes",
+      "form": "Super Saiyajin 4 · GT",
+      "value": null,
+      "comparison": null,
+      "status": "sem-numero",
+      "note": "A participação de Vegeta nessa forma é identificada no material oficial. Sem cifra numérica verificada.",
+      "reference": "Anime Dragon Ball GT · confronto com os Dragões Malignos",
+      "sources": [
+        "https://en.dragon-ball-official.com/news/01_4031.html"
+      ]
+    }
+  ]
+}

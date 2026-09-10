@@ -1,5 +1,16 @@
 document.documentElement.classList.add("js");
 const menu = document.querySelector("[data-menu]");
+const closeMenu = () => {
+  menu?.setAttribute("aria-expanded", "false");
+  document.querySelector(".navigation")?.classList.toggle("is-open", false);
+};
+document.addEventListener?.("keydown", (event) => {
+  if (event.key === "Escape" && menu?.getAttribute("aria-expanded") === "true") {
+    closeMenu();
+    menu.focus();
+  }
+});
+document.querySelectorAll(".navigation a").forEach((link) => link.addEventListener("click", closeMenu));
 menu?.addEventListener("click", () => {
   const expanded = menu.getAttribute("aria-expanded") === "true";
   menu.setAttribute("aria-expanded", String(!expanded));

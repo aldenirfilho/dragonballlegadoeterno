@@ -15,6 +15,8 @@
     if (installed()) setStatus("Você está usando o Legado Eterno como aplicativo.");
   }
   window.addEventListener("beforeinstallprompt", (event) => {
+    // Nas outras páginas, deixe o navegador oferecer sua instalação normal.
+    if (!install) return;
     event.preventDefault();
     pendingInstall = event;
     displayInstallState();

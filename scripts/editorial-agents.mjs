@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
+import { validateKi } from "./ki-page.mjs";
 export const normalize = (value) =>
   String(value)
     .normalize("NFD")
@@ -84,6 +85,11 @@ if (
     news = read("content/news.json"),
     images = read("content/images.json");
   const result = inspect(data, news, images);
+  const ki = read("content/ki.json");
+  result.problems.push(...validateKi(ki));
+  result.totals.kiPhases = ki.phases.length;
+  result.totals.kiRecords = ki.records.length;
+  result.totals.kiVerifiedValues = ki.records.filter((r) => r.value !== null).length;
   fs.mkdirSync("artifacts", { recursive: true });
   const text = [
     "# Relatório dos agentes editoriais",

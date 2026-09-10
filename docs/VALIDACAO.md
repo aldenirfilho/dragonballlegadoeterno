@@ -47,3 +47,13 @@ O resultado de publicação deve ser conferido no histórico do GitHub Actions e
 - Ícones: PNGs com dimensões verificadas; ícone de 512 pixels inspecionado visualmente.
 - Revisão independente encontrou fallback relativo em URL aninhada e cache removido não recomposto; ambos corrigidos com testes de regressão.
 - Homologação manual em macOS, Windows, iOS/iPadOS e Android permanece pendente. Não foi executado teste de interface no navegador nesta entrega.
+
+## Atlas do Ki — 10/09/2026, versão 1.2.0
+
+- Build concluído: 46 páginas, 76 recursos offline.
+- `npm test`: 26 testes passaram.
+- `npm run audit:content`: catálogo e atlas sem problemas estruturais.
+- `git diff --check` e sintaxe dos scripts modificados sem falhas.
+- 29 fases, 101 registros e 12 leituras numéricas verificadas.
+- As validações do navegador usam simulação; a instalação e o uso em dispositivos reais permanecem sem homologação nesta atualização.
+- Metodologia, fontes, correções e reversão documentadas em `ATLAS_DO_KI.md`.
