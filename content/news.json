@@ -1,6 +1,18 @@
 {
-  "checkedAt": "2026-09-05",
+  "checkedAt": "2026-09-14",
   "items": [
+    {
+      "id": "super-beerus-pre-estreia-nycc-2026",
+      "title": "Beerus terá pré-estreia do primeiro episódio na New York Comic Con",
+      "type": "Evento",
+      "status": "Pré-estreia presencial anunciada",
+      "publishedAt": "2026-09-14",
+      "summary": "O episódio de abertura de Dragon Ball Super: Beerus terá uma exibição presencial antecipada em Nova York em 8 de outubro de 2026, antes da estreia japonesa de 11 de outubro.",
+      "details": "O painel acontece das 12h às 12h45, no horário local de Nova York, no Empire Stage do Javits Center. A participação exige reserva prévia. A sessão já havia sido anunciada em 3 de setembro e foi reafirmada em um comunicado do portal oficial de 14 de setembro. A expressão pré-estreia mundial descreve essa sessão do episódio 1; o comunicado não confirma transmissão online mundial, estreia brasileira ou novo longa-metragem.",
+      "sourceUrl": "https://en.dragon-ball-official.com/news/01_4439.html",
+      "sourceName": "Dragon Ball Official Site",
+      "territory": "Estados Unidos — evento presencial em Nova York; distribuição brasileira não confirmada nesta fonte"
+    },
     {
       "id": "super-beerus-estreia-2026",
       "title": "Dragon Ball Super: Beerus tem estreia japonesa marcada para 11 de outubro",

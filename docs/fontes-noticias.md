@@ -1,8 +1,18 @@
 # Dragon Ball — verificação editorial
 
-Consulta e corte editorial: **5 de setembro de 2026**. Seis registros em `noticias.json`. `publishedAt` é a data de publicação da fonte; não é a data de estreia. Resumos autorais em português brasileiro. Não foram usados rumores como confirmação.
+Consulta inicial: **5 de setembro de 2026**. Revisão mais recente: **14 de setembro de 2026**, com sete registros em `content/news.json`. `publishedAt` é a data de publicação da fonte utilizada; não é a data de estreia nem necessariamente a do primeiro anúncio. Resumos autorais em português brasileiro. Não foram usados rumores como confirmação.
 
-## Conclusões para a página pública
+## Revisão de 14 de setembro de 2026
+
+- **Lacuna preenchida:** pré-estreia presencial do episódio 1 de Beerus na New York Comic Con, em 08/10/2026, das 12h às 12h45 no horário local, no Empire Stage do Javits Center. Exige reserva prévia. A data japonesa de 11/10 continua distinta; não foi confirmada estreia brasileira nas fontes alcançadas.
+- **Cronologia:** a sessão já constava do [comunicado de 03/09](https://en.dragon-ball-official.com/news/01_4425.html). Foi reafirmada no [comunicado de 14/09](https://en.dragon-ball-official.com/news/01_4439.html), usado no novo registro. Não apresentar os dados do painel como anúncio inédito de hoje.
+- **Corroboração:** a [página especial oficial em inglês](https://en.dragon-ball-official.com/special/nycc/), sua [versão japonesa](https://dragon-ball-official.com/special/nycc/) e o [organizador da NYCC](https://www.newyorkcomiccon.com/) confirmam o evento de 2026. A página especial informa duração, local e reserva.
+- **Inconsistências das fontes:** o comunicado de 14/09 contém um rodapé residual com datas de 2024; a página especial combina “UTC-5/EDT”. A proposta usa o ano de 2026 corroborado pelas outras páginas e somente o horário local, sem reproduzir o rodapé ou converter o fuso.
+- **Cobertura:** foram consultados o portal oficial, notícias da [Toei Europa](https://www.toei-animation.com/news/), comunicados da [Toei EUA](https://www.toei-animation-usa.com/press-release.html), Crunchyroll Brasil e Paris Filmes. O comunicado original de Galactic Patrol e a fonte histórica da Paris Filmes permanecem acessíveis. Não foi localizado novo anúncio de temporada de DAIMA, longa futuro, data de Galactic Patrol ou distribuição brasileira de Beerus nesse recorte.
+- **Limitação de acesso:** os anúncios da Crunchyroll foram conferidos pelo conteúdo indexado; as aberturas diretas não forneceram corpo legível. Para o final de DAIMA, a [notícia brasileira equivalente de 07/02/2025](https://www.crunchyroll.com/pt-br/news/latest/2025/2/7/dragon-ball-daima-episodio-final-episode-data) corrobora o registro histórico. Não foi conferido o catálogo integral de streaming nem a programação de todas as salas de cinema. A data de revisão não representa cobertura universal.
+- **Revisão humana pendente:** conferir a redação e as fontes acima antes de incorporar a proposta. Esta curadoria prepara um pull request em rascunho; não autoriza merge nem publicação automática.
+
+## Base editorial de 5 de setembro de 2026
 
 - **Dragon Ball Super: Beerus:** estreia japonesa anunciada para **11/10/2026**; ainda não estreou no corte. É a edição aprimorada de Super, distinta da continuação Galactic Patrol. Não converter a data japonesa em data brasileira.
 - **Dragon Ball Super: The Galactic Patrol:** produção anunciada em **25/01/2026**, após Sobrevivência do Universo e envolvendo Moro. O comunicado não confirma estreia, episódios, Granolah ou distribuição no Brasil.
