@@ -1,6 +1,16 @@
 # Dragon Ball — verificação editorial
 
-Consulta inicial: **5 de setembro de 2026**. Revisão mais recente: **14 de setembro de 2026**, com sete registros em `content/news.json`. `publishedAt` é a data de publicação da fonte utilizada; não é a data de estreia nem necessariamente a do primeiro anúncio. Resumos autorais em português brasileiro. Não foram usados rumores como confirmação.
+Consulta inicial: **5 de setembro de 2026**. Revisão mais recente: **9 de outubro de 2026**, com oito registros em `content/news.json`. `publishedAt` é a data de publicação da fonte utilizada; não é a data de estreia nem necessariamente a do primeiro anúncio. Resumos autorais em português brasileiro. Não foram usados rumores como confirmação.
+
+## Revisão de 9 de outubro de 2026
+
+- **Evento realizado:** o [relato oficial japonês de 09/10](https://dragon-ball-official.com/news/01_4509.html) confirma a sessão do episódio 1 de Beerus na NYCC em 08/10, data local. O status foi atualizado por evidência de realização, não apenas pela passagem do dia. A fonte anterior do anúncio permanece registrada na seção de setembro e no histórico Git.
+- **Distribuição confirmada:** o [anúncio da Crunchyroll de 05/10](https://www.crunchyroll.com/news/announcements/2026/10/5/dragon-ball-super-beerus-anime-stream-crunchyroll) informa 11/10 e América Latina. Seu texto foi recuperado pelo índice de busca, também na [rota localizada que exibe o comunicado em inglês](https://www.crunchyroll.com/ko/news/announcements/2026/10/5/dragon-ball-super-beerus-anime-stream-crunchyroll); a abertura direta retornou corpo vazio na extração.
+- **Corroboração brasileira:** a [programação em português brasileiro](https://www.crunchyroll.com/pt-br/news/seasonal-lineup/2026/9/15/animes-temporada-outubro-2026-crunchyroll), atualizada em 05/10, inclui Beerus em 11/10 para a América Latina. A [versão inglesa](https://www.crunchyroll.com/news/seasonal-lineup/2026/9/15/fall-anime-2026-crunchyroll) mantém horário a anunciar. As listas confirmam distribuição; não foram usadas para prometer dublagem pt-BR.
+- **Data divergente em fonte auxiliar:** o [PDF público da Toei](https://toei-animation-usa.com/press-releases/pressrelease-10-11-26.pdf), acessível nesta consulta, explicita Brasil entre os territórios da Crunchyroll. O [índice da Toei](https://toei-animation-usa.com/press-release.html) o identifica como 11/10/2026, data futura em relação ao corte. Por isso, não foi usado como prova de anúncio publicado em 09/10 nem para definir `publishedAt`; a proposta se apoia no anúncio anterior da própria distribuidora.
+- **Datas e versões:** em 09/10, a pré-estreia presencial já ocorreu e a estreia regular de 11/10 ainda é futura. Japão e streaming latino-americano têm registros separados. A lista de plataformas do [site oficial de Beerus](https://dragonball-super.com/en/) não basta para atribuir data, idioma ou janela brasileira a Netflix e Disney+.
+- **Cobertura e pendências:** portal Dragon Ball, Toei e distribuidoras consultadas não trouxeram nova data de Galactic Patrol, segunda temporada de DAIMA ou novo longa confirmado neste recorte. Conteúdo indexado pode estar defasado; não houve acesso ao catálogo completo nem a todas as sessões de cinema. Confirmar horário e idiomas em anúncio específico, sem completar lacunas com rumores.
+- **Revisão humana:** proposta em rascunho no PR existente. Nenhum merge ou publicação está autorizado por esta curadoria. Não houve prévia visual nesta execução em segundo plano.
 
 ## Revisão de 14 de setembro de 2026
 
