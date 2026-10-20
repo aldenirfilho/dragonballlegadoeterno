@@ -58,6 +58,11 @@ export function inspect(data, news, images) {
       !date.test(n.publishedAt)
     )
       problems.push(`Notícia incompleta: ${n.id}`);
+    if (
+      Object.hasOwn(n, "sourceDateType") &&
+      !["publication", "release"].includes(n.sourceDateType)
+    )
+      problems.push(`Tipo de data da fonte inválido: ${n.id}`);
     if (n.publishedAt > news.checkedAt)
       problems.push(`Notícia futura em relação ao corte: ${n.id}`);
   }
