@@ -1,17 +1,42 @@
 {
-  "checkedAt": "2026-09-05",
+  "checkedAt": "2026-10-12",
   "items": [
     {
+      "id": "super-beerus-crunchyroll-america-latina-2026",
+      "title": "Beerus: primeiro episódio lançado na Crunchyroll com legendas em português",
+      "type": "Streaming",
+      "status": "Episódio 1 lançado",
+      "publishedAt": "2026-10-11",
+      "sourceDateType": "release",
+      "summary": "A página do primeiro episódio de Dragon Ball Super: Beerus na Crunchyroll registra lançamento em 11 de outubro de 2026 e legendas em português brasileiro. A distribuição anunciada para a América Latina inclui o Brasil.",
+      "details": "O registro público de The God Who Destroys lista áudio japonês e legendas em português brasileiro. Não foi localizada confirmação de dublagem pt-BR nas fontes consultadas. O anúncio de distribuição da Crunchyroll e o comunicado da Toei corroboram o território brasileiro. Esta atualização documenta o lançamento do episódio 1; não garante acesso por qualquer conta ou disponibilidade permanente do catálogo. Beerus é a edição aprimorada de Super, distinta da continuação The Galactic Patrol.",
+      "sourceUrl": "https://www.crunchyroll.com/pt-pt/watch/GE00389313JAJP/episode-1",
+      "sourceName": "Crunchyroll — página pública do episódio 1",
+      "territory": "América Latina, incluindo Brasil; episódio 1 com áudio japonês e legendas pt-BR; dublagem brasileira não confirmada"
+    },
+    {
       "id": "super-beerus-estreia-2026",
-      "title": "Dragon Ball Super: Beerus tem estreia japonesa marcada para 11 de outubro",
+      "title": "Dragon Ball Super: Beerus já está em exibição no Japão",
       "type": "Anime",
-      "status": "Estreia anunciada",
+      "status": "Em exibição no Japão",
       "publishedAt": "2026-09-03",
-      "summary": "A edição aprimorada de Dragon Ball Super estreia no Japão em 11 de outubro de 2026. Na data desta consulta, a estreia ainda é futura.",
-      "details": "O comunicado oficial de 3 de setembro também apresentou o trailer Super Surge. Beerus é uma nova edição de Super, com cenas adicionadas ou refeitas e narrativa reconstruída; deve ser distinguido da continuação The Galactic Patrol. O anúncio consultado não confirma data, plataforma ou dublagem para o Brasil.",
+      "summary": "O site oficial japonês informa que a edição aprimorada de Dragon Ball Super está em exibição semanal pela rede Fuji TV. A estreia de 11 de outubro de 2026 havia sido anunciada em setembro.",
+      "details": "Na consulta de 12 de outubro, o site oficial da série (https://dragonball-super.com/) indica exibição aos domingos, às 23h15 no horário japonês, e apresenta o episódio 1. Essa indicação de exibição em andamento fundamenta a atualização do status. O link abaixo preserva o anúncio de 3 de setembro, cuja data permanece neste registro; a página de programação não informa quando foi atualizada. Beerus traz cenas adicionadas ou refeitas e narrativa reconstruída. A continuação The Galactic Patrol é outra produção, e a distribuição brasileira de Beerus está documentada separadamente neste radar.",
       "sourceUrl": "https://en.dragon-ball-official.com/news/01_4425.html",
-      "sourceName": "Dragon Ball Official Site",
-      "territory": "Japão; lançamento no Brasil não confirmado nesta fonte"
+      "sourceName": "Dragon Ball Official Site — anúncio original de 03/09/2026",
+      "territory": "Japão — rede Fuji TV, domingos às 23h15 no horário local; streaming latino-americano em registro separado"
+    },
+    {
+      "id": "super-beerus-pre-estreia-nycc-2026",
+      "title": "Episódio de abertura de Beerus teve pré-estreia na New York Comic Con",
+      "type": "Evento",
+      "status": "Pré-estreia presencial realizada",
+      "publishedAt": "2026-10-09",
+      "summary": "O portal oficial confirmou que o primeiro episódio de Dragon Ball Super: Beerus foi exibido em 8 de outubro de 2026, em Nova York, antes da estreia regular de 11 de outubro.",
+      "details": "O relato publicado em 9 de outubro informa que o painel no Javits Center reuniu cerca de 3 mil fãs. A programação incluiu os dubladores Jason Douglas, Ian Sinclair e Monica Rial, além de mensagens gravadas de Masako Nozawa e Koichi Yamadera. Foi uma sessão presencial antecipada do episódio 1, distinta do lançamento em streaming e de um novo longa-metragem. A confirmação da Crunchyroll para a América Latina está registrada separadamente neste radar.",
+      "sourceUrl": "https://dragon-ball-official.com/news/01_4509.html",
+      "sourceName": "Dragon Ball Official Site — relato oficial em japonês",
+      "territory": "Estados Unidos — sessão realizada em Nova York em 08/10/2026, no horário local"
     },
     {
       "id": "super-galactic-patrol-producao",
@@ -68,7 +93,7 @@
       "status": "Lançamento histórico de 2025",
       "publishedAt": "2025-01-08",
       "summary": "A Paris Filmes anunciou a estreia dos três primeiros episódios dublados nos cinemas do Brasil para 6 de fevereiro de 2025.",
-      "details": "O especial reúne episódios da série e não é um longa com história inédita. A data é um registro de lançamento passado; não comprova sessões em cartaz em setembro de 2026. Nesta pesquisa não foi confirmado um novo filme de Dragon Ball em cartaz no Brasil ou um novo longa com estreia futura oficialmente anunciada.",
+      "details": "O especial reúne episódios da série e não é um longa com história inédita. A data é um registro de lançamento passado; não comprova sessões atualmente em cartaz. Nesta pesquisa não foi confirmado um novo filme de Dragon Ball em cartaz no Brasil ou um novo longa com estreia futura oficialmente anunciada.",
       "sourceUrl": "https://www.parisfilmes.com.br/paris-filmes-anuncia-exibicao-nos-cinemas-dos-primeiros-episodios-dublados-de-dragon-ball-daima/",
       "sourceName": "Paris Filmes — distribuidora brasileira",
       "territory": "Brasil; estreia histórica em 06/02/2025"

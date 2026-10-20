@@ -79,8 +79,10 @@ function characterCard(c) {
     .map((x) => `<span class="pill">${esc(x)}</span>`)
     .join("")}</div></div></a>`;
 }
+const newsDateLabel = (n, publicationLabel) =>
+  n.sourceDateType === "release" ? "Episódio lançado em" : publicationLabel;
 const newsCard = (n) =>
-  `<article class="news-card" data-search="${esc(n.title + " " + n.type + " " + n.summary)}" data-group="${esc(n.type)}"><div class="meta"><span class="status">● ${esc(n.status)}</span> · ${esc(n.type)}</div><h3>${esc(n.title)}</h3><p>${esc(n.summary)}</p><p class="meta">${esc(n.territory)}</p><a href="noticia-${esc(n.id)}.html">Entenda o anúncio →</a><p class="meta">Fonte publicada em ${new Date(n.publishedAt + "T12:00:00Z").toLocaleDateString("pt-BR")}</p></article>`;
+  `<article class="news-card" data-search="${esc(n.title + " " + n.type + " " + n.summary)}" data-group="${esc(n.type)}"><div class="meta"><span class="status">● ${esc(n.status)}</span> · ${esc(n.type)}</div><h3>${esc(n.title)}</h3><p>${esc(n.summary)}</p><p class="meta">${esc(n.territory)}</p><a href="noticia-${esc(n.id)}.html">Entenda o anúncio →</a><p class="meta">${newsDateLabel(n, "Fonte publicada em")} ${new Date(n.publishedAt + "T12:00:00Z").toLocaleDateString("pt-BR")}</p></article>`;
 const entries = [];
 const nav = [
   ["index.html", "Início"],
@@ -210,7 +212,7 @@ for (const n of news.items)
     n.title,
     n.summary,
     head(n.title, n.status, n.type) +
-      `<div class="wrap reading-layout"><article class="prose"><p class="meta">Publicado pela fonte em ${new Date(n.publishedAt + "T12:00:00Z").toLocaleDateString("pt-BR")} · Conferido em ${new Date(news.checkedAt + "T12:00:00Z").toLocaleDateString("pt-BR")}</p>${para(n.summary)}${para(n.details)}<div class="notice">${esc(n.territory)}</div><p><a href="${esc(n.sourceUrl)}" rel="noopener noreferrer" target="_blank">Ler o anúncio original em ${esc(n.sourceName)} ↗</a></p><p>As informações podem ser atualizadas pelas produtoras e distribuidoras. Uma estreia japonesa não confirma automaticamente uma estreia brasileira.</p><a href="noticias.html" class="button">← Voltar ao radar</a></article><aside class="reading-aside"><h2>Critério editorial</h2><p>Fontes primárias, datas explícitas e nenhuma conversão de rumor em anúncio.</p><a href="sobre.html">Conheça nossa política</a></aside></div>`,
+      `<div class="wrap reading-layout"><article class="prose"><p class="meta">${newsDateLabel(n, "Publicado pela fonte em")} ${new Date(n.publishedAt + "T12:00:00Z").toLocaleDateString("pt-BR")} · Conferido em ${new Date(news.checkedAt + "T12:00:00Z").toLocaleDateString("pt-BR")}</p>${para(n.summary)}${para(n.details)}<div class="notice">${esc(n.territory)}</div><p><a href="${esc(n.sourceUrl)}" rel="noopener noreferrer" target="_blank">Ler o anúncio original em ${esc(n.sourceName)} ↗</a></p><p>As informações podem ser atualizadas pelas produtoras e distribuidoras. Uma estreia japonesa não confirma automaticamente uma estreia brasileira.</p><a href="noticias.html" class="button">← Voltar ao radar</a></article><aside class="reading-aside"><h2>Critério editorial</h2><p>Fontes primárias, datas explícitas e nenhuma conversão de rumor em anúncio.</p><a href="sobre.html">Conheça nossa política</a></aside></div>`,
     "noticias.html",
   );
 page(

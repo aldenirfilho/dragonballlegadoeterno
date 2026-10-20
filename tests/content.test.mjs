@@ -28,6 +28,26 @@ test("catalogador rejeita IDs duplicados, fonte ausente e data futura", () => {
   assert.ok(issues.some((x) => x.includes("fonte ausente")));
   assert.ok(issues.some((x) => x.includes("futura")));
 });
+test("catalogador aceita os tipos de data previstos e rejeita valores inválidos", () => {
+  for (const value of ["publication", "release"]) {
+    const candidate = structuredClone(news);
+    candidate.items[0].sourceDateType = value;
+    assert.deepEqual(inspect(db, candidate, arts).problems, []);
+  }
+  const withoutType = structuredClone(news);
+  delete withoutType.items[0].sourceDateType;
+  assert.deepEqual(inspect(db, withoutType, arts).problems, []);
+  for (const value of ["premiere", "", null, 0]) {
+    const candidate = structuredClone(news);
+    candidate.items[0].sourceDateType = value;
+    assert.ok(
+      inspect(db, candidate, arts).problems.includes(
+        `Tipo de data da fonte inválido: ${candidate.items[0].id}`,
+      ),
+      `Valor não permitido: ${JSON.stringify(value)}`,
+    );
+  }
+});
 test("todas as páginas têm conteúdo, idioma, descrição e um h1", () => {
   const pages = fs.readdirSync("dist").filter((f) => f.endsWith(".html"));
   assert.ok(pages.length >= 40);
@@ -80,6 +100,40 @@ test("notícias preservam origem, território e data; site não inclui rastreado
         fs.readFileSync("dist/" + f, "utf8"),
       ),
     );
+});
+test("notícias distinguem lançamento e publicação nos cards e nas páginas", () => {
+  const release = news.items.find(
+    (n) => n.id === "super-beerus-crunchyroll-america-latina-2026",
+  );
+  assert.ok(release, "Registro de lançamento do episódio 1");
+  assert.equal(release.sourceDateType, "release");
+  for (const file of ["index.html", "noticias.html"]) {
+    const html = fs.readFileSync("dist/" + file, "utf8");
+    const cards = [...html.matchAll(/<article class="news-card"[^>]*>[\s\S]*?<\/article>/g)]
+      .map((match) => match[0]);
+    const expected = file === "index.html" ? news.items.slice(0, 3) : news.items;
+    assert.equal(cards.length, expected.length, file);
+    for (const n of expected) {
+      const card = cards.find((value) => value.includes(`href="noticia-${n.id}.html"`));
+      assert.ok(card, `${file}: ${n.id}`);
+      const date = new Date(n.publishedAt + "T12:00:00Z").toLocaleDateString("pt-BR");
+      const label = n.id === release.id ? "Episódio lançado em" : "Fonte publicada em";
+      assert.ok(card.includes(`<p class="meta">${label} ${date}</p>`), `${file}: ${n.id}`);
+      if (n.id === release.id) assert.ok(!card.includes("Fonte publicada em"));
+      else assert.ok(!card.includes("Episódio lançado em"));
+    }
+  }
+  for (const n of news.items) {
+    const html = fs.readFileSync(`dist/noticia-${n.id}.html`, "utf8");
+    const date = new Date(n.publishedAt + "T12:00:00Z").toLocaleDateString("pt-BR");
+    const label = n.id === release.id ? "Episódio lançado em" : "Publicado pela fonte em";
+    assert.ok(
+      html.includes(`<p class="meta">${label} ${date} · Conferido em`),
+      n.id,
+    );
+    if (n.id === release.id) assert.ok(!html.includes("Publicado pela fonte em"));
+    else assert.ok(!html.includes("Episódio lançado em"));
+  }
 });
 test("404 resolve navegação a partir da raiz canônica", () => {
   const html = fs.readFileSync("dist/404.html", "utf8");
