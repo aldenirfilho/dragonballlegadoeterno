@@ -102,11 +102,16 @@ test("notícias preservam origem, território e data; site não inclui rastreado
     );
 });
 test("notícias distinguem lançamento e publicação nos cards e nas páginas", () => {
-  const release = news.items.find(
-    (n) => n.id === "super-beerus-crunchyroll-america-latina-2026",
-  );
-  assert.ok(release, "Registro de lançamento do episódio 1");
-  assert.equal(release.sourceDateType, "release");
+  const releases = new Map([
+    ["super-beerus-crunchyroll-america-latina-2026", "2026-10-11"],
+    ["super-beerus-dublagem-portugues-2026", "2026-11-12"],
+  ]);
+  for (const [id, releasedAt] of releases) {
+    const item = news.items.find((n) => n.id === id);
+    assert.ok(item, `Registro de lançamento: ${id}`);
+    assert.equal(item.sourceDateType, "release", id);
+    assert.equal(item.publishedAt, releasedAt, id);
+  }
   for (const file of ["index.html", "noticias.html"]) {
     const html = fs.readFileSync("dist/" + file, "utf8");
     const cards = [...html.matchAll(/<article class="news-card"[^>]*>[\s\S]*?<\/article>/g)]
@@ -117,21 +122,21 @@ test("notícias distinguem lançamento e publicação nos cards e nas páginas",
       const card = cards.find((value) => value.includes(`href="noticia-${n.id}.html"`));
       assert.ok(card, `${file}: ${n.id}`);
       const date = new Date(n.publishedAt + "T12:00:00Z").toLocaleDateString("pt-BR");
-      const label = n.id === release.id ? "Episódio lançado em" : "Fonte publicada em";
+      const label = releases.has(n.id) ? "Episódio lançado em" : "Fonte publicada em";
       assert.ok(card.includes(`<p class="meta">${label} ${date}</p>`), `${file}: ${n.id}`);
-      if (n.id === release.id) assert.ok(!card.includes("Fonte publicada em"));
+      if (releases.has(n.id)) assert.ok(!card.includes("Fonte publicada em"));
       else assert.ok(!card.includes("Episódio lançado em"));
     }
   }
   for (const n of news.items) {
     const html = fs.readFileSync(`dist/noticia-${n.id}.html`, "utf8");
     const date = new Date(n.publishedAt + "T12:00:00Z").toLocaleDateString("pt-BR");
-    const label = n.id === release.id ? "Episódio lançado em" : "Publicado pela fonte em";
+    const label = releases.has(n.id) ? "Episódio lançado em" : "Publicado pela fonte em";
     assert.ok(
       html.includes(`<p class="meta">${label} ${date} · Conferido em`),
       n.id,
     );
-    if (n.id === release.id) assert.ok(!html.includes("Publicado pela fonte em"));
+    if (releases.has(n.id)) assert.ok(!html.includes("Publicado pela fonte em"));
     else assert.ok(!html.includes("Episódio lançado em"));
   }
 });
